@@ -1,0 +1,105 @@
+{
+  "image": "frankfurt_000001_057478_leftImg8bit.png",
+  "class_ids": [
+    0,
+    1,
+    2,
+    7,
+    100,
+    116,
+    119,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "truck",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        0,
+        311,
+        1091,
+        522
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        221,
+        373,
+        1096,
+        483
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        745,
+        289,
+        1450,
+        1023
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        1126,
+        295,
+        1267,
+        405
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        342,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        1406,
+        377
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        1351,
+        0,
+        1504,
+        145
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        433
+      ]
+    }
+  ]
+}

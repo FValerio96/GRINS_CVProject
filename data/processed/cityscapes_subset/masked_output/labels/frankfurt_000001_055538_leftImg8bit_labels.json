@@ -1,0 +1,141 @@
+{
+  "image": "frankfurt_000001_055538_leftImg8bit.png",
+  "class_ids": [
+    0,
+    1,
+    2,
+    25,
+    100,
+    107,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "umbrella",
+    "road",
+    "tent",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        451,
+        306,
+        2047,
+        576
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        1813,
+        396,
+        2047,
+        580
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        1678,
+        375,
+        2047,
+        857
+      ]
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        1153,
+        293,
+        1564,
+        370
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        476,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 107,
+      "class_name": "tent",
+      "bbox": [
+        1246,
+        300,
+        1538,
+        372
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        1179,
+        0,
+        1994,
+        480
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        1513,
+        403,
+        1658,
+        497
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        1966,
+        0,
+        2047,
+        241
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        496,
+        1307,
+        1023
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        603
+      ]
+    }
+  ]
+}

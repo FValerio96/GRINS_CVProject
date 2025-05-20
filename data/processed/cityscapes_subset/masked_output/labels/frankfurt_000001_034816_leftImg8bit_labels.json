@@ -1,0 +1,117 @@
+{
+  "image": "frankfurt_000001_034816_leftImg8bit.png",
+  "class_ids": [
+    5,
+    7,
+    80,
+    100,
+    115,
+    116,
+    117,
+    123,
+    129
+  ],
+  "class_names": [
+    "bus",
+    "truck",
+    "banner",
+    "road",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        1135,
+        173,
+        1582,
+        546
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        1376,
+        545,
+        1385,
+        547
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        135,
+        436,
+        274,
+        512
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        479,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        532,
+        947,
+        1716,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        503
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        395,
+        871,
+        508
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        456,
+        2047,
+        894
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        1820,
+        511
+      ]
+    }
+  ]
+}

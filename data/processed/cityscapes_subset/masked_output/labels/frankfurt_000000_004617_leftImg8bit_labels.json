@@ -1,0 +1,129 @@
+{
+  "image": "frankfurt_000000_004617_leftImg8bit.png",
+  "class_ids": [
+    0,
+    2,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        1143,
+        389,
+        1190,
+        437
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        436,
+        384,
+        1114,
+        482
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        20,
+        0,
+        576,
+        357
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        420,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        465
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        253,
+        403,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        130,
+        0,
+        1429,
+        290
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        446,
+        2047,
+        936
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        1203,
+        410,
+        2047,
+        676
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        388,
+        0,
+        1412,
+        365
+      ]
+    }
+  ]
+}

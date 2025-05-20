@@ -1,0 +1,141 @@
+{
+  "image": "frankfurt_000000_017228_leftImg8bit.png",
+  "class_ids": [
+    0,
+    2,
+    3,
+    9,
+    11,
+    100,
+    116,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "motorcycle",
+    "traffic light",
+    "stop sign",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        990,
+        377,
+        1061,
+        436
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        159,
+        365,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        991,
+        429,
+        1062,
+        475
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        0,
+        87,
+        11,
+        116
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        99,
+        0,
+        835,
+        274
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        397,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        517
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        362,
+        0,
+        1256,
+        248
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        420,
+        550,
+        924
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        104,
+        862,
+        425
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        1764,
+        419,
+        2047,
+        511
+      ]
+    }
+  ]
+}

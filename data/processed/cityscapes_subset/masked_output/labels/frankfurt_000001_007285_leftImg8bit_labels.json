@@ -1,0 +1,141 @@
+{
+  "image": "frankfurt_000001_007285_leftImg8bit.png",
+  "class_ids": [
+    0,
+    2,
+    5,
+    7,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bus",
+    "truck",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        223,
+        348,
+        1951,
+        501
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        344,
+        1258,
+        863
+      ]
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        241,
+        905,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        1002,
+        456,
+        1004,
+        463
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        97,
+        353,
+        245,
+        426
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        427,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        781,
+        469
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        441,
+        127,
+        2047,
+        882
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        1198,
+        293
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        256,
+        442,
+        2047,
+        884
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        508
+      ]
+    }
+  ]
+}

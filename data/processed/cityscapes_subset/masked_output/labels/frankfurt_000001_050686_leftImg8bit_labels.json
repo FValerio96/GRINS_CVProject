@@ -1,0 +1,141 @@
+{
+  "image": "frankfurt_000001_050686_leftImg8bit.png",
+  "class_ids": [
+    0,
+    2,
+    5,
+    7,
+    9,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bus",
+    "truck",
+    "traffic light",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        1926,
+        357,
+        2047,
+        416
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        1235,
+        304,
+        2047,
+        517
+      ]
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        0,
+        43,
+        589,
+        899
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        1901,
+        413,
+        1929,
+        500
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        1456,
+        0,
+        1660,
+        191
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        399,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        443
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        244,
+        910,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        572,
+        0,
+        1513,
+        250
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        563,
+        438,
+        2047,
+        978
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        1984,
+        281
+      ]
+    }
+  ]
+}

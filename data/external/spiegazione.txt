@@ -1,0 +1,7 @@
+
+macro_classes_with_colors.xlsx fornisce tre cose fondamentali:
+
+Colonna	         |   Scopo
+Original Labels	 |   I nomi delle classi che il modello Mask2Former può restituire (es. "car", "person")
+RGB	             |   Il colore con cui colorare i pixel di quella classe nell’immagine finale
+New Class	     |   Raggruppamento in macro-classi (es. "Vehicle", "Human", ecc.) usato per il conteggio pixel nel CSV

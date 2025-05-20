@@ -1,0 +1,153 @@
+{
+  "image": "frankfurt_000001_032018_leftImg8bit.png",
+  "class_ids": [
+    0,
+    1,
+    2,
+    5,
+    9,
+    12,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "bus",
+    "traffic light",
+    "parking meter",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        155,
+        344,
+        1927,
+        1023
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        1576,
+        412,
+        1911,
+        550
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        284,
+        1519,
+        810
+      ]
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        281,
+        899,
+        1537,
+        1023
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        334,
+        174,
+        536,
+        326
+      ]
+    },
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        1854,
+        430,
+        2047,
+        543
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        456,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        1910,
+        454,
+        2026,
+        545
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        348,
+        964,
+        585,
+        984
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        967,
+        0,
+        1213,
+        248
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        1515,
+        481,
+        2047,
+        723
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        569
+      ]
+    }
+  ]
+}

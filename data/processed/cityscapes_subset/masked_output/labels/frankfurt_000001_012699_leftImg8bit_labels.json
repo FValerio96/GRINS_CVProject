@@ -1,0 +1,117 @@
+{
+  "image": "frankfurt_000001_012699_leftImg8bit.png",
+  "class_ids": [
+    0,
+    1,
+    24,
+    74,
+    100,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "backpack",
+    "clock",
+    "road",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        71,
+        301,
+        2047,
+        541
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        1718,
+        416,
+        1830,
+        542
+      ]
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        1524,
+        331,
+        1577,
+        382
+      ]
+    },
+    {
+      "class_id": 74,
+      "class_name": "clock",
+      "bbox": [
+        1509,
+        38,
+        1537,
+        73
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        418,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        431,
+        1350,
+        1023
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        1130,
+        0,
+        1384,
+        219
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        1364,
+        454,
+        2047,
+        829
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        633
+      ]
+    }
+  ]
+}

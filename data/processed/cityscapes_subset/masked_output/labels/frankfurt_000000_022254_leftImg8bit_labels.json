@@ -1,0 +1,141 @@
+{
+  "image": "frankfurt_000000_022254_leftImg8bit.png",
+  "class_ids": [
+    0,
+    1,
+    2,
+    3,
+    9,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "motorcycle",
+    "traffic light",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        0,
+        294,
+        1422,
+        580
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        0,
+        377,
+        1581,
+        615
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        668,
+        336,
+        1233,
+        497
+      ]
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        545,
+        425,
+        1426,
+        659
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        86,
+        41,
+        377,
+        181
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        407,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        590,
+        0,
+        1129,
+        430
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        257,
+        919,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        960,
+        0,
+        1156,
+        319
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        451,
+        2047,
+        647
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        506
+      ]
+    }
+  ]
+}

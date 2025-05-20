@@ -1,0 +1,141 @@
+{
+  "image": "frankfurt_000000_009969_leftImg8bit.png",
+  "class_ids": [
+    0,
+    1,
+    2,
+    28,
+    100,
+    115,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "suitcase",
+    "road",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        1183,
+        276,
+        1951,
+        1023
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        1321,
+        402,
+        1425,
+        500
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        341,
+        566,
+        711
+      ]
+    },
+    {
+      "class_id": 28,
+      "class_name": "suitcase",
+      "bbox": [
+        1791,
+        371,
+        1810,
+        473
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        390,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        553,
+        969,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        416
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        1426,
+        334,
+        2047,
+        476
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        506,
+        0,
+        1729,
+        248
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        1200,
+        415,
+        2047,
+        937
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        439,
+        0,
+        2047,
+        437
+      ]
+    }
+  ]
+}

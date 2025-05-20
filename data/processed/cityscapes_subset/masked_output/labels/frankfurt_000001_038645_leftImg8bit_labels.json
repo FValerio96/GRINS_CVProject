@@ -1,0 +1,141 @@
+{
+  "image": "frankfurt_000001_038645_leftImg8bit.png",
+  "class_ids": [
+    0,
+    1,
+    2,
+    5,
+    80,
+    98,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "bus",
+    "banner",
+    "railroad",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        2037,
+        359,
+        2047,
+        368
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        1799,
+        408,
+        2047,
+        655
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        64,
+        376,
+        1590,
+        508
+      ]
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        429,
+        924,
+        1946,
+        1023
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        0,
+        230,
+        50,
+        508
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        36,
+        421,
+        1120,
+        633
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        405,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        1315,
+        320
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        1475,
+        0,
+        1575,
+        328
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        450,
+        1819,
+        648
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        526
+      ]
+    }
+  ]
+}

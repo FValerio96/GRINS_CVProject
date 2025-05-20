@@ -1,0 +1,153 @@
+{
+  "image": "frankfurt_000001_055172_leftImg8bit.png",
+  "class_ids": [
+    0,
+    1,
+    26,
+    36,
+    86,
+    91,
+    100,
+    115,
+    117,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "handbag",
+    "skateboard",
+    "door-stuff",
+    "house",
+    "road",
+    "window-other",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        123,
+        275,
+        1861,
+        1023
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        113,
+        441,
+        256,
+        681
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        244,
+        429,
+        1367,
+        563
+      ]
+    },
+    {
+      "class_id": 36,
+      "class_name": "skateboard",
+      "bbox": [
+        635,
+        674,
+        747,
+        718
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        1303,
+        292,
+        1512,
+        404
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        188,
+        318,
+        686,
+        490
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        598,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        603,
+        0,
+        2047,
+        404
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        449,
+        932,
+        2047,
+        1023
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        466,
+        2047,
+        724
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        2047,
+        576
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        175,
+        268,
+        1763,
+        551
+      ]
+    }
+  ]
+}
