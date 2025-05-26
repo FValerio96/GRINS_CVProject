@@ -1,0 +1,81 @@
+{
+  "image": "image_154_155_heading_270.jpg",
+  "class_ids": [
+    0,
+    100,
+    107,
+    116,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "road",
+    "tent",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        18,
+        255,
+        350,
+        300
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        277,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 107,
+      "class_name": "tent",
+      "bbox": [
+        275,
+        199,
+        511,
+        304
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        37,
+        83,
+        245
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        5,
+        273,
+        511,
+        374
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        318
+      ]
+    }
+  ]
+}

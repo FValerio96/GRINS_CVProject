@@ -1,0 +1,141 @@
+{
+  "image": "image_931_932_heading_180.jpg",
+  "class_ids": [
+    0,
+    2,
+    13,
+    90,
+    100,
+    116,
+    117,
+    119,
+    123,
+    126,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bench",
+    "gravel",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        193,
+        270,
+        202,
+        294
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        385,
+        257,
+        462,
+        282
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        82,
+        280,
+        154,
+        300
+      ]
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        285,
+        221,
+        365
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        262,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        417,
+        295
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        281,
+        144,
+        314
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        145,
+        0,
+        494,
+        232
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        297,
+        211,
+        423
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        283,
+        209,
+        320
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        401,
+        0,
+        511,
+        276
+      ]
+    }
+  ]
+}

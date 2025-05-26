@@ -1,0 +1,141 @@
+{
+  "image": "image_403_404_heading_0.jpg",
+  "class_ids": [
+    0,
+    2,
+    13,
+    24,
+    56,
+    100,
+    116,
+    119,
+    123,
+    126,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bench",
+    "backpack",
+    "chair",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        32,
+        304,
+        75,
+        383
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        279,
+        259,
+        511,
+        377
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        193,
+        315,
+        250,
+        368
+      ]
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        36,
+        306,
+        61,
+        330
+      ]
+    },
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        63,
+        332,
+        100,
+        377
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        261,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        172,
+        167,
+        245,
+        301
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        222,
+        0,
+        511,
+        222
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        279,
+        327,
+        371
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        3,
+        312,
+        216,
+        375
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        324
+      ]
+    }
+  ]
+}

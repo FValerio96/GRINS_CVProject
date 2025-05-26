@@ -1,0 +1,129 @@
+{
+  "image": "image_303_304_heading_0.jpg",
+  "class_ids": [
+    5,
+    7,
+    80,
+    92,
+    100,
+    117,
+    118,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "bus",
+    "truck",
+    "banner",
+    "light",
+    "road",
+    "fence-merged",
+    "ceiling-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        253,
+        276,
+        290,
+        317
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        253,
+        278,
+        290,
+        307
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        0,
+        65,
+        141,
+        147
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        306,
+        204,
+        319,
+        222
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        119,
+        291,
+        462,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        137,
+        292,
+        247,
+        327
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        27,
+        144,
+        345,
+        228
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        321,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        420,
+        291
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        459
+      ]
+    }
+  ]
+}

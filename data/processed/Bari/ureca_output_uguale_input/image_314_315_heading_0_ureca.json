@@ -1,0 +1,126 @@
+{
+  "image": "image_314_315_heading_0.jpg",
+  "class_ids": [
+    2,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        327,
+        265,
+        489,
+        366
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        335,
+        471
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        262,
+        270,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the street is empty, the street is empty, the street is empty, the street is empty"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        320,
+        183,
+        369,
+        249
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        271,
+        272,
+        294,
+        313
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        76,
+        0,
+        511,
+        239
+      ],
+      "caption": "describe the sky in the image above the street in the village of agia"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        158,
+        271,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the street is empty, the car is parked on the sidewalk"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        221,
+        26,
+        511,
+        363
+      ],
+      "caption": "describe the building in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        4,
+        178,
+        173,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

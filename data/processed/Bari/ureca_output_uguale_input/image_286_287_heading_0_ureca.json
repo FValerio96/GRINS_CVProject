@@ -1,0 +1,113 @@
+{
+  "image": "image_286_287_heading_0.jpg",
+  "class_ids": [
+    2,
+    3,
+    100,
+    116,
+    117,
+    119,
+    123,
+    131
+  ],
+  "class_names": [
+    "car",
+    "motorcycle",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        421,
+        275,
+        511,
+        323
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        0,
+        320,
+        134,
+        392
+      ],
+      "caption": "describe the motorcycle in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        296,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image above the photo, you can see the parking lot at the corner of the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        285
+      ],
+      "caption": "describe the tree in the image, you can see the tree in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        428,
+        267,
+        434,
+        268
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        115,
+        0,
+        511,
+        189
+      ],
+      "caption": "describe the sky in the image, the sky is blue and the sky is clear"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        361,
+        139,
+        393
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        246,
+        511,
+        374
+      ],
+      "caption": "describe the wall in the image below the wall is the wall of the house"
+    }
+  ]
+}

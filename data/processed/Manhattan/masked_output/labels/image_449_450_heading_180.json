@@ -1,0 +1,105 @@
+{
+  "image": "image_449_450_heading_180.jpg",
+  "class_ids": [
+    2,
+    9,
+    82,
+    100,
+    118,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "traffic light",
+    "bridge",
+    "road",
+    "ceiling-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        352,
+        270,
+        511,
+        329
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        386,
+        186,
+        399,
+        201
+      ]
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        0,
+        511,
+        252
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        268,
+        511,
+        381
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        173,
+        0,
+        482,
+        119
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        255
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        317,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        275
+      ]
+    }
+  ]
+}

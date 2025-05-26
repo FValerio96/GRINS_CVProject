@@ -1,0 +1,141 @@
+{
+  "image": "image_317_318_heading_270.jpg",
+  "class_ids": [
+    0,
+    7,
+    14,
+    82,
+    100,
+    107,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "truck",
+    "bird",
+    "bridge",
+    "road",
+    "tent",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        65,
+        266,
+        101,
+        280
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        438,
+        240,
+        511,
+        282
+      ]
+    },
+    {
+      "class_id": 14,
+      "class_name": "bird",
+      "bbox": [
+        279,
+        188,
+        284,
+        191
+      ]
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        110,
+        149,
+        511,
+        288
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        264,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 107,
+      "class_name": "tent",
+      "bbox": [
+        0,
+        237,
+        131,
+        270
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        64,
+        0,
+        511,
+        264
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        245,
+        328,
+        288
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        230
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        257,
+        436,
+        309
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        196,
+        145,
+        288
+      ]
+    }
+  ]
+}

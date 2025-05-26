@@ -1,0 +1,81 @@
+{
+  "image": "image_147_148_heading_270.jpg",
+  "class_ids": [
+    61,
+    86,
+    115,
+    118,
+    129,
+    131
+  ],
+  "class_names": [
+    "toilet",
+    "door-stuff",
+    "window-other",
+    "ceiling-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 61,
+      "class_name": "toilet",
+      "bbox": [
+        430,
+        315,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        0,
+        199,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        69,
+        172,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        62,
+        0,
+        511,
+        126
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        4,
+        0,
+        62,
+        4
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "image": "image_297_298_heading_270.jpg",
+  "class_ids": [
+    2,
+    5,
+    7,
+    9,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "bus",
+    "truck",
+    "traffic light",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        11,
+        259,
+        488,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        487,
+        246,
+        511,
+        292
+      ],
+      "caption": "describe the bus in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        39,
+        278,
+        39,
+        278
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        0,
+        169,
+        91,
+        264
+      ],
+      "caption": "describe the traffic light in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        254,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street view from the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        230,
+        199,
+        511,
+        275
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        249
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        304,
+        74,
+        403
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        139,
+        378,
+        279
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

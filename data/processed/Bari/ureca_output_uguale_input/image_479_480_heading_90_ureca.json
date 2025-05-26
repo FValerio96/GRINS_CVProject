@@ -1,0 +1,100 @@
+{
+  "image": "image_479_480_heading_90.jpg",
+  "class_ids": [
+    2,
+    100,
+    116,
+    119,
+    123,
+    125,
+    130
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        262,
+        511,
+        307
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        441,
+        286,
+        511,
+        332
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        367
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        406,
+        0,
+        511,
+        111
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        414,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        280,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        0,
+        279,
+        66,
+        319
+      ],
+      "caption": "describe the rock in the image below"
+    }
+  ]
+}

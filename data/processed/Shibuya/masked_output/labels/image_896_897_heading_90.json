@@ -1,0 +1,141 @@
+{
+  "image": "image_896_897_heading_90.jpg",
+  "class_ids": [
+    2,
+    7,
+    10,
+    11,
+    58,
+    85,
+    100,
+    109,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "fire hydrant",
+    "stop sign",
+    "potted plant",
+    "curtain",
+    "road",
+    "wall-brick",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        251,
+        125,
+        471
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        74,
+        313,
+        75,
+        336
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        178,
+        363,
+        191,
+        366
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        176,
+        304,
+        192,
+        367
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        431,
+        266,
+        495,
+        313
+      ]
+    },
+    {
+      "class_id": 85,
+      "class_name": "curtain",
+      "bbox": [
+        44,
+        260,
+        224,
+        376
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        13,
+        349,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        454,
+        312,
+        492,
+        337
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        47,
+        100,
+        60,
+        112
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        230,
+        316,
+        511,
+        387
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        356
+      ]
+    }
+  ]
+}

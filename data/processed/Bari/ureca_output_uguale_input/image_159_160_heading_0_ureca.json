@@ -1,0 +1,113 @@
+{
+  "image": "image_159_160_heading_0.jpg",
+  "class_ids": [
+    2,
+    91,
+    100,
+    116,
+    117,
+    119,
+    125,
+    129
+  ],
+  "class_names": [
+    "car",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        262,
+        231,
+        294
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        227,
+        29,
+        268
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        268,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        16,
+        185,
+        511,
+        282
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        8,
+        267,
+        511,
+        329
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        259
+      ],
+      "caption": "describe the sky in the image above"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        226,
+        243,
+        511,
+        281
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        25,
+        230,
+        29,
+        232
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "image": "image_208_209_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    7,
+    10,
+    11,
+    100,
+    116,
+    119,
+    123,
+    125,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "truck",
+    "fire hydrant",
+    "stop sign",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        151,
+        281,
+        151,
+        284
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        107,
+        262,
+        511,
+        298
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        401,
+        287,
+        409,
+        289
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        151,
+        270,
+        161,
+        291
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        164,
+        235,
+        178,
+        245
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        14,
+        275,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        149,
+        511,
+        350
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        203
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        286,
+        408,
+        471
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        22,
+        290,
+        511,
+        347
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        292,
+        61,
+        369
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        63,
+        511,
+        275
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        323,
+        259,
+        447,
+        289
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "image": "image_615_616_heading_0.jpg",
+  "class_ids": [
+    0,
+    2,
+    7,
+    24,
+    86,
+    87,
+    106,
+    109,
+    115,
+    118,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "truck",
+    "backpack",
+    "door-stuff",
+    "floor-wood",
+    "stairs",
+    "wall-brick",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        360,
+        270,
+        465,
+        471
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        379,
+        227,
+        432,
+        274
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        379,
+        223,
+        432,
+        273
+      ]
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        373,
+        305,
+        410,
+        384
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        96,
+        172,
+        174,
+        313
+      ]
+    },
+    {
+      "class_id": 87,
+      "class_name": "floor-wood",
+      "bbox": [
+        217,
+        304,
+        377,
+        370
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        409,
+        297,
+        413,
+        304
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        0,
+        511,
+        407
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        0,
+        194,
+        136
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        216
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        215,
+        273,
+        421,
+        400
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        262,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        305
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        39,
+        511,
+        313
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "image": "image_256_257_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    3,
+    13,
+    56,
+    88,
+    100,
+    115,
+    116,
+    117,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "motorcycle",
+    "bench",
+    "chair",
+    "flower",
+    "road",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        7,
+        256,
+        238,
+        315
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        293,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        182,
+        312,
+        243,
+        363
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        156,
+        315,
+        201,
+        340
+      ]
+    },
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        133,
+        293,
+        511,
+        359
+      ]
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        89,
+        284,
+        109,
+        287
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        295,
+        232,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        289,
+        27,
+        376,
+        73
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        297,
+        304
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        242,
+        290,
+        282,
+        323
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        277,
+        511,
+        412
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        346
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        241,
+        291,
+        242,
+        294
+      ]
+    }
+  ]
+}

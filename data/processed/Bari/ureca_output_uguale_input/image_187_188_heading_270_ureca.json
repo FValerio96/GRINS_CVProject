@@ -1,0 +1,100 @@
+{
+  "image": "image_187_188_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    7,
+    100,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "truck",
+    "road",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        211,
+        273,
+        456,
+        406
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        258,
+        304,
+        450
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        293,
+        259,
+        511,
+        397
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        263,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the white van in the middle of the street"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        126,
+        0,
+        334,
+        230
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        324
+      ],
+      "caption": "describe the building in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        25,
+        297,
+        65,
+        322
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

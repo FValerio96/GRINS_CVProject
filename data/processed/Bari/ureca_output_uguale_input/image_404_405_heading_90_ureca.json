@@ -1,0 +1,165 @@
+{
+  "image": "image_404_405_heading_90.jpg",
+  "class_ids": [
+    0,
+    3,
+    86,
+    91,
+    92,
+    100,
+    110,
+    115,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "motorcycle",
+    "door-stuff",
+    "house",
+    "light",
+    "road",
+    "wall-stone",
+    "window-other",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        404,
+        296,
+        428,
+        353
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        422,
+        304,
+        511,
+        436
+      ],
+      "caption": "describe the motorcycle in the image"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        28,
+        263,
+        189,
+        471
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        306,
+        3,
+        511,
+        253
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        238,
+        17,
+        326,
+        114
+      ],
+      "caption": "describe the light in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        254,
+        354,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        191,
+        306,
+        304,
+        471
+      ],
+      "caption": "describe the wall in the image"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        30,
+        0,
+        319,
+        471
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        320,
+        0,
+        455,
+        115
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        224,
+        304,
+        435,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        25,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        307,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

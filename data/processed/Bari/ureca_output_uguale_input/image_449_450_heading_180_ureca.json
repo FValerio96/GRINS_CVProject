@@ -1,0 +1,139 @@
+{
+  "image": "image_449_450_heading_180.jpg",
+  "class_ids": [
+    0,
+    2,
+    3,
+    58,
+    100,
+    116,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "motorcycle",
+    "potted plant",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        314,
+        283,
+        462,
+        310
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        267,
+        376,
+        385
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        262,
+        268,
+        511,
+        343
+      ],
+      "caption": "describe the motorcycle in the image"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        105,
+        279,
+        456,
+        400
+      ],
+      "caption": "describe the potted plant in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        289,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        432,
+        248,
+        499,
+        294
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        127,
+        0,
+        511,
+        213
+      ],
+      "caption": "describe the sky in the image above the photo is the street view of the city of tel in tel"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        283,
+        511,
+        396
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        300
+      ],
+      "caption": "describe the building in the image above, the building is the hotel of the hotel"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        21,
+        355,
+        35,
+        367
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

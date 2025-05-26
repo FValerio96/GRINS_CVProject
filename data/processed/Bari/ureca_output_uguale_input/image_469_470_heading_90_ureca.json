@@ -1,0 +1,152 @@
+{
+  "image": "image_469_470_heading_90.jpg",
+  "class_ids": [
+    2,
+    7,
+    91,
+    99,
+    100,
+    116,
+    119,
+    123,
+    124,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "house",
+    "river",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "mountain-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        107,
+        257,
+        254,
+        309
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        203,
+        259,
+        208,
+        262
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        161,
+        270,
+        165,
+        271
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 99,
+      "class_name": "river",
+      "bbox": [
+        431,
+        240,
+        511,
+        273
+      ],
+      "caption": "describe the river in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        261,
+        485,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the sea"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        106,
+        511,
+        400
+      ],
+      "caption": "describe the tree in the image, you can see the road and the trees in the picture"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        242
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        307,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        441,
+        204,
+        511,
+        242
+      ],
+      "caption": "describe the mountain in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        99,
+        221,
+        511,
+        285
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        262,
+        344,
+        326
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

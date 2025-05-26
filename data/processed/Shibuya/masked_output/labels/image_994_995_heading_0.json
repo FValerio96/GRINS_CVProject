@@ -1,0 +1,105 @@
+{
+  "image": "image_994_995_heading_0.jpg",
+  "class_ids": [
+    0,
+    1,
+    13,
+    80,
+    100,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "bench",
+    "banner",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        0,
+        246,
+        221,
+        292
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        0,
+        288,
+        328,
+        308
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        284,
+        277,
+        303,
+        288
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        67,
+        0,
+        148,
+        119
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        281,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        325,
+        0,
+        372,
+        184
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        22,
+        272,
+        511,
+        360
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        308
+      ]
+    }
+  ]
+}

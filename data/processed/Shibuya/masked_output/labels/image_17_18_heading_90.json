@@ -1,0 +1,57 @@
+{
+  "image": "image_17_18_heading_90.jpg",
+  "class_ids": [
+    13,
+    110,
+    117,
+    119
+  ],
+  "class_names": [
+    "bench",
+    "wall-stone",
+    "fence-merged",
+    "sky-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        143,
+        402,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        107,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        169
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        490,
+        0,
+        511,
+        13
+      ]
+    }
+  ]
+}

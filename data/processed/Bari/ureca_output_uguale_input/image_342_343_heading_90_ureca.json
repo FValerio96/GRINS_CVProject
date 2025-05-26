@@ -1,0 +1,87 @@
+{
+  "image": "image_342_343_heading_90.jpg",
+  "class_ids": [
+    100,
+    116,
+    117,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        279,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        236,
+        432,
+        304
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        356,
+        476,
+        471
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ],
+      "caption": "describe the sky in the image above the street view of the parking lot"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        289,
+        144,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        87,
+        243,
+        511,
+        327
+      ],
+      "caption": "describe the grass in the image"
+    }
+  ]
+}

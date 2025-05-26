@@ -1,0 +1,139 @@
+{
+  "image": "image_159_160_heading_270.jpg",
+  "class_ids": [
+    2,
+    5,
+    11,
+    82,
+    100,
+    116,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "car",
+    "bus",
+    "stop sign",
+    "bridge",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        351,
+        245,
+        511,
+        292
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        396,
+        241,
+        485,
+        295
+      ],
+      "caption": "describe the bus in the image"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        126,
+        196,
+        169,
+        304
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        328,
+        218,
+        511,
+        252
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        259,
+        252,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        42,
+        194,
+        511,
+        342
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        235
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        275,
+        340,
+        471
+      ],
+      "caption": "describe the pavement in the image, the pavement is a bit of the pavement"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        232,
+        209,
+        289
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        509,
+        257,
+        511,
+        259
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

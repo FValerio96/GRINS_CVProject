@@ -1,0 +1,141 @@
+{
+  "image": "image_659_660_heading_0.jpg",
+  "class_ids": [
+    0,
+    7,
+    9,
+    100,
+    101,
+    117,
+    118,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "truck",
+    "traffic light",
+    "road",
+    "roof",
+    "fence-merged",
+    "ceiling-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        300,
+        278,
+        335,
+        376
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        361,
+        185,
+        511,
+        446
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        357,
+        230,
+        367,
+        253
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        66,
+        274,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        313,
+        0,
+        511,
+        144
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        165,
+        268,
+        357,
+        283
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        303,
+        0,
+        511,
+        205
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        140,
+        0,
+        455,
+        89
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        297,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        417
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        370,
+        84,
+        434
+      ]
+    }
+  ]
+}

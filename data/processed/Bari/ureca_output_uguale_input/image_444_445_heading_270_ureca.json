@@ -1,0 +1,165 @@
+{
+  "image": "image_444_445_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    7,
+    58,
+    82,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "truck",
+    "potted plant",
+    "bridge",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        119,
+        279,
+        119,
+        293
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        257,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        307,
+        288,
+        348,
+        324
+      ],
+      "caption": "describe the truck in the image below"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        119,
+        278,
+        121,
+        295
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        11,
+        177,
+        116,
+        243
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        19,
+        264,
+        461,
+        471
+      ],
+      "caption": "describe the road in the image above, the street is a very narrow street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        95,
+        52,
+        234,
+        308
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        182,
+        117,
+        288
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        344,
+        225
+      ],
+      "caption": "describe the sky in the image of the apartment building"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        58,
+        289,
+        129,
+        317
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        345
+      ],
+      "caption": "describe the building in the image, you can see the street view of the building"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        273,
+        112,
+        321
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

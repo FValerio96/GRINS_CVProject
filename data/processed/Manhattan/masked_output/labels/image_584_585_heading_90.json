@@ -1,0 +1,141 @@
+{
+  "image": "image_584_585_heading_90.jpg",
+  "class_ids": [
+    0,
+    39,
+    72,
+    85,
+    92,
+    104,
+    111,
+    118,
+    120,
+    128,
+    131
+  ],
+  "class_names": [
+    "person",
+    "bottle",
+    "refrigerator",
+    "curtain",
+    "light",
+    "shelf",
+    "wall-tile",
+    "ceiling-merged",
+    "cabinet-merged",
+    "food-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        401,
+        306,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 39,
+      "class_name": "bottle",
+      "bbox": [
+        93,
+        280,
+        456,
+        471
+      ]
+    },
+    {
+      "class_id": 72,
+      "class_name": "refrigerator",
+      "bbox": [
+        0,
+        211,
+        319,
+        471
+      ]
+    },
+    {
+      "class_id": 85,
+      "class_name": "curtain",
+      "bbox": [
+        376,
+        217,
+        511,
+        329
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        0,
+        511,
+        205
+      ]
+    },
+    {
+      "class_id": 104,
+      "class_name": "shelf",
+      "bbox": [
+        240,
+        278,
+        466,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        167,
+        511,
+        357
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        187
+      ]
+    },
+    {
+      "class_id": 120,
+      "class_name": "cabinet-merged",
+      "bbox": [
+        381,
+        185,
+        385,
+        188
+      ]
+    },
+    {
+      "class_id": 128,
+      "class_name": "food-other-merged",
+      "bbox": [
+        60,
+        344,
+        285,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        380,
+        133,
+        511,
+        313
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "image": "image_416_417_heading_0.jpg",
+  "class_ids": [
+    0,
+    10,
+    13,
+    24,
+    26,
+    86,
+    100,
+    106,
+    116,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "fire hydrant",
+    "bench",
+    "backpack",
+    "handbag",
+    "door-stuff",
+    "road",
+    "stairs",
+    "tree-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        106,
+        268,
+        390,
+        385
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        407,
+        360,
+        415,
+        385
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        15,
+        306,
+        27,
+        318
+      ]
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        363,
+        298,
+        378,
+        311
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        100,
+        287,
+        385,
+        335
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        493,
+        239,
+        511,
+        289
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        283,
+        440,
+        471
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        467,
+        289,
+        511,
+        303
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        332
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        291,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        446,
+        297,
+        468,
+        306
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        171,
+        511,
+        314
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        303,
+        221,
+        333,
+        281
+      ]
+    }
+  ]
+}

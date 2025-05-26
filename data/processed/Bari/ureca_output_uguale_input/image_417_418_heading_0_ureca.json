@@ -1,0 +1,87 @@
+{
+  "image": "image_417_418_heading_0.jpg",
+  "class_ids": [
+    86,
+    91,
+    106,
+    117,
+    118,
+    122
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "stairs",
+    "fence-merged",
+    "ceiling-merged",
+    "floor-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        39,
+        202,
+        511,
+        471
+      ],
+      "caption": "describe the door in the image, you can see the entrance to the house"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        400,
+        53,
+        471
+      ],
+      "caption": "describe the stairs in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        0,
+        38,
+        29
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        445,
+        125
+      ],
+      "caption": "describe the ceiling in the image below"
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        402,
+        227,
+        471
+      ],
+      "caption": "describe the floor in the image below"
+    }
+  ]
+}

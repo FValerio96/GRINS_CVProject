@@ -1,0 +1,117 @@
+{
+  "image": "image_653_654_heading_270.jpg",
+  "class_ids": [
+    2,
+    13,
+    82,
+    109,
+    116,
+    117,
+    123,
+    125,
+    131
+  ],
+  "class_names": [
+    "car",
+    "bench",
+    "bridge",
+    "wall-brick",
+    "tree-merged",
+    "fence-merged",
+    "pavement-merged",
+    "grass-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        150,
+        229,
+        236,
+        246
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        427,
+        267,
+        456,
+        302
+      ]
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        346,
+        248,
+        446,
+        471
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        509,
+        468,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        342,
+        248,
+        435,
+        307
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        349,
+        258,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        247,
+        359,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        150,
+        250,
+        434,
+        471
+      ]
+    }
+  ]
+}

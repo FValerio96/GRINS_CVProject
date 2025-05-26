@@ -1,0 +1,105 @@
+{
+  "image": "image_663_664_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    36,
+    96,
+    100,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "skateboard",
+    "platform",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        128,
+        257,
+        502,
+        423
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        325,
+        245,
+        446,
+        285
+      ]
+    },
+    {
+      "class_id": 36,
+      "class_name": "skateboard",
+      "bbox": [
+        333,
+        325,
+        345,
+        338
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        0,
+        343,
+        143,
+        450
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        252,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        349,
+        0,
+        431,
+        226
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        166,
+        294,
+        275,
+        346
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        356
+      ]
+    }
+  ]
+}

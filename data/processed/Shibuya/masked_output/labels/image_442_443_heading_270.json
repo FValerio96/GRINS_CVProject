@@ -1,0 +1,81 @@
+{
+  "image": "image_442_443_heading_270.jpg",
+  "class_ids": [
+    12,
+    58,
+    111,
+    122,
+    123,
+    131
+  ],
+  "class_names": [
+    "parking meter",
+    "potted plant",
+    "wall-tile",
+    "floor-other-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        282,
+        349,
+        293,
+        374
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        321,
+        44,
+        511,
+        227
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        511,
+        239
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        10,
+        334,
+        275,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        338,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        139,
+        511,
+        432
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "image": "image_491_492_heading_0.jpg",
+  "class_ids": [
+    2,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        263,
+        254,
+        367
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        259,
+        439,
+        471
+      ],
+      "caption": "describe the road in the image above, the street is the same street as the street is the same street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        210,
+        242,
+        271
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        249,
+        167,
+        315
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        376,
+        262
+      ],
+      "caption": "describe the sky in the image of the apartment building"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        313,
+        286,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is paved and the road is paved"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        417
+      ],
+      "caption": "describe the building in the image above"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        290,
+        106,
+        314
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

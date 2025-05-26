@@ -1,0 +1,105 @@
+{
+  "image": "image_498_499_heading_180.jpg",
+  "class_ids": [
+    2,
+    13,
+    100,
+    106,
+    109,
+    116,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "bench",
+    "road",
+    "stairs",
+    "wall-brick",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        302,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        248,
+        259,
+        402,
+        374
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        378,
+        480,
+        471
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        360,
+        276,
+        442,
+        325
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        250,
+        350,
+        302,
+        381
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        174,
+        55,
+        307,
+        292
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        48,
+        313,
+        435,
+        396
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        328
+      ]
+    }
+  ]
+}

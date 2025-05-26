@@ -1,0 +1,113 @@
+{
+  "image": "image_139_140_heading_180.jpg",
+  "class_ids": [
+    2,
+    100,
+    116,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        306,
+        352,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        322,
+        493,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the car parking in the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        150,
+        358,
+        293
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        388,
+        197
+      ],
+      "caption": "describe the sky in the image above the photo, the sky is dark and the sky is dark"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        269,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the car is parked on the street"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        268,
+        302,
+        326
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        54,
+        59,
+        394,
+        286
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        388,
+        0,
+        511,
+        301
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

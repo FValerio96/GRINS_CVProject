@@ -1,0 +1,126 @@
+{
+  "image": "image_492_493_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    13,
+    100,
+    103,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bench",
+    "road",
+    "sea",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        154,
+        261,
+        365,
+        293
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        398,
+        257,
+        489,
+        283
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        4,
+        274,
+        195,
+        298
+      ],
+      "caption": "describe the bench in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        252,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the beach and the sea"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        0,
+        247,
+        281,
+        289
+      ],
+      "caption": "describe the sea in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        262
+      ],
+      "caption": "describe the sky in the image above the pool"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        252,
+        511,
+        401
+      ],
+      "caption": "describe the pavement in the image, the road is empty"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        404,
+        213,
+        511,
+        262
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        97,
+        272,
+        133,
+        282
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

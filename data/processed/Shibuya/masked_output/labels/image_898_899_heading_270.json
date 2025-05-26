@@ -1,0 +1,141 @@
+{
+  "image": "image_898_899_heading_270.jpg",
+  "class_ids": [
+    2,
+    3,
+    56,
+    58,
+    91,
+    100,
+    115,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "motorcycle",
+    "chair",
+    "potted plant",
+    "house",
+    "road",
+    "window-other",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        385,
+        257,
+        415,
+        279
+      ]
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        373,
+        265,
+        397,
+        289
+      ]
+    },
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        225,
+        330,
+        248,
+        364
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        210,
+        303,
+        330,
+        342
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        336,
+        442
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        175,
+        264,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        84,
+        46,
+        141
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        312,
+        225,
+        391,
+        304
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        172,
+        0,
+        511,
+        297
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        305,
+        331,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        168,
+        0,
+        470,
+        338
+      ]
+    }
+  ]
+}

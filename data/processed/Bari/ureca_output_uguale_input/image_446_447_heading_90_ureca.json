@@ -1,0 +1,165 @@
+{
+  "image": "image_446_447_heading_90.jpg",
+  "class_ids": [
+    2,
+    7,
+    11,
+    82,
+    100,
+    116,
+    117,
+    119,
+    125,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "stop sign",
+    "bridge",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        89,
+        259,
+        511,
+        358
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        61,
+        242,
+        103,
+        265
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        40,
+        250,
+        69,
+        275
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        245,
+        228,
+        317,
+        281
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        262,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the road is empty, the road is empty, the road is empty, the road is empty"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        198,
+        511,
+        363
+      ],
+      "caption": "describe the tree in the image, which is the location of the crash"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        239,
+        485,
+        395
+      ],
+      "caption": "describe the fence in the image above, the fence is the same as the fence in the picture below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        256
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the picture below the sky is blue"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        395,
+        4,
+        397
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        305,
+        99,
+        414
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        261,
+        231,
+        511,
+        278
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        405,
+        240,
+        511,
+        276
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

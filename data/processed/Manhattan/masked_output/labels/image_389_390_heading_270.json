@@ -1,0 +1,129 @@
+{
+  "image": "image_389_390_heading_270.jpg",
+  "class_ids": [
+    2,
+    11,
+    12,
+    58,
+    88,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "stop sign",
+    "parking meter",
+    "potted plant",
+    "flower",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        166,
+        275,
+        226,
+        300
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        170,
+        236,
+        317,
+        306
+      ]
+    },
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        159,
+        295,
+        172,
+        305
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        83,
+        262,
+        90,
+        277
+      ]
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        0,
+        247,
+        177,
+        284
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        278,
+        506,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        169,
+        181,
+        243,
+        225
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        108,
+        188,
+        172,
+        217
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        93,
+        281,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        327
+      ]
+    }
+  ]
+}

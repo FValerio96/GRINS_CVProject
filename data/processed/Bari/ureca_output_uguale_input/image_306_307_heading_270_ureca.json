@@ -1,0 +1,113 @@
+{
+  "image": "image_306_307_heading_270.jpg",
+  "class_ids": [
+    86,
+    91,
+    115,
+    116,
+    117,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        225,
+        325,
+        225,
+        331
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        59,
+        511,
+        471
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        38,
+        301,
+        477,
+        471
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        442,
+        0,
+        511,
+        101
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        443,
+        77,
+        447,
+        97
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        21,
+        15
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        411,
+        161
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

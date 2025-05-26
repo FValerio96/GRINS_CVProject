@@ -1,0 +1,45 @@
+{
+  "image": "image_531_532_heading_270.jpg",
+  "class_ids": [
+    61,
+    93,
+    112
+  ],
+  "class_names": [
+    "toilet",
+    "mirror-stuff",
+    "wall-wood"
+  ],
+  "regions": [
+    {
+      "class_id": 61,
+      "class_name": "toilet",
+      "bbox": [
+        0,
+        191,
+        80,
+        368
+      ]
+    },
+    {
+      "class_id": 93,
+      "class_name": "mirror-stuff",
+      "bbox": [
+        0,
+        138,
+        88,
+        369
+      ]
+    },
+    {
+      "class_id": 112,
+      "class_name": "wall-wood",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

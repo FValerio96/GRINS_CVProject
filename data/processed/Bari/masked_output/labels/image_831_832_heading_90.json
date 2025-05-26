@@ -1,0 +1,105 @@
+{
+  "image": "image_831_832_heading_90.jpg",
+  "class_ids": [
+    82,
+    98,
+    116,
+    117,
+    119,
+    125,
+    126,
+    130
+  ],
+  "class_names": [
+    "bridge",
+    "railroad",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "dirt-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        409,
+        391,
+        440,
+        414
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        354,
+        404,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        76,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        297,
+        67,
+        320
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        281,
+        389,
+        471
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        355,
+        157,
+        471
+      ]
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        471,
+        403,
+        511,
+        441
+      ]
+    }
+  ]
+}

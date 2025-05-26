@@ -1,0 +1,74 @@
+{
+  "image": "image_113_114_heading_0.jpg",
+  "class_ids": [
+    2,
+    100,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        261,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, the car is parked in the street"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        124,
+        262,
+        410,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        114,
+        0,
+        404,
+        244
+      ],
+      "caption": "describe the sky in the image above, the street in the picture below is the street in the picture below is the street in the"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        317,
+        285,
+        370,
+        321
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        379
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

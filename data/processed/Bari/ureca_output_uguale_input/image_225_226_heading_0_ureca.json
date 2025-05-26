@@ -1,0 +1,74 @@
+{
+  "image": "image_225_226_heading_0.jpg",
+  "class_ids": [
+    105,
+    115,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "snow",
+    "window-other",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 105,
+      "class_name": "snow",
+      "bbox": [
+        0,
+        411,
+        157,
+        471
+      ],
+      "caption": "describe the snow in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        20,
+        240,
+        452,
+        416
+      ],
+      "caption": "describe the window in the image above the window is the window of the house"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        38,
+        0,
+        132,
+        29
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        220
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

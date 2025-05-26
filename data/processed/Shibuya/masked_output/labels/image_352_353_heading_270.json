@@ -1,0 +1,105 @@
+{
+  "image": "image_352_353_heading_270.jpg",
+  "class_ids": [
+    1,
+    86,
+    91,
+    106,
+    115,
+    118,
+    123,
+    131
+  ],
+  "class_names": [
+    "bicycle",
+    "door-stuff",
+    "house",
+    "stairs",
+    "window-other",
+    "ceiling-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        96,
+        346,
+        273,
+        463
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        138,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        437,
+        41,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        112,
+        101,
+        454,
+        217
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        190,
+        0,
+        511,
+        232
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        4,
+        425,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        155,
+        355,
+        164,
+        378
+      ]
+    }
+  ]
+}

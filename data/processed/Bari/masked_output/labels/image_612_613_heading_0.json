@@ -1,0 +1,93 @@
+{
+  "image": "image_612_613_heading_0.jpg",
+  "class_ids": [
+    86,
+    91,
+    115,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "window-other",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        149,
+        258,
+        162,
+        293
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        212,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        343,
+        211,
+        376,
+        297
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        395,
+        225
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        52,
+        277,
+        379,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        156,
+        252,
+        322
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        227,
+        180,
+        471
+      ]
+    }
+  ]
+}

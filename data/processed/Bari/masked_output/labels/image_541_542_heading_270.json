@@ -1,0 +1,141 @@
+{
+  "image": "image_541_542_heading_270.jpg",
+  "class_ids": [
+    13,
+    58,
+    91,
+    100,
+    101,
+    116,
+    117,
+    119,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "potted plant",
+    "house",
+    "road",
+    "roof",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        485,
+        244,
+        511,
+        260
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        169,
+        263,
+        194,
+        267
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        200,
+        483,
+        343
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        269,
+        349,
+        471
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        117,
+        219,
+        120,
+        220
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        159,
+        227,
+        203,
+        267
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        284,
+        247,
+        349,
+        275
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        246
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        295,
+        253,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        284,
+        201,
+        508,
+        271
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        254,
+        203,
+        395
+      ]
+    }
+  ]
+}

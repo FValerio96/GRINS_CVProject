@@ -1,0 +1,87 @@
+{
+  "image": "image_140_141_heading_270.jpg",
+  "class_ids": [
+    82,
+    100,
+    116,
+    117,
+    119,
+    123
+  ],
+  "class_names": [
+    "bridge",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        214,
+        217,
+        255,
+        255
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        244,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        60,
+        511,
+        294
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        380,
+        240,
+        511,
+        291
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        249
+      ],
+      "caption": "describe the sky in the image above the street view of the street"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        264,
+        103,
+        323
+      ],
+      "caption": "describe the pavement in the image below"
+    }
+  ]
+}

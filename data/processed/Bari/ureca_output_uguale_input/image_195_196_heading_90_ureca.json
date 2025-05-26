@@ -1,0 +1,152 @@
+{
+  "image": "image_195_196_heading_90.jpg",
+  "class_ids": [
+    2,
+    7,
+    98,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        256,
+        247,
+        400,
+        263
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        292,
+        246,
+        328,
+        253
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        377,
+        467,
+        425,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        380,
+        369,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        280,
+        238,
+        511,
+        261
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        213,
+        247,
+        286,
+        258
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        259
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        311,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        258,
+        511,
+        402
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        208,
+        214,
+        270
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        292,
+        511,
+        378
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

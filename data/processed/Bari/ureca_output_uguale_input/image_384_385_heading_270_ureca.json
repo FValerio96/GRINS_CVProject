@@ -1,0 +1,152 @@
+{
+  "image": "image_384_385_heading_270.jpg",
+  "class_ids": [
+    2,
+    7,
+    13,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "bench",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        214,
+        254,
+        395,
+        291
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        342,
+        261,
+        436,
+        295
+      ],
+      "caption": "describe the truck in the image below"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        391,
+        292,
+        432,
+        297
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        269,
+        242,
+        432,
+        273
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        241,
+        448,
+        471
+      ],
+      "caption": "describe the road in the image above, the road is the main road"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        69,
+        237,
+        511,
+        341
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        390,
+        291,
+        511,
+        387
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        259
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        295,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below, the road is a narrow, narrow, narrow street"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        116,
+        223,
+        342
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        56,
+        272,
+        208,
+        331
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

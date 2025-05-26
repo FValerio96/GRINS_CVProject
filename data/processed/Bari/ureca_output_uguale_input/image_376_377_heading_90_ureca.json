@@ -1,0 +1,113 @@
+{
+  "image": "image_376_377_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    10,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "fire hydrant",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        75,
+        267,
+        78,
+        276
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        111,
+        256,
+        477,
+        276
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        396,
+        284,
+        421,
+        322
+      ],
+      "caption": "describe the fire hydrant in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        253,
+        461,
+        471
+      ],
+      "caption": "describe the road in the image, the street is empty"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        258,
+        242,
+        289,
+        267
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        255
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        316,
+        273,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        143,
+        511,
+        280
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

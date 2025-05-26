@@ -1,0 +1,117 @@
+{
+  "image": "image_608_609_heading_270.jpg",
+  "class_ids": [
+    0,
+    1,
+    2,
+    25,
+    58,
+    88,
+    100,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "umbrella",
+    "potted plant",
+    "flower",
+    "road",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        48,
+        267,
+        469,
+        334
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        446,
+        311,
+        511,
+        358
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        99,
+        283,
+        226,
+        345
+      ]
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        61,
+        255,
+        129,
+        270
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        82,
+        217,
+        425,
+        345
+      ]
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        87,
+        226,
+        148,
+        262
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        284,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        60,
+        286,
+        511,
+        375
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        321
+      ]
+    }
+  ]
+}

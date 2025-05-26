@@ -1,0 +1,93 @@
+{
+  "image": "image_471_472_heading_270.jpg",
+  "class_ids": [
+    92,
+    98,
+    111,
+    118,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "light",
+    "railroad",
+    "wall-tile",
+    "ceiling-merged",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        262,
+        53,
+        292,
+        81
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        304,
+        44,
+        362
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        176,
+        250,
+        401,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        221
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        267,
+        319,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        180,
+        199,
+        423
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        184,
+        40,
+        511,
+        471
+      ]
+    }
+  ]
+}

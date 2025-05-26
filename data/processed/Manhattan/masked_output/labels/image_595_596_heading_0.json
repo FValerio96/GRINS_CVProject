@@ -1,0 +1,105 @@
+{
+  "image": "image_595_596_heading_0.jpg",
+  "class_ids": [
+    2,
+    7,
+    82,
+    100,
+    116,
+    117,
+    119,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "bridge",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        253,
+        361,
+        319
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        0,
+        229,
+        511,
+        388
+      ]
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        0,
+        511,
+        254
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        250,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        116,
+        471,
+        242
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        419,
+        239,
+        479,
+        305
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        94,
+        511,
+        209
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        97,
+        511,
+        300
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "image": "image_119_120_heading_90.jpg",
+  "class_ids": [
+    116,
+    119,
+    124,
+    125
+  ],
+  "class_names": [
+    "tree-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        164,
+        511,
+        300
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        226
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        35,
+        251,
+        511,
+        471
+      ],
+      "caption": "describe the mountain in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        253,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image"
+    }
+  ]
+}

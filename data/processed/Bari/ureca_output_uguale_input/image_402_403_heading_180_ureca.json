@@ -1,0 +1,61 @@
+{
+  "image": "image_402_403_heading_180.jpg",
+  "class_ids": [
+    110,
+    115,
+    129,
+    131
+  ],
+  "class_names": [
+    "wall-stone",
+    "window-other",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        366,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        316,
+        160,
+        463,
+        360
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        320,
+        233,
+        464,
+        361
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        460
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

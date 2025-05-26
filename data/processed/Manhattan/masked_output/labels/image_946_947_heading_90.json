@@ -1,0 +1,69 @@
+{
+  "image": "image_946_947_heading_90.jpg",
+  "class_ids": [
+    13,
+    109,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "wall-brick",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        0,
+        294,
+        511,
+        433
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        7,
+        223,
+        36,
+        230
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        230
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        435,
+        55,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        191,
+        511,
+        471
+      ]
+    }
+  ]
+}

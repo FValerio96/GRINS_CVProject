@@ -1,0 +1,74 @@
+{
+  "image": "image_259_260_heading_180.jpg",
+  "class_ids": [
+    116,
+    117,
+    119,
+    126,
+    131
+  ],
+  "class_names": [
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "dirt-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        104,
+        208,
+        315,
+        252
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        234,
+        511,
+        333
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        248
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the picture below the sky is blue"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        387,
+        511,
+        471
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        321,
+        511,
+        408
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

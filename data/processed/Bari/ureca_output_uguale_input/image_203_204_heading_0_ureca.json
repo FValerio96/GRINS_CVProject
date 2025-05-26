@@ -1,0 +1,100 @@
+{
+  "image": "image_203_204_heading_0.jpg",
+  "class_ids": [
+    0,
+    1,
+    102,
+    103,
+    119,
+    129,
+    130
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "sand",
+    "sea",
+    "sky-other-merged",
+    "building-other-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        496,
+        296,
+        506,
+        309
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        187,
+        386,
+        233,
+        456
+      ],
+      "caption": "describe the bicycle in the image"
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        0,
+        300,
+        511,
+        471
+      ],
+      "caption": "describe the sand in the image below"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        26,
+        250,
+        511,
+        311
+      ],
+      "caption": "describe the sea in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        257
+      ],
+      "caption": "describe the sky in the image above the sea"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        247,
+        5,
+        254
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        0,
+        250,
+        429,
+        307
+      ],
+      "caption": "describe the rock in the image below"
+    }
+  ]
+}

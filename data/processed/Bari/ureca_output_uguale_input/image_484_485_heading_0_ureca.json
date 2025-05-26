@@ -1,0 +1,126 @@
+{
+  "image": "image_484_485_heading_0.jpg",
+  "class_ids": [
+    2,
+    9,
+    88,
+    100,
+    110,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "traffic light",
+    "flower",
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        159,
+        256,
+        511,
+        369
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        99,
+        238,
+        125,
+        267
+      ],
+      "caption": "describe the traffic light in the image"
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        85,
+        179,
+        110,
+        220
+      ],
+      "caption": "describe the flower in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        256,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        284,
+        162,
+        356
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        8,
+        511,
+        326
+      ],
+      "caption": "describe the tree in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        197,
+        0,
+        446,
+        249
+      ],
+      "caption": "describe the sky in the image above the street view of the apartment buildings"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        286,
+        172,
+        431
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        304
+      ],
+      "caption": "describe the building in the image, you can see the street view of the apartment building"
+    }
+  ]
+}

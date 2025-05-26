@@ -1,0 +1,105 @@
+{
+  "image": "image_887_888_heading_180.jpg",
+  "class_ids": [
+    9,
+    11,
+    115,
+    116,
+    123,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "traffic light",
+    "stop sign",
+    "window-other",
+    "tree-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        380,
+        217,
+        402,
+        236
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        376,
+        377,
+        408,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        13,
+        511,
+        369
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        360,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        413,
+        376,
+        511,
+        399
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        465,
+        17,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        393
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        394
+      ]
+    }
+  ]
+}

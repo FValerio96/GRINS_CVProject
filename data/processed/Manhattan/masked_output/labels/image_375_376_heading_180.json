@@ -1,0 +1,45 @@
+{
+  "image": "image_375_376_heading_180.jpg",
+  "class_ids": [
+    92,
+    115,
+    129
+  ],
+  "class_names": [
+    "light",
+    "window-other",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        314,
+        35,
+        335
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        55,
+        404,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

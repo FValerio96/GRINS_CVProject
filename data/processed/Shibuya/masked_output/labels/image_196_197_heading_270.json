@@ -1,0 +1,141 @@
+{
+  "image": "image_196_197_heading_270.jpg",
+  "class_ids": [
+    13,
+    15,
+    100,
+    106,
+    116,
+    117,
+    118,
+    123,
+    125,
+    126,
+    129
+  ],
+  "class_names": [
+    "bench",
+    "cat",
+    "road",
+    "stairs",
+    "tree-merged",
+    "fence-merged",
+    "ceiling-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        67,
+        309,
+        511,
+        342
+      ]
+    },
+    {
+      "class_id": 15,
+      "class_name": "cat",
+      "bbox": [
+        438,
+        65,
+        511,
+        106
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        333,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        130,
+        380,
+        326
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        305,
+        0,
+        388,
+        314
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        134,
+        352,
+        326
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        325,
+        126,
+        370,
+        160
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        275,
+        511,
+        379
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        303,
+        329,
+        312,
+        330
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        183,
+        321,
+        318,
+        333
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        313
+      ]
+    }
+  ]
+}

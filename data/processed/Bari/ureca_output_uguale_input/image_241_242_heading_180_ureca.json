@@ -1,0 +1,74 @@
+{
+  "image": "image_241_242_heading_180.jpg",
+  "class_ids": [
+    110,
+    116,
+    119,
+    125,
+    130
+  ],
+  "class_names": [
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        315,
+        406,
+        318,
+        406
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        56,
+        511,
+        404
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        105
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        282,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        251,
+        358,
+        511,
+        421
+      ],
+      "caption": "describe the rock in the image below"
+    }
+  ]
+}

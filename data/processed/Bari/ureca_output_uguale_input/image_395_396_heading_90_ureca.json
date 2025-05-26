@@ -1,0 +1,87 @@
+{
+  "image": "image_395_396_heading_90.jpg",
+  "class_ids": [
+    100,
+    116,
+    117,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        31,
+        245,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the sea"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        245,
+        50,
+        290
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        51,
+        247,
+        387,
+        264
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        263
+      ],
+      "caption": "describe the sky in the image above the street"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        290,
+        330,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is paved and the road is paved"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        242,
+        511,
+        392
+      ],
+      "caption": "describe the grass in the image, you can see the road and the beach"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "image": "image_203_204_heading_270.jpg",
+  "class_ids": [
+    2,
+    90,
+    100,
+    102,
+    117,
+    119,
+    123,
+    129,
+    130,
+    131
+  ],
+  "class_names": [
+    "car",
+    "gravel",
+    "road",
+    "sand",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "rock-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        234,
+        253,
+        341,
+        277
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        350,
+        277,
+        511,
+        299
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        251,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        360,
+        289,
+        511,
+        403
+      ],
+      "caption": "describe the sand in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        239,
+        227,
+        332
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        255
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        294,
+        186,
+        466
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        192,
+        511,
+        288
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        377,
+        278,
+        511,
+        290
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        287,
+        161,
+        399
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

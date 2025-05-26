@@ -1,0 +1,69 @@
+{
+  "image": "image_641_642_heading_180.jpg",
+  "class_ids": [
+    82,
+    116,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "bridge",
+    "tree-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        205,
+        511,
+        279
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        216,
+        511,
+        448
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        442,
+        150
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        232
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        400,
+        511,
+        471
+      ]
+    }
+  ]
+}

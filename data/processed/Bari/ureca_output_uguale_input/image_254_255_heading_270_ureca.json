@@ -1,0 +1,74 @@
+{
+  "image": "image_254_255_heading_270.jpg",
+  "class_ids": [
+    11,
+    100,
+    117,
+    119,
+    123
+  ],
+  "class_names": [
+    "stop sign",
+    "road",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        48,
+        165,
+        511,
+        373
+      ],
+      "caption": "describe the stop sign in the image courtesy google / google"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        250,
+        319,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        178,
+        511,
+        471
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        232
+      ],
+      "caption": "describe the sky in the image above the sign"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        129,
+        318,
+        383,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is paved and the road is paved"
+    }
+  ]
+}

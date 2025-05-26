@@ -1,0 +1,113 @@
+{
+  "image": "image_344_345_heading_0.jpg",
+  "class_ids": [
+    2,
+    98,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "car",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        188,
+        263,
+        198,
+        272
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        291,
+        291,
+        511,
+        352
+      ],
+      "caption": "describe the railroad in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        252,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        179,
+        511,
+        286
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        265,
+        79,
+        297
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        257
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the picture below the sky is blue"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        379,
+        311,
+        511,
+        346
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        285,
+        267,
+        511,
+        337
+      ],
+      "caption": "describe the grass in the image below"
+    }
+  ]
+}

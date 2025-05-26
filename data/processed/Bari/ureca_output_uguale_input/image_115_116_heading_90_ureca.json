@@ -1,0 +1,87 @@
+{
+  "image": "image_115_116_heading_90.jpg",
+  "class_ids": [
+    14,
+    82,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "bird",
+    "bridge",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 14,
+      "class_name": "bird",
+      "bbox": [
+        119,
+        254,
+        439,
+        303
+      ],
+      "caption": "describe the bird in the image below"
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        355,
+        511,
+        471
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        239,
+        511,
+        471
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        246
+      ],
+      "caption": "describe the sky in the image above the photo, the sky is blue and the sky is white"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        355,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        215,
+        485,
+        309
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

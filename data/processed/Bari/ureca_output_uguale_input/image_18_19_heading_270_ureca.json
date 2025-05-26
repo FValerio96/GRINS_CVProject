@@ -1,0 +1,100 @@
+{
+  "image": "image_18_19_heading_270.jpg",
+  "class_ids": [
+    2,
+    100,
+    109,
+    116,
+    119,
+    125,
+    131
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "wall-brick",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        507,
+        468,
+        511,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        395,
+        383,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        304,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        46,
+        229,
+        386,
+        250
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        236,
+        511,
+        361
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        303,
+        511,
+        380
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

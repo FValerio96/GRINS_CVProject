@@ -1,0 +1,100 @@
+{
+  "image": "image_283_284_heading_90.jpg",
+  "class_ids": [
+    2,
+    58,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        257,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        103,
+        167,
+        223,
+        240
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        84,
+        250,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street view of the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        413,
+        164,
+        511,
+        271
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        294,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image of the apartment building"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        272,
+        343,
+        417
+      ],
+      "caption": "describe the pavement in the image, the street is empty, the car is parked on the street"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        492,
+        343
+      ],
+      "caption": "describe the building in the image, the car is parked on the street"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "image": "image_416_417_heading_270.jpg",
+  "class_ids": [
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        260,
+        437,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        50,
+        217,
+        511,
+        275
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        371,
+        256,
+        511,
+        300
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        44,
+        288,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is empty, the road is empty, the road is empty, the road is empty"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        48,
+        247,
+        511,
+        403
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        197,
+        511,
+        265
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

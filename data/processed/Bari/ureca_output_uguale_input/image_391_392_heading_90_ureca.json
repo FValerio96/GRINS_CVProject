@@ -1,0 +1,87 @@
+{
+  "image": "image_391_392_heading_90.jpg",
+  "class_ids": [
+    100,
+    116,
+    119,
+    123,
+    125,
+    126
+  ],
+  "class_names": [
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        291,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        128,
+        511,
+        279
+      ],
+      "caption": "describe the tree in the image, you can see the trees in the picture"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ],
+      "caption": "describe the sky in the image above the pool"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        248,
+        511,
+        283
+      ],
+      "caption": "describe the pavement in the image, the trees are moving"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        79,
+        253,
+        511,
+        319
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        261,
+        190,
+        306
+      ],
+      "caption": "describe the dirt in the image below"
+    }
+  ]
+}

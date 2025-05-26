@@ -1,0 +1,165 @@
+{
+  "image": "image_433_434_heading_90.jpg",
+  "class_ids": [
+    2,
+    90,
+    98,
+    100,
+    116,
+    117,
+    119,
+    123,
+    124,
+    125,
+    126,
+    129
+  ],
+  "class_names": [
+    "car",
+    "gravel",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "mountain-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        385,
+        258,
+        407,
+        280
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        430,
+        247,
+        511,
+        286
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        215,
+        296,
+        511,
+        471
+      ],
+      "caption": "describe the railroad in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        258,
+        382,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        243,
+        115,
+        303
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        253,
+        50,
+        311
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        260
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        312,
+        461,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        400,
+        245,
+        511,
+        272
+      ],
+      "caption": "describe the mountain in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        55,
+        245,
+        396,
+        299
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        257,
+        260,
+        511,
+        444
+      ],
+      "caption": "describe the dirt in the image, the road is empty"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        390,
+        246,
+        511,
+        258
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

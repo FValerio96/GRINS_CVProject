@@ -1,0 +1,93 @@
+{
+  "image": "image_249_250_heading_270.jpg",
+  "class_ids": [
+    0,
+    26,
+    80,
+    100,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "handbag",
+    "banner",
+    "road",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        0,
+        267,
+        73,
+        357
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        69,
+        288,
+        82,
+        309
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        432,
+        267,
+        511,
+        385
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        301,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        12,
+        291,
+        511,
+        425
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        369
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        82,
+        306,
+        83,
+        307
+      ]
+    }
+  ]
+}

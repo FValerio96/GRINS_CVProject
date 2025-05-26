@@ -1,0 +1,139 @@
+{
+  "image": "image_174_175_heading_180.jpg",
+  "class_ids": [
+    100,
+    116,
+    119,
+    122,
+    123,
+    124,
+    125,
+    129,
+    130,
+    131
+  ],
+  "class_names": [
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "mountain-merged",
+    "grass-merged",
+    "building-other-merged",
+    "rock-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        364,
+        175,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        32,
+        231,
+        511,
+        438
+      ],
+      "caption": "describe the tree in the image, you can see the tree in the picture, you can see the tree in the picture, you"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        248
+      ],
+      "caption": "describe the sky in the image above the street"
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        488,
+        416,
+        511,
+        458
+      ],
+      "caption": "describe the floor in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        316,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, you can see the sidewalk in the photo"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        0,
+        234,
+        200,
+        284
+      ],
+      "caption": "describe the mountain in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        275,
+        201,
+        343
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        197,
+        223,
+        511,
+        276
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        0,
+        239,
+        22,
+        245
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        197,
+        226,
+        511,
+        401
+      ],
+      "caption": "describe the wall in the image, you can see the graffiti on the wall"
+    }
+  ]
+}

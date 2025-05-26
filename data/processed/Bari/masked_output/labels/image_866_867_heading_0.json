@@ -1,0 +1,69 @@
+{
+  "image": "image_866_867_heading_0.jpg",
+  "class_ids": [
+    115,
+    116,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "window-other",
+    "tree-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        0,
+        276,
+        150
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        505,
+        231,
+        511,
+        248
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        491,
+        0,
+        511,
+        231
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        266
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        249,
+        511,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "image": "image_911_912_heading_90.jpg",
+  "class_ids": [
+    11,
+    100,
+    116,
+    117,
+    119,
+    129
+  ],
+  "class_names": [
+    "stop sign",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        193,
+        237,
+        207,
+        252
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        10,
+        275,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        118,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        349,
+        288,
+        511,
+        350
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        129,
+        0,
+        511,
+        249
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        340
+      ]
+    }
+  ]
+}

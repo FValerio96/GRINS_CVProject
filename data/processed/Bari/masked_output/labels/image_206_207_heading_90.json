@@ -1,0 +1,93 @@
+{
+  "image": "image_206_207_heading_90.jpg",
+  "class_ids": [
+    2,
+    86,
+    91,
+    100,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "door-stuff",
+    "house",
+    "road",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        272,
+        336,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        80,
+        210,
+        332,
+        351
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        74,
+        331,
+        338,
+        352
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        422,
+        279,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        67,
+        0,
+        511,
+        136
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        338,
+        401,
+        444
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        361
+      ]
+    }
+  ]
+}

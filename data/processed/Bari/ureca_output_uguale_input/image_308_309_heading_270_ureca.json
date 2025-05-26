@@ -1,0 +1,74 @@
+{
+  "image": "image_308_309_heading_270.jpg",
+  "class_ids": [
+    100,
+    115,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "road",
+    "window-other",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        337,
+        446,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        88,
+        219,
+        291,
+        343
+      ],
+      "caption": "describe the window in the image above, the window in the picture above, the window in the picture below, the window in the"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        477,
+        165
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        331,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        462
+      ],
+      "caption": "describe the building in the image above, the building is the building of the former bank of the republic of the republic of the republic"
+    }
+  ]
+}

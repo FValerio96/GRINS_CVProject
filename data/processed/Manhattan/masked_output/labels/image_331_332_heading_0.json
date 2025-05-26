@@ -1,0 +1,81 @@
+{
+  "image": "image_331_332_heading_0.jpg",
+  "class_ids": [
+    2,
+    5,
+    9,
+    100,
+    119,
+    129
+  ],
+  "class_names": [
+    "car",
+    "bus",
+    "traffic light",
+    "road",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        211,
+        267,
+        255,
+        284
+      ]
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        0,
+        133,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        272,
+        131,
+        307,
+        168
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        362,
+        183,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        326,
+        0,
+        511,
+        154
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        219
+      ]
+    }
+  ]
+}

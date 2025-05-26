@@ -1,0 +1,69 @@
+{
+  "image": "image_27_28_heading_90.jpg",
+  "class_ids": [
+    0,
+    123,
+    129,
+    131,
+    132
+  ],
+  "class_names": [
+    "person",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged",
+    "rug-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        485,
+        259,
+        511,
+        307
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        293,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        392
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        160,
+        203
+      ]
+    },
+    {
+      "class_id": 132,
+      "class_name": "rug-merged",
+      "bbox": [
+        163,
+        351,
+        294,
+        435
+      ]
+    }
+  ]
+}

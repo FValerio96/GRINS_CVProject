@@ -1,0 +1,105 @@
+{
+  "image": "image_444_445_heading_90.jpg",
+  "class_ids": [
+    0,
+    26,
+    113,
+    115,
+    116,
+    123,
+    126,
+    129
+  ],
+  "class_names": [
+    "person",
+    "handbag",
+    "water-other",
+    "window-other",
+    "tree-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        480,
+        273,
+        511,
+        338
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        220,
+        376,
+        260,
+        414
+      ]
+    },
+    {
+      "class_id": 113,
+      "class_name": "water-other",
+      "bbox": [
+        115,
+        400,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        43,
+        0,
+        306,
+        58
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        162,
+        408
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        313,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        385,
+        136,
+        442
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        345
+      ]
+    }
+  ]
+}

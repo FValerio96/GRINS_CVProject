@@ -1,0 +1,152 @@
+{
+  "image": "image_403_404_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    82,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bridge",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        223,
+        247,
+        233,
+        275
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        9,
+        247,
+        325,
+        342
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        234,
+        223,
+        375,
+        266
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        255,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the car on the left"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        216,
+        502,
+        288
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        375,
+        228,
+        511,
+        242
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        241
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        243,
+        223,
+        323
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        111,
+        237,
+        511,
+        299
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        160,
+        237,
+        162,
+        237
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        107,
+        237,
+        511,
+        297
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

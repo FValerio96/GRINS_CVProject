@@ -1,0 +1,117 @@
+{
+  "image": "image_445_446_heading_90.jpg",
+  "class_ids": [
+    58,
+    100,
+    115,
+    116,
+    118,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "road",
+    "window-other",
+    "tree-merged",
+    "ceiling-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        0,
+        255,
+        346,
+        381
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        167,
+        267,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        437,
+        222,
+        472,
+        260
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        137,
+        511,
+        380
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        234,
+        0,
+        239,
+        2
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        380,
+        0,
+        511,
+        112
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        87,
+        264,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        298
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        344,
+        471
+      ]
+    }
+  ]
+}

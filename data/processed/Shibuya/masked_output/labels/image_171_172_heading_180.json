@@ -1,0 +1,141 @@
+{
+  "image": "image_171_172_heading_180.jpg",
+  "class_ids": [
+    2,
+    13,
+    32,
+    34,
+    82,
+    111,
+    117,
+    118,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "bench",
+    "sports ball",
+    "baseball bat",
+    "bridge",
+    "wall-tile",
+    "fence-merged",
+    "ceiling-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        145,
+        228,
+        425,
+        246
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        395,
+        263,
+        484,
+        301
+      ]
+    },
+    {
+      "class_id": 32,
+      "class_name": "sports ball",
+      "bbox": [
+        267,
+        412,
+        333,
+        447
+      ]
+    },
+    {
+      "class_id": 34,
+      "class_name": "baseball bat",
+      "bbox": [
+        71,
+        402,
+        89,
+        471
+      ]
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        0,
+        511,
+        178
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        124,
+        399,
+        124,
+        399
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        234,
+        511,
+        405
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        206
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        312,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        85,
+        511,
+        247
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "image": "image_745_746_heading_270.jpg",
+  "class_ids": [
+    91,
+    111,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "house",
+    "wall-tile",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        407,
+        217,
+        410,
+        217
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        272,
+        511,
+        385
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        158,
+        511,
+        325
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        98,
+        241,
+        511,
+        299
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        238
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        280,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        296,
+        214,
+        420,
+        244
+      ]
+    }
+  ]
+}

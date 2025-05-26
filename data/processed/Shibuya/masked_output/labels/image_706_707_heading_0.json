@@ -1,0 +1,129 @@
+{
+  "image": "image_706_707_heading_0.jpg",
+  "class_ids": [
+    56,
+    72,
+    80,
+    86,
+    92,
+    115,
+    118,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "chair",
+    "refrigerator",
+    "banner",
+    "door-stuff",
+    "light",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        0,
+        386,
+        73,
+        471
+      ]
+    },
+    {
+      "class_id": 72,
+      "class_name": "refrigerator",
+      "bbox": [
+        242,
+        427,
+        296,
+        436
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        0,
+        263,
+        48,
+        396
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        76,
+        301,
+        388,
+        422
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        44,
+        245,
+        476,
+        295
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        86,
+        80,
+        452,
+        365
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        23,
+        511,
+        108
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        409,
+        406,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        21,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        114
+      ]
+    }
+  ]
+}

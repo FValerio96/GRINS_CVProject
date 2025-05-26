@@ -1,0 +1,69 @@
+{
+  "image": "image_938_939_heading_0.jpg",
+  "class_ids": [
+    92,
+    115,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "light",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        288,
+        194,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        258,
+        0,
+        469,
+        135
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        306,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        202,
+        45,
+        511,
+        471
+      ]
+    }
+  ]
+}

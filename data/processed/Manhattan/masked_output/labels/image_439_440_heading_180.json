@@ -1,0 +1,117 @@
+{
+  "image": "image_439_440_heading_180.jpg",
+  "class_ids": [
+    0,
+    26,
+    28,
+    115,
+    118,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "handbag",
+    "suitcase",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        349,
+        254,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        446,
+        318,
+        511,
+        431
+      ]
+    },
+    {
+      "class_id": 28,
+      "class_name": "suitcase",
+      "bbox": [
+        318,
+        427,
+        425,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        72,
+        130,
+        227,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        177,
+        0,
+        511,
+        219
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        173,
+        301,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        179,
+        333,
+        389,
+        464
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        328,
+        136,
+        511,
+        318
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        375,
+        471
+      ]
+    }
+  ]
+}

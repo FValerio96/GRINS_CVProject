@@ -1,0 +1,141 @@
+{
+  "image": "image_764_765_heading_180.jpg",
+  "class_ids": [
+    6,
+    13,
+    80,
+    92,
+    96,
+    98,
+    111,
+    118,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "train",
+    "bench",
+    "banner",
+    "light",
+    "platform",
+    "railroad",
+    "wall-tile",
+    "ceiling-merged",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        320,
+        279,
+        358,
+        293
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        82,
+        298,
+        213,
+        343
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        0,
+        199,
+        28,
+        375
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        93,
+        0,
+        394,
+        212
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        0,
+        268,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        284,
+        392,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        81,
+        216,
+        212,
+        298
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        223
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        408,
+        285,
+        452,
+        347
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        81,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        47,
+        315,
+        424
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "image": "image_355_356_heading_90.jpg",
+  "class_ids": [
+    13,
+    90,
+    98,
+    112,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "gravel",
+    "railroad",
+    "wall-wood",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        0,
+        250,
+        511,
+        408
+      ]
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        285,
+        449,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        278,
+        447,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 112,
+      "class_name": "wall-wood",
+      "bbox": [
+        0,
+        0,
+        511,
+        254
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        241,
+        511,
+        471
+      ]
+    }
+  ]
+}

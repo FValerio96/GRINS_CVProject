@@ -1,0 +1,87 @@
+{
+  "image": "image_267_268_heading_90.jpg",
+  "class_ids": [
+    11,
+    100,
+    116,
+    119,
+    125,
+    131
+  ],
+  "class_names": [
+    "stop sign",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        437,
+        214,
+        469,
+        241
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        226,
+        259,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        198,
+        511,
+        260
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        245
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        224,
+        511,
+        330
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        269,
+        457,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

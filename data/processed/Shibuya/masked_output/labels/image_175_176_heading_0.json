@@ -1,0 +1,93 @@
+{
+  "image": "image_175_176_heading_0.jpg",
+  "class_ids": [
+    2,
+    13,
+    58,
+    100,
+    116,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "bench",
+    "potted plant",
+    "road",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        269,
+        150,
+        463
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        309,
+        286,
+        432,
+        320
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        257,
+        274,
+        423,
+        312
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        291,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        271,
+        254,
+        419,
+        294
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        128,
+        305,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        312
+      ]
+    }
+  ]
+}

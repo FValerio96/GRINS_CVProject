@@ -1,0 +1,113 @@
+{
+  "image": "image_43_44_heading_0.jpg",
+  "class_ids": [
+    2,
+    9,
+    11,
+    100,
+    116,
+    117,
+    119,
+    123
+  ],
+  "class_names": [
+    "car",
+    "traffic light",
+    "stop sign",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        323,
+        254,
+        421,
+        287
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        160,
+        170,
+        357,
+        259
+      ],
+      "caption": "describe the traffic light in the image below"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        0,
+        265,
+        9,
+        293
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        261,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        201,
+        511,
+        295
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        138,
+        278,
+        266,
+        292
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        255
+      ],
+      "caption": "describe the sky in the image above"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        283,
+        286,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is empty, the road is empty, the road is empty, the road is empty"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "image": "image_752_753_heading_270.jpg",
+  "class_ids": [
+    100,
+    112,
+    115,
+    116,
+    117,
+    123,
+    129
+  ],
+  "class_names": [
+    "road",
+    "wall-wood",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        375,
+        254,
+        471
+      ]
+    },
+    {
+      "class_id": 112,
+      "class_name": "wall-wood",
+      "bbox": [
+        319,
+        406,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        108,
+        0,
+        406,
+        221
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        432
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        290,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        372,
+        280,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        42,
+        0,
+        511,
+        231
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "image": "image_446_447_heading_90.jpg",
+  "class_ids": [
+    1,
+    2,
+    3,
+    7,
+    86,
+    91,
+    100,
+    106,
+    109,
+    111,
+    115,
+    116,
+    119,
+    122,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "bicycle",
+    "car",
+    "motorcycle",
+    "truck",
+    "door-stuff",
+    "house",
+    "road",
+    "stairs",
+    "wall-brick",
+    "wall-tile",
+    "window-other",
+    "tree-merged",
+    "sky-other-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        85,
+        284,
+        427,
+        379
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        345,
+        267,
+        475,
+        330
+      ]
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        353,
+        314,
+        426,
+        355
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        382,
+        289,
+        400,
+        317
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        159,
+        56,
+        318
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        158,
+        255,
+        357
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        327,
+        359,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        309,
+        92,
+        432
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        116,
+        190,
+        173,
+        244
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        255,
+        327,
+        320,
+        410
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        68,
+        0,
+        195,
+        91
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        426,
+        209,
+        511,
+        323
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        201,
+        0,
+        511,
+        167
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        323,
+        349,
+        360,
+        369
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        323,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        476,
+        300,
+        511,
+        332
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        377
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        34,
+        396,
+        344
+      ]
+    }
+  ]
+}

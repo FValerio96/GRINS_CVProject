@@ -1,0 +1,93 @@
+{
+  "image": "image_598_599_heading_90.jpg",
+  "class_ids": [
+    2,
+    6,
+    92,
+    96,
+    111,
+    118,
+    131
+  ],
+  "class_names": [
+    "car",
+    "train",
+    "light",
+    "platform",
+    "wall-tile",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        151,
+        257,
+        196,
+        273
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        0,
+        175,
+        151,
+        344
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        141,
+        118,
+        393,
+        258
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        0,
+        257,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        184,
+        98,
+        511,
+        416
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        235
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        187,
+        511,
+        459
+      ]
+    }
+  ]
+}

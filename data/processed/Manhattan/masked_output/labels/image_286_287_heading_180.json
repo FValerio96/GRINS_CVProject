@@ -1,0 +1,93 @@
+{
+  "image": "image_286_287_heading_180.jpg",
+  "class_ids": [
+    0,
+    7,
+    86,
+    100,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "truck",
+    "door-stuff",
+    "road",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        7,
+        258,
+        71,
+        288
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        191,
+        223,
+        410,
+        332
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        481,
+        130,
+        511,
+        341
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        295,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        130,
+        0,
+        444,
+        129
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        271,
+        511,
+        405
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        336
+      ]
+    }
+  ]
+}

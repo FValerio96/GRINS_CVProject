@@ -1,0 +1,165 @@
+{
+  "image": "image_231_232_heading_0.jpg",
+  "class_ids": [
+    2,
+    11,
+    90,
+    91,
+    98,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "stop sign",
+    "gravel",
+    "house",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        430,
+        262,
+        464,
+        270
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        111,
+        291,
+        115,
+        296
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        111,
+        358,
+        511,
+        457
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        70,
+        229,
+        104,
+        262
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        310,
+        511,
+        471
+      ],
+      "caption": "describe the railroad in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        294,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road sign"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        192,
+        511,
+        286
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        274,
+        511,
+        471
+      ],
+      "caption": "describe the fence in the image, you can see the road sign"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        254
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        148,
+        301,
+        511,
+        368
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        3,
+        228,
+        408,
+        271
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        265,
+        511,
+        316
+      ],
+      "caption": "describe the wall in the image below the line of the lines"
+    }
+  ]
+}

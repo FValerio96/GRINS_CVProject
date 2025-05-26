@@ -1,0 +1,93 @@
+{
+  "image": "image_914_915_heading_90.jpg",
+  "class_ids": [
+    82,
+    100,
+    109,
+    116,
+    119,
+    123,
+    126
+  ],
+  "class_names": [
+    "bridge",
+    "road",
+    "wall-brick",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        0,
+        511,
+        318
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        234,
+        504,
+        471
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        0,
+        511,
+        334
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        224,
+        140,
+        320,
+        251
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        225,
+        132,
+        308,
+        200
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        337,
+        267,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        450,
+        331,
+        511,
+        340
+      ]
+    }
+  ]
+}

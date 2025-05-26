@@ -1,0 +1,81 @@
+{
+  "image": "image_952_953_heading_270.jpg",
+  "class_ids": [
+    0,
+    74,
+    80,
+    100,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "clock",
+    "banner",
+    "road",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        65,
+        283,
+        136,
+        334
+      ]
+    },
+    {
+      "class_id": 74,
+      "class_name": "clock",
+      "bbox": [
+        107,
+        255,
+        149,
+        294
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        355,
+        248,
+        511,
+        303
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        353,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        293,
+        511,
+        411
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        322
+      ]
+    }
+  ]
+}

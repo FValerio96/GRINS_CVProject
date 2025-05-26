@@ -1,0 +1,100 @@
+{
+  "image": "image_391_392_heading_180.jpg",
+  "class_ids": [
+    2,
+    100,
+    116,
+    119,
+    123,
+    125,
+    126
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        310,
+        254,
+        320,
+        267
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        251,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        84,
+        511,
+        331
+      ],
+      "caption": "describe the tree in the image, you can see the tree in the picture, you can see the tree in the picture, you"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image above the trees and the sky is the sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        509,
+        301,
+        511,
+        304
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        243,
+        511,
+        323
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        417,
+        306,
+        511,
+        393
+      ],
+      "caption": "describe the dirt in the image"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "image": "image_678_679_heading_270.jpg",
+  "class_ids": [
+    0,
+    1,
+    24,
+    28,
+    100,
+    109,
+    115,
+    119,
+    122,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "backpack",
+    "suitcase",
+    "road",
+    "wall-brick",
+    "window-other",
+    "sky-other-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        111,
+        265,
+        348,
+        379
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        145,
+        369,
+        167,
+        375
+      ]
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        167,
+        354,
+        194,
+        379
+      ]
+    },
+    {
+      "class_id": 28,
+      "class_name": "suitcase",
+      "bbox": [
+        80,
+        380,
+        108,
+        396
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        35,
+        269,
+        487,
+        471
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        392,
+        9,
+        511,
+        329
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        405,
+        15,
+        511,
+        179
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        363,
+        0,
+        392,
+        54
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        373,
+        74,
+        380
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        293,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        388
+      ]
+    }
+  ]
+}

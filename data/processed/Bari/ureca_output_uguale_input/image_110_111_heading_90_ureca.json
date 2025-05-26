@@ -1,0 +1,126 @@
+{
+  "image": "image_110_111_heading_90.jpg",
+  "class_ids": [
+    2,
+    12,
+    91,
+    100,
+    116,
+    119,
+    123,
+    126,
+    129
+  ],
+  "class_names": [
+    "car",
+    "parking meter",
+    "house",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        18,
+        263,
+        511,
+        369
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        142,
+        272,
+        162,
+        290
+      ],
+      "caption": "describe the parking meter in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        221,
+        200,
+        511,
+        299
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        263,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the parking lot"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        13,
+        511,
+        312
+      ],
+      "caption": "describe the tree in the image, the car is parked in the parking lot"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        255
+      ],
+      "caption": "describe the sky in the image above the photo, the sky is blue and the sky is clear"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        294,
+        511,
+        455
+      ],
+      "caption": "describe the pavement in the image, the parking lot is empty"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        303,
+        426,
+        511,
+        471
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        133,
+        224,
+        511,
+        307
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

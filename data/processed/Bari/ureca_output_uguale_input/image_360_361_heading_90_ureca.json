@@ -1,0 +1,126 @@
+{
+  "image": "image_360_361_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        329,
+        254,
+        344,
+        276
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        229,
+        258,
+        476,
+        277
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        249,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        194,
+        511,
+        277
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        248,
+        305,
+        284
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        253
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        346,
+        261,
+        511,
+        275
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        352,
+        259,
+        511,
+        291
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        301,
+        249,
+        467,
+        258
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

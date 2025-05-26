@@ -1,0 +1,57 @@
+{
+  "image": "image_888_889_heading_90.jpg",
+  "class_ids": [
+    92,
+    111,
+    118,
+    131
+  ],
+  "class_names": [
+    "light",
+    "wall-tile",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        133,
+        369,
+        213
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        160,
+        511,
+        370
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        182
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        158,
+        511,
+        471
+      ]
+    }
+  ]
+}

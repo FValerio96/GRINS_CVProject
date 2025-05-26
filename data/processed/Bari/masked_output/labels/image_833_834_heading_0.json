@@ -1,0 +1,93 @@
+{
+  "image": "image_833_834_heading_0.jpg",
+  "class_ids": [
+    91,
+    101,
+    109,
+    115,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "house",
+    "roof",
+    "wall-brick",
+    "window-other",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        411,
+        25,
+        511,
+        70
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        351,
+        184,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        360,
+        219,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        352,
+        0,
+        511,
+        58
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        359,
+        215,
+        511,
+        346
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        182,
+        508,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "image": "image_491_492_heading_90.jpg",
+  "class_ids": [
+    91,
+    115,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "house",
+    "window-other",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        44,
+        421,
+        471,
+        443
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        68,
+        0,
+        312,
+        275
+      ],
+      "caption": "describe the window in the image above"
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        242,
+        433,
+        511,
+        448
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        420,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        446
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        257,
+        511,
+        440
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "image": "image_358_359_heading_180.jpg",
+  "class_ids": [
+    7,
+    100,
+    101,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "truck",
+    "road",
+    "roof",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        69,
+        169,
+        511,
+        464
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        275,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the truck is parked on the side of the road"
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        82,
+        168,
+        173,
+        227
+      ],
+      "caption": "describe the roof in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        32,
+        226,
+        85,
+        264
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        256,
+        80,
+        298
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        257
+      ],
+      "caption": "describe the sky in the image above, the sky is the sky, the sky is the sky, the sky is the sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        370,
+        72,
+        426
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        145,
+        136,
+        304,
+        181
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        262,
+        79,
+        385
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

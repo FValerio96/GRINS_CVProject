@@ -1,0 +1,126 @@
+{
+  "image": "image_21_22_heading_270.jpg",
+  "class_ids": [
+    2,
+    3,
+    80,
+    86,
+    110,
+    115,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "motorcycle",
+    "banner",
+    "door-stuff",
+    "wall-stone",
+    "window-other",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        320,
+        332,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        219,
+        315,
+        334,
+        393
+      ],
+      "caption": "describe the motorcycle in the image"
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        20,
+        91,
+        71,
+        244
+      ],
+      "caption": "describe the banner in the image"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        34,
+        260,
+        80,
+        330
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        442,
+        311,
+        511,
+        349
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        41,
+        72,
+        80,
+        164
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        148,
+        0,
+        295,
+        91
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        311,
+        337,
+        471
+      ],
+      "caption": "describe the pavement in the image, you can see the cobblese"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        370
+      ],
+      "caption": "describe the building in the image, you can see the bike parked in the alley"
+    }
+  ]
+}

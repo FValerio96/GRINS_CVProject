@@ -1,0 +1,93 @@
+{
+  "image": "image_629_630_heading_0.jpg",
+  "class_ids": [
+    92,
+    96,
+    98,
+    111,
+    118,
+    129,
+    131
+  ],
+  "class_names": [
+    "light",
+    "platform",
+    "railroad",
+    "wall-tile",
+    "ceiling-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        251,
+        0,
+        320,
+        199
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        229,
+        260,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        246,
+        329,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        129,
+        301,
+        356
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        248
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        322,
+        30,
+        511,
+        266
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

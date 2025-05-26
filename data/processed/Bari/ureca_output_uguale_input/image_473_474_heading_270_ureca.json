@@ -1,0 +1,139 @@
+{
+  "image": "image_473_474_heading_270.jpg",
+  "class_ids": [
+    2,
+    58,
+    86,
+    91,
+    100,
+    115,
+    117,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "door-stuff",
+    "house",
+    "road",
+    "window-other",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        354,
+        409,
+        471
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        391,
+        143,
+        511,
+        369
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        262,
+        290,
+        328,
+        345
+      ],
+      "caption": "describe the door in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        371
+      ],
+      "caption": "describe the house in the image of the apartment"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        24,
+        394,
+        43,
+        409
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        110,
+        213,
+        167,
+        251
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        245,
+        511,
+        411
+      ],
+      "caption": "describe the fence in the image, the fence is a fence that is a fence that is a fence that is a fence that is"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        336,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        366
+      ],
+      "caption": "describe the building in the image, the building is the apartment building"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        362,
+        0,
+        511,
+        446
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

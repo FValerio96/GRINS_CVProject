@@ -1,0 +1,87 @@
+{
+  "image": "image_122_123_heading_0.jpg",
+  "class_ids": [
+    91,
+    100,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "house",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        397,
+        471
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        198,
+        309,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        133,
+        0,
+        504,
+        200
+      ],
+      "caption": "describe the sky in the image above the whitewashed streets of the town of alcaca"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        152,
+        288,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is empty"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        131,
+        0,
+        511,
+        372
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        423,
+        304,
+        511,
+        392
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

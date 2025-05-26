@@ -1,0 +1,93 @@
+{
+  "image": "image_857_858_heading_90.jpg",
+  "class_ids": [
+    6,
+    90,
+    110,
+    117,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "train",
+    "gravel",
+    "wall-stone",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        77,
+        249,
+        506,
+        261
+      ]
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        310,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        405,
+        207,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        250,
+        511,
+        324
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        306,
+        511,
+        363
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        261
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        292,
+        511,
+        471
+      ]
+    }
+  ]
+}

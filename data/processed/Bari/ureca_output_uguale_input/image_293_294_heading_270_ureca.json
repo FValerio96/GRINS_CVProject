@@ -1,0 +1,87 @@
+{
+  "image": "image_293_294_heading_270.jpg",
+  "class_ids": [
+    2,
+    100,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        154,
+        258,
+        511,
+        316
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        261,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the street is empty, the street is empty, the street is empty, the street is empty"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        260
+      ],
+      "caption": "describe the sky in the image of the apartment complex in the city of la al - marma"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        277,
+        177,
+        319
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        261,
+        77,
+        291
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        183,
+        511,
+        281
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

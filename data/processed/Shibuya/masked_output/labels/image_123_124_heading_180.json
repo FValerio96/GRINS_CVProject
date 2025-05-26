@@ -1,0 +1,57 @@
+{
+  "image": "image_123_124_heading_180.jpg",
+  "class_ids": [
+    117,
+    118,
+    123,
+    131
+  ],
+  "class_names": [
+    "fence-merged",
+    "ceiling-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        173,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        204
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        209,
+        397,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        272
+      ]
+    }
+  ]
+}

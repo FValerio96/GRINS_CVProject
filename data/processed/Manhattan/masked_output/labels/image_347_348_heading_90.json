@@ -1,0 +1,105 @@
+{
+  "image": "image_347_348_heading_90.jpg",
+  "class_ids": [
+    13,
+    28,
+    92,
+    117,
+    118,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "suitcase",
+    "light",
+    "fence-merged",
+    "ceiling-merged",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        85,
+        269,
+        162,
+        311
+      ]
+    },
+    {
+      "class_id": 28,
+      "class_name": "suitcase",
+      "bbox": [
+        269,
+        305,
+        298,
+        328
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        12,
+        67,
+        511,
+        223
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        341,
+        261,
+        511,
+        367
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        204
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        296,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        135,
+        511,
+        343
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        459,
+        237,
+        511,
+        261
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "image": "image_229_230_heading_90.jpg",
+  "class_ids": [
+    86,
+    111,
+    118,
+    131
+  ],
+  "class_names": [
+    "door-stuff",
+    "wall-tile",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        466,
+        6,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        18,
+        162,
+        402,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        231,
+        0,
+        511,
+        169
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

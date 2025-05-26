@@ -1,0 +1,57 @@
+{
+  "image": "image_402_403_heading_0.jpg",
+  "class_ids": [
+    114,
+    115,
+    118,
+    131
+  ],
+  "class_names": [
+    "window-blind",
+    "window-other",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 114,
+      "class_name": "window-blind",
+      "bbox": [
+        438,
+        214,
+        511,
+        375
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        203,
+        475,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        76
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        61,
+        511,
+        471
+      ]
+    }
+  ]
+}

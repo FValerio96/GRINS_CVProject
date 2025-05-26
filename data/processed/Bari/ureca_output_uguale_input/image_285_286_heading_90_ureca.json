@@ -1,0 +1,87 @@
+{
+  "image": "image_285_286_heading_90.jpg",
+  "class_ids": [
+    100,
+    110,
+    116,
+    117,
+    119,
+    125
+  ],
+  "class_names": [
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        287,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        412,
+        287,
+        511,
+        317
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        222,
+        190,
+        511,
+        299
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        243,
+        227,
+        306
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        253
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        251,
+        250,
+        328
+      ],
+      "caption": "describe the grass in the image below"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "image": "image_341_342_heading_180.jpg",
+  "class_ids": [
+    90,
+    116,
+    119
+  ],
+  "class_names": [
+    "gravel",
+    "tree-merged",
+    "sky-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        387,
+        359,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        168,
+        0,
+        511,
+        77
+      ]
+    }
+  ]
+}

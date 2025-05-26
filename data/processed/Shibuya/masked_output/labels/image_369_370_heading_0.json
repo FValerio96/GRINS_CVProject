@@ -1,0 +1,81 @@
+{
+  "image": "image_369_370_heading_0.jpg",
+  "class_ids": [
+    39,
+    86,
+    111,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "bottle",
+    "door-stuff",
+    "wall-tile",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 39,
+      "class_name": "bottle",
+      "bbox": [
+        242,
+        419,
+        263,
+        471
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        221,
+        230,
+        477,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        511,
+        445
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        245,
+        0,
+        416,
+        65
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        312,
+        348,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

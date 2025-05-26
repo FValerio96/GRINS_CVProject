@@ -1,0 +1,105 @@
+{
+  "image": "image_110_111_heading_90.jpg",
+  "class_ids": [
+    80,
+    83,
+    92,
+    109,
+    117,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "banner",
+    "cardboard",
+    "light",
+    "wall-brick",
+    "fence-merged",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        467,
+        145,
+        511,
+        195
+      ]
+    },
+    {
+      "class_id": 83,
+      "class_name": "cardboard",
+      "bbox": [
+        434,
+        187,
+        511,
+        375
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        74,
+        104,
+        229,
+        162
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        230,
+        0,
+        464,
+        208
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        136,
+        445,
+        431
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        188
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        341,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        471,
+        207
+      ]
+    }
+  ]
+}

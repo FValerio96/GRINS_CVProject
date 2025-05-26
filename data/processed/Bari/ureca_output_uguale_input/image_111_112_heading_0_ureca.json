@@ -1,0 +1,87 @@
+{
+  "image": "image_111_112_heading_0.jpg",
+  "class_ids": [
+    9,
+    116,
+    117,
+    119,
+    125,
+    131
+  ],
+  "class_names": [
+    "traffic light",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        275,
+        202,
+        334,
+        301
+      ],
+      "caption": "describe the traffic light in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        199,
+        511,
+        471
+      ],
+      "caption": "describe the tree in the image, you can see the tree in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        350,
+        511,
+        471
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        239
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        284,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        296,
+        460,
+        347,
+        471
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

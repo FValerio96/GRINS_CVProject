@@ -1,0 +1,74 @@
+{
+  "image": "image_162_163_heading_0.jpg",
+  "class_ids": [
+    100,
+    103,
+    116,
+    119,
+    123
+  ],
+  "class_names": [
+    "road",
+    "sea",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        273,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        336,
+        250,
+        490,
+        283
+      ],
+      "caption": "describe the sea in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        180,
+        511,
+        379
+      ],
+      "caption": "describe the tree in the image, the road to the beach"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        254
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky and the ocean in the sky is blue"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        200,
+        327,
+        511,
+        412
+      ],
+      "caption": "describe the pavement in the image"
+    }
+  ]
+}

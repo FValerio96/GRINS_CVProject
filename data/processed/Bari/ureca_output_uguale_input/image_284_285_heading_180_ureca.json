@@ -1,0 +1,113 @@
+{
+  "image": "image_284_285_heading_180.jpg",
+  "class_ids": [
+    92,
+    99,
+    100,
+    110,
+    113,
+    116,
+    119,
+    125
+  ],
+  "class_names": [
+    "light",
+    "river",
+    "road",
+    "wall-stone",
+    "water-other",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        101,
+        21,
+        120,
+        50
+      ],
+      "caption": "describe the light in the image below"
+    },
+    {
+      "class_id": 99,
+      "class_name": "river",
+      "bbox": [
+        276,
+        247,
+        511,
+        295
+      ],
+      "caption": "describe the river in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        295,
+        256,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        156,
+        304,
+        418,
+        390
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 113,
+      "class_name": "water-other",
+      "bbox": [
+        509,
+        284,
+        511,
+        284
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        106,
+        511,
+        388
+      ],
+      "caption": "describe the tree in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        69,
+        283,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image"
+    }
+  ]
+}

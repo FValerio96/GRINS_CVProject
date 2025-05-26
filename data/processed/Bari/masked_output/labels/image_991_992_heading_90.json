@@ -1,0 +1,45 @@
+{
+  "image": "image_991_992_heading_90.jpg",
+  "class_ids": [
+    109,
+    123,
+    129
+  ],
+  "class_names": [
+    "wall-brick",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        23,
+        0,
+        511,
+        467
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        389,
+        106,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

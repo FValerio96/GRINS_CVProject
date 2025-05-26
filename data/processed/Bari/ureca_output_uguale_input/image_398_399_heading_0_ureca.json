@@ -1,0 +1,100 @@
+{
+  "image": "image_398_399_heading_0.jpg",
+  "class_ids": [
+    2,
+    91,
+    100,
+    103,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "house",
+    "road",
+    "sea",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        343,
+        267,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        310,
+        471
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        225,
+        276,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        316,
+        253,
+        365,
+        278
+      ],
+      "caption": "describe the sea in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        240,
+        0,
+        511,
+        256
+      ],
+      "caption": "describe the sky in the image of the street in the town of paga, paga, greece"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        170,
+        275,
+        507,
+        471
+      ],
+      "caption": "describe the pavement in the image, the street is empty, and the building is empty"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        236,
+        0,
+        511,
+        315
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

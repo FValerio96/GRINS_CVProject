@@ -1,0 +1,178 @@
+{
+  "image": "image_102_103_heading_270.jpg",
+  "class_ids": [
+    14,
+    86,
+    91,
+    106,
+    115,
+    116,
+    117,
+    118,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "bird",
+    "door-stuff",
+    "house",
+    "stairs",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "ceiling-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 14,
+      "class_name": "bird",
+      "bbox": [
+        140,
+        94,
+        157,
+        130
+      ],
+      "caption": "bird in the sky"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        146,
+        202,
+        456,
+        433
+      ],
+      "caption": "doord apartment in the heart of the city"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        32,
+        0,
+        511,
+        467
+      ],
+      "caption": "house for sale in the center of the city of jerusalem"
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        320,
+        3,
+        323
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        350,
+        0,
+        453,
+        61
+      ],
+      "caption": "window with a window pane"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        121,
+        192,
+        377
+      ],
+      "caption": "tree house for sale in the centre of saint - martin"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        68,
+        52,
+        264,
+        153
+      ],
+      "caption": "fenced balcony on a house"
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        79,
+        0,
+        167,
+        42
+      ],
+      "caption": "ceiling fan with light"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        95,
+        140
+      ],
+      "caption": "sky is blue"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        318,
+        511,
+        471
+      ],
+      "caption": "pavemented house in the heart of the village"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        366,
+        155,
+        445
+      ],
+      "caption": "grass growing in a concrete block"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        267,
+        324
+      ],
+      "caption": "building for sale in the heart of the city of jala"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        93,
+        0,
+        511,
+        141
+      ],
+      "caption": "wallpapers - wallpapers - wallpapers - wallpapers - wallpapers - wall"
+    }
+  ]
+}

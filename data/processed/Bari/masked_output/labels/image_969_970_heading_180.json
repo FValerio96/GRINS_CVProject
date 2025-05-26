@@ -1,0 +1,69 @@
+{
+  "image": "image_969_970_heading_180.jpg",
+  "class_ids": [
+    2,
+    116,
+    117,
+    119,
+    131
+  ],
+  "class_names": [
+    "car",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        289,
+        381,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        239
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        296,
+        153,
+        321,
+        159
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        159
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        228,
+        511,
+        471
+      ]
+    }
+  ]
+}

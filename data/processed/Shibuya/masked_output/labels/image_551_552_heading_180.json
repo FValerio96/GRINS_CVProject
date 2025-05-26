@@ -1,0 +1,93 @@
+{
+  "image": "image_551_552_heading_180.jpg",
+  "class_ids": [
+    1,
+    86,
+    115,
+    116,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "bicycle",
+    "door-stuff",
+    "window-other",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        91,
+        375,
+        332,
+        471
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        199,
+        41,
+        343
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        344,
+        0,
+        511,
+        180
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        22,
+        155,
+        511,
+        366
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        343,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        335
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        4,
+        193,
+        25,
+        199
+      ]
+    }
+  ]
+}

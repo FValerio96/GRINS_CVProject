@@ -1,0 +1,74 @@
+{
+  "image": "image_261_262_heading_180.jpg",
+  "class_ids": [
+    14,
+    91,
+    116,
+    119,
+    129
+  ],
+  "class_names": [
+    "bird",
+    "house",
+    "tree-merged",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 14,
+      "class_name": "bird",
+      "bbox": [
+        445,
+        156,
+        446,
+        157
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        55,
+        90,
+        435,
+        175
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        152,
+        511,
+        471
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        296,
+        170
+      ],
+      "caption": "describe the sky in the image above the apartment"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        53,
+        0,
+        511,
+        177
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

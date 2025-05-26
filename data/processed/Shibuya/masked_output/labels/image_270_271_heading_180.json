@@ -1,0 +1,117 @@
+{
+  "image": "image_270_271_heading_180.jpg",
+  "class_ids": [
+    86,
+    100,
+    114,
+    115,
+    116,
+    118,
+    122,
+    123,
+    129
+  ],
+  "class_names": [
+    "door-stuff",
+    "road",
+    "window-blind",
+    "window-other",
+    "tree-merged",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        197,
+        210,
+        257,
+        358
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        429,
+        464,
+        471
+      ]
+    },
+    {
+      "class_id": 114,
+      "class_name": "window-blind",
+      "bbox": [
+        382,
+        331,
+        495,
+        379
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        16,
+        122,
+        104
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        179,
+        129,
+        455
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        193,
+        0,
+        275,
+        36
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        148,
+        349,
+        298,
+        405
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        115,
+        352,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        422
+      ]
+    }
+  ]
+}

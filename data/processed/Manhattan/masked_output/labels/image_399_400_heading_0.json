@@ -1,0 +1,69 @@
+{
+  "image": "image_399_400_heading_0.jpg",
+  "class_ids": [
+    8,
+    106,
+    117,
+    123,
+    129
+  ],
+  "class_names": [
+    "boat",
+    "stairs",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 8,
+      "class_name": "boat",
+      "bbox": [
+        0,
+        302,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        483,
+        394,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        220,
+        511,
+        463
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        357,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        248
+      ]
+    }
+  ]
+}

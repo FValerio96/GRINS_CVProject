@@ -1,0 +1,57 @@
+{
+  "image": "image_166_167_heading_180.jpg",
+  "class_ids": [
+    85,
+    111,
+    118,
+    131
+  ],
+  "class_names": [
+    "curtain",
+    "wall-tile",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 85,
+      "class_name": "curtain",
+      "bbox": [
+        211,
+        0,
+        306,
+        47
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        312,
+        169
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        55,
+        306,
+        471
+      ]
+    }
+  ]
+}

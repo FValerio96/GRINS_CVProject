@@ -1,0 +1,113 @@
+{
+  "image": "image_21_22_heading_0.jpg",
+  "class_ids": [
+    0,
+    2,
+    58,
+    86,
+    100,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "potted plant",
+    "door-stuff",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        170,
+        262,
+        265,
+        299
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        262,
+        253,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        349,
+        259,
+        374,
+        324
+      ],
+      "caption": "describe the potted plant in the image below"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        401,
+        236,
+        511,
+        406
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        67,
+        271,
+        396,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        74,
+        0,
+        289,
+        202
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        20,
+        272,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        355
+      ],
+      "caption": "describe the building in the image above, the street is the same"
+    }
+  ]
+}

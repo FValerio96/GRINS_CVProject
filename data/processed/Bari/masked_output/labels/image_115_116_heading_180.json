@@ -1,0 +1,57 @@
+{
+  "image": "image_115_116_heading_180.jpg",
+  "class_ids": [
+    82,
+    100,
+    119,
+    123
+  ],
+  "class_names": [
+    "bridge",
+    "road",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        238,
+        511,
+        460
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        5,
+        245,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        249
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        377,
+        94,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "image": "image_487_488_heading_270.jpg",
+  "class_ids": [
+    0,
+    1,
+    2,
+    3,
+    80,
+    92,
+    100,
+    119,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "motorcycle",
+    "banner",
+    "light",
+    "road",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        4,
+        242,
+        348,
+        471
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        176,
+        247,
+        355,
+        322
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        245,
+        511,
+        421
+      ]
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        167,
+        248,
+        317,
+        292
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        250,
+        0,
+        322,
+        92
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        231,
+        78,
+        391,
+        169
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        240,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        131,
+        0,
+        273,
+        220
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        266
+      ]
+    }
+  ]
+}

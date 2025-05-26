@@ -1,0 +1,152 @@
+{
+  "image": "image_280_281_heading_180.jpg",
+  "class_ids": [
+    0,
+    2,
+    13,
+    58,
+    91,
+    100,
+    101,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bench",
+    "potted plant",
+    "house",
+    "road",
+    "roof",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        362,
+        254,
+        374,
+        289
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        254,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        309,
+        291,
+        330,
+        307
+      ],
+      "caption": "describe the bench in the image below"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        79,
+        276,
+        199,
+        321
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        32,
+        355,
+        325
+      ],
+      "caption": "describe the house in the image, the car is parked in front of the house"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        261,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image above, the street in the picture below is the street where the car is parked"
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        0,
+        30,
+        188,
+        98
+      ],
+      "caption": "describe the roof in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        118,
+        202,
+        462,
+        294
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        231
+      ],
+      "caption": "describe the sky in the image above the street in the photo google / google"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        51,
+        277,
+        371,
+        376
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        88,
+        511,
+        324
+      ],
+      "caption": "describe the building in the image above"
+    }
+  ]
+}

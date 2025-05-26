@@ -1,0 +1,69 @@
+{
+  "image": "image_355_356_heading_270.jpg",
+  "class_ids": [
+    54,
+    92,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "donut",
+    "light",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 54,
+      "class_name": "donut",
+      "bbox": [
+        127,
+        459,
+        201,
+        471
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        170,
+        443,
+        194
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        395,
+        0,
+        511,
+        107
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        302,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

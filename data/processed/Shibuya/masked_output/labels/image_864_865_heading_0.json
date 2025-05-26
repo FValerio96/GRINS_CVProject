@@ -1,0 +1,81 @@
+{
+  "image": "image_864_865_heading_0.jpg",
+  "class_ids": [
+    0,
+    9,
+    92,
+    100,
+    119,
+    129
+  ],
+  "class_names": [
+    "person",
+    "traffic light",
+    "light",
+    "road",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        125,
+        257,
+        135,
+        271
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        393,
+        172,
+        413,
+        195
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        169,
+        209,
+        194,
+        259
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        251,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        209
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        15,
+        511,
+        282
+      ]
+    }
+  ]
+}

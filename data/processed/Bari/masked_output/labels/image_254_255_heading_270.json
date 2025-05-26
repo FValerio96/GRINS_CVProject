@@ -1,0 +1,69 @@
+{
+  "image": "image_254_255_heading_270.jpg",
+  "class_ids": [
+    11,
+    100,
+    117,
+    119,
+    123
+  ],
+  "class_names": [
+    "stop sign",
+    "road",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        48,
+        165,
+        511,
+        373
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        250,
+        319,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        178,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        232
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        129,
+        318,
+        383,
+        471
+      ]
+    }
+  ]
+}

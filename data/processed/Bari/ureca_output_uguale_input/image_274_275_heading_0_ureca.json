@@ -1,0 +1,100 @@
+{
+  "image": "image_274_275_heading_0.jpg",
+  "class_ids": [
+    2,
+    100,
+    116,
+    117,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        253,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, the car is parked on the street"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        253,
+        507,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture, the street in the picture is the street in the"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        102,
+        231,
+        148,
+        267
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        300,
+        224,
+        511,
+        290
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image above the photo, the view of the street from the street"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        98,
+        511,
+        295
+      ],
+      "caption": "describe the building in the image, the building is the same as the building in the picture"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        297,
+        268,
+        511,
+        343
+      ],
+      "caption": "describe the wall in the image above the car"
+    }
+  ]
+}

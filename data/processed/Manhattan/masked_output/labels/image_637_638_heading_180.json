@@ -1,0 +1,81 @@
+{
+  "image": "image_637_638_heading_180.jpg",
+  "class_ids": [
+    0,
+    11,
+    117,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "stop sign",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        498,
+        150,
+        511,
+        211
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        223,
+        215,
+        257,
+        246
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        247,
+        511,
+        385
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        409,
+        497,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        348,
+        511,
+        471
+      ]
+    }
+  ]
+}

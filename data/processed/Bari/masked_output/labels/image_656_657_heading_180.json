@@ -1,0 +1,153 @@
+{
+  "image": "image_656_657_heading_180.jpg",
+  "class_ids": [
+    2,
+    58,
+    86,
+    111,
+    115,
+    116,
+    117,
+    118,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "door-stuff",
+    "wall-tile",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        219,
+        281,
+        249,
+        319
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        433,
+        83,
+        511,
+        103
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        182,
+        250,
+        250,
+        357
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        483,
+        252
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        431,
+        95,
+        433,
+        100
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        269,
+        137,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        93,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        49
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        37,
+        350,
+        216,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        38,
+        356,
+        481,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        373
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        253,
+        31,
+        511,
+        357
+      ]
+    }
+  ]
+}

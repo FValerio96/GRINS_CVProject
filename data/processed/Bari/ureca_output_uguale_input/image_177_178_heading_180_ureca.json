@@ -1,0 +1,113 @@
+{
+  "image": "image_177_178_heading_180.jpg",
+  "class_ids": [
+    58,
+    116,
+    117,
+    119,
+    123,
+    125,
+    126,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        415,
+        251,
+        472,
+        359
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        37,
+        511,
+        322
+      ],
+      "caption": "describe the tree in the image, you can see the tree in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        278,
+        240,
+        511,
+        317
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        157
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        403,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below, the road is a road that is not a road"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        160,
+        276,
+        511,
+        405
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        373,
+        511,
+        471
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        238,
+        511,
+        376
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

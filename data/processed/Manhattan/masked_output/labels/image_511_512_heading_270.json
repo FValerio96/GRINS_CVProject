@@ -1,0 +1,129 @@
+{
+  "image": "image_511_512_heading_270.jpg",
+  "class_ids": [
+    0,
+    1,
+    24,
+    80,
+    100,
+    117,
+    123,
+    129,
+    130,
+    131
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "backpack",
+    "banner",
+    "road",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "rock-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        52,
+        282,
+        464,
+        411
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        119,
+        302,
+        485,
+        412
+      ]
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        458,
+        350,
+        478,
+        371
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        194,
+        112,
+        511,
+        266
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        373,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        263,
+        511,
+        340
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        316,
+        511,
+        440
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        335
+      ]
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        59,
+        374,
+        142,
+        415
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        109,
+        511,
+        282
+      ]
+    }
+  ]
+}

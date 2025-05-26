@@ -1,0 +1,100 @@
+{
+  "image": "image_131_132_heading_0.jpg",
+  "class_ids": [
+    2,
+    91,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "house",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        78,
+        260,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, the car is parked on the street"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        88,
+        179,
+        375
+      ],
+      "caption": "describe the house in the image above, the house is on the right of the street"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        268,
+        389,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        209,
+        258,
+        238,
+        268
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        392,
+        247
+      ],
+      "caption": "describe the sky in the image above the street in the town of saint - emiliot"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        290,
+        375,
+        409
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        381
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

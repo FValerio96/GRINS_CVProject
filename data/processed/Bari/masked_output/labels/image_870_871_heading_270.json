@@ -1,0 +1,153 @@
+{
+  "image": "image_870_871_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    11,
+    25,
+    56,
+    60,
+    100,
+    107,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "stop sign",
+    "umbrella",
+    "chair",
+    "dining table",
+    "road",
+    "tent",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        0,
+        272,
+        205,
+        471
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        499,
+        263,
+        511,
+        281
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        500,
+        238,
+        511,
+        262
+      ]
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        293,
+        221,
+        445,
+        250
+      ]
+    },
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        34,
+        288,
+        511,
+        394
+      ]
+    },
+    {
+      "class_id": 60,
+      "class_name": "dining table",
+      "bbox": [
+        211,
+        334,
+        254,
+        358
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        333,
+        435,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 107,
+      "class_name": "tent",
+      "bbox": [
+        296,
+        245,
+        449,
+        280
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        429,
+        185,
+        511,
+        301
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        347,
+        0,
+        511,
+        220
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        310,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        388
+      ]
+    }
+  ]
+}

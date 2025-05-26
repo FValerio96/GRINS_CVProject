@@ -1,0 +1,100 @@
+{
+  "image": "image_417_418_heading_270.jpg",
+  "class_ids": [
+    86,
+    91,
+    100,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "road",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        204,
+        253,
+        252,
+        401
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        195,
+        269,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        429,
+        0,
+        511,
+        128
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        270,
+        0,
+        477,
+        242
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        181,
+        287,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        230,
+        0,
+        511,
+        341
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

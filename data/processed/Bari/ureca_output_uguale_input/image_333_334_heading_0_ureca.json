@@ -1,0 +1,139 @@
+{
+  "image": "image_333_334_heading_0.jpg",
+  "class_ids": [
+    2,
+    13,
+    80,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "bench",
+    "banner",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        6,
+        260,
+        34,
+        271
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        204,
+        282,
+        296,
+        293
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        182,
+        210,
+        391,
+        223
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        292,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the building"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        246,
+        33,
+        272
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        50,
+        164,
+        511,
+        216
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        231
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        271,
+        511,
+        429
+      ],
+      "caption": "describe the pavement in the image, the pavement is a lot of parking lots of parking lots of parking lots of parking lots of parking"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        193,
+        511,
+        293
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        157,
+        197,
+        511,
+        291
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

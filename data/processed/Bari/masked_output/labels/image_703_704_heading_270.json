@@ -1,0 +1,69 @@
+{
+  "image": "image_703_704_heading_270.jpg",
+  "class_ids": [
+    91,
+    112,
+    115,
+    118,
+    131
+  ],
+  "class_names": [
+    "house",
+    "wall-wood",
+    "window-other",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 112,
+      "class_name": "wall-wood",
+      "bbox": [
+        179,
+        381,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        22,
+        0,
+        179,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        371,
+        0,
+        511,
+        35
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        310,
+        384,
+        389,
+        389
+      ]
+    }
+  ]
+}

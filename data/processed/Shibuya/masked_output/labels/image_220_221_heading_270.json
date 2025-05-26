@@ -1,0 +1,93 @@
+{
+  "image": "image_220_221_heading_270.jpg",
+  "class_ids": [
+    80,
+    106,
+    116,
+    117,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "banner",
+    "stairs",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        155,
+        377,
+        230,
+        440
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        354,
+        290,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        154,
+        314,
+        303,
+        417
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        301,
+        204,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        181,
+        0,
+        273,
+        99
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        111,
+        337,
+        392,
+        471
+      ]
+    }
+  ]
+}

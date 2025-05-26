@@ -1,0 +1,69 @@
+{
+  "image": "image_166_167_heading_90.jpg",
+  "class_ids": [
+    25,
+    92,
+    106,
+    118,
+    131
+  ],
+  "class_names": [
+    "umbrella",
+    "light",
+    "stairs",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        264,
+        250,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        321,
+        191,
+        491,
+        283
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        181,
+        327,
+        323,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        379
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        206,
+        511,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "image": "image_384_385_heading_270.jpg",
+  "class_ids": [
+    45,
+    83,
+    114,
+    115,
+    116,
+    121,
+    122,
+    129
+  ],
+  "class_names": [
+    "bowl",
+    "cardboard",
+    "window-blind",
+    "window-other",
+    "tree-merged",
+    "table-merged",
+    "floor-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 45,
+      "class_name": "bowl",
+      "bbox": [
+        0,
+        424,
+        98,
+        471
+      ]
+    },
+    {
+      "class_id": 83,
+      "class_name": "cardboard",
+      "bbox": [
+        0,
+        340,
+        100,
+        448
+      ]
+    },
+    {
+      "class_id": 114,
+      "class_name": "window-blind",
+      "bbox": [
+        101,
+        225,
+        462,
+        430
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        241,
+        0,
+        511,
+        53
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        22,
+        352,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 121,
+      "class_name": "table-merged",
+      "bbox": [
+        16,
+        408,
+        212,
+        471
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        87,
+        390,
+        365,
+        444
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        451
+      ]
+    }
+  ]
+}

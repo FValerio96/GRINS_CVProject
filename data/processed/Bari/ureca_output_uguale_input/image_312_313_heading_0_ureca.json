@@ -1,0 +1,152 @@
+{
+  "image": "image_312_313_heading_0.jpg",
+  "class_ids": [
+    0,
+    1,
+    2,
+    13,
+    58,
+    88,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "bench",
+    "potted plant",
+    "flower",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        131,
+        291,
+        161,
+        366
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        65,
+        291,
+        196,
+        342
+      ],
+      "caption": "describe the bicycle in the image below the bike is the person in the picture"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        265,
+        420,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        192,
+        299,
+        409,
+        337
+      ],
+      "caption": "describe the bench in the image below the tree"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        219,
+        285,
+        340,
+        312
+      ],
+      "caption": "describe the potted plant in the image below"
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        214,
+        274,
+        343,
+        316
+      ],
+      "caption": "describe the flower in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        292,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the car parked in the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        161,
+        311
+      ],
+      "caption": "describe the tree in the image, the tree is in the picture, the tree is in the picture, the tree is in the"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        138,
+        0,
+        511,
+        117
+      ],
+      "caption": "describe the sky in the image above the house"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        106,
+        297,
+        511,
+        380
+      ],
+      "caption": "describe the pavement in the image below the car"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        70,
+        67,
+        511,
+        334
+      ],
+      "caption": "describe the building in the image, the building is the building of the hotel"
+    }
+  ]
+}

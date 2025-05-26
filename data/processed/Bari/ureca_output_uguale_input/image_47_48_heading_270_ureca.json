@@ -1,0 +1,74 @@
+{
+  "image": "image_47_48_heading_270.jpg",
+  "class_ids": [
+    90,
+    100,
+    116,
+    119,
+    126
+  ],
+  "class_names": [
+    "gravel",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        317,
+        486,
+        396
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        333,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        199,
+        511,
+        367
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the photo below the sky is a clear blue sky"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        320,
+        511,
+        421
+      ],
+      "caption": "describe the dirt in the image below"
+    }
+  ]
+}

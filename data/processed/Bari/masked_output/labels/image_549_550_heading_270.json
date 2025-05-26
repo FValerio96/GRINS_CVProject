@@ -1,0 +1,69 @@
+{
+  "image": "image_549_550_heading_270.jpg",
+  "class_ids": [
+    88,
+    91,
+    117,
+    119,
+    131
+  ],
+  "class_names": [
+    "flower",
+    "house",
+    "fence-merged",
+    "sky-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        409,
+        158,
+        511,
+        296
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        116,
+        87
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        35,
+        511,
+        301
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        26,
+        0,
+        511,
+        63
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        284,
+        511,
+        471
+      ]
+    }
+  ]
+}

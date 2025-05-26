@@ -1,0 +1,126 @@
+{
+  "image": "image_499_500_heading_180.jpg",
+  "class_ids": [
+    0,
+    2,
+    7,
+    13,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "truck",
+    "bench",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        359,
+        270,
+        366,
+        280
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        45,
+        256,
+        355,
+        314
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        93,
+        263,
+        261,
+        300
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        487,
+        320,
+        511,
+        372
+      ],
+      "caption": "describe the bench in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        259,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        91,
+        241,
+        147,
+        266
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        89,
+        0,
+        322,
+        247
+      ],
+      "caption": "describe the sky in the image above, the street in the picture below, the street in the picture below, the street in the"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        277,
+        499,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        320
+      ],
+      "caption": "describe the building in the image, the street is empty"
+    }
+  ]
+}

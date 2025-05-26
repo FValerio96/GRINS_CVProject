@@ -1,0 +1,139 @@
+{
+  "image": "image_18_19_heading_0.jpg",
+  "class_ids": [
+    92,
+    100,
+    103,
+    116,
+    117,
+    119,
+    123,
+    125,
+    126,
+    131
+  ],
+  "class_names": [
+    "light",
+    "road",
+    "sea",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        41,
+        15,
+        61,
+        33
+      ],
+      "caption": "describe the light in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        251,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the sea"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        208,
+        239,
+        327,
+        274
+      ],
+      "caption": "describe the sea in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        193,
+        511,
+        320
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        263,
+        94,
+        374
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        260
+      ],
+      "caption": "describe the sky in the image above the street"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        283,
+        511,
+        452
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        248,
+        42,
+        299
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        453,
+        356,
+        476,
+        364
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        263,
+        511,
+        373
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

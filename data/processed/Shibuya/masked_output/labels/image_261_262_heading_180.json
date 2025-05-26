@@ -1,0 +1,93 @@
+{
+  "image": "image_261_262_heading_180.jpg",
+  "class_ids": [
+    86,
+    92,
+    111,
+    115,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "door-stuff",
+    "light",
+    "wall-tile",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        230,
+        22,
+        296
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        144,
+        184,
+        213
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        158,
+        133,
+        511,
+        461
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        342,
+        0,
+        397,
+        23
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        238
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        279,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        132,
+        511,
+        471
+      ]
+    }
+  ]
+}

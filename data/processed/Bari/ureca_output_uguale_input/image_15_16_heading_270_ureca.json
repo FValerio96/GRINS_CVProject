@@ -1,0 +1,152 @@
+{
+  "image": "image_15_16_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    80,
+    90,
+    92,
+    100,
+    116,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "banner",
+    "gravel",
+    "light",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        61,
+        256,
+        66,
+        263
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        12,
+        247,
+        478,
+        279
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        498,
+        281,
+        499,
+        281
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        288,
+        511,
+        471
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        259,
+        0,
+        298,
+        31
+      ],
+      "caption": "describe the light in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        255,
+        124,
+        322
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        127,
+        467,
+        351
+      ],
+      "caption": "describe the tree in the image, the tree is in the middle of the street"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        233
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        418,
+        121,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        84,
+        267,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image, the grass is green and the grass is brown"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        31,
+        108,
+        511,
+        284
+      ],
+      "caption": "describe the building in the image above"
+    }
+  ]
+}

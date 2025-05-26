@@ -1,0 +1,113 @@
+{
+  "image": "image_378_379_heading_0.jpg",
+  "class_ids": [
+    75,
+    86,
+    104,
+    106,
+    118,
+    122,
+    127,
+    131
+  ],
+  "class_names": [
+    "vase",
+    "door-stuff",
+    "shelf",
+    "stairs",
+    "ceiling-merged",
+    "floor-other-merged",
+    "paper-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 75,
+      "class_name": "vase",
+      "bbox": [
+        209,
+        230,
+        339,
+        471
+      ],
+      "caption": "describe the vase in the image"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        0,
+        190,
+        243
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 104,
+      "class_name": "shelf",
+      "bbox": [
+        198,
+        307,
+        268,
+        339
+      ],
+      "caption": "describe the shelf in the image below"
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        191,
+        224,
+        471
+      ],
+      "caption": "describe the stairs in the image"
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        19,
+        0,
+        384,
+        93
+      ],
+      "caption": "describe the ceiling in the image below"
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        223,
+        412,
+        362,
+        471
+      ],
+      "caption": "describe the floor in the image"
+    },
+    {
+      "class_id": 127,
+      "class_name": "paper-merged",
+      "bbox": [
+        416,
+        129,
+        511,
+        209
+      ],
+      "caption": "describe the paper in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        17,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

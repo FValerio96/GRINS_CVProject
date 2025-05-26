@@ -1,0 +1,100 @@
+{
+  "image": "image_241_242_heading_90.jpg",
+  "class_ids": [
+    100,
+    116,
+    117,
+    119,
+    124,
+    125,
+    129
+  ],
+  "class_names": [
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        283,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        95,
+        511,
+        292
+      ],
+      "caption": "describe the tree in the image, the tree is in the picture, the tree is in the picture, the tree is in the"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        241,
+        237,
+        442,
+        288
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        243
+      ],
+      "caption": "describe the sky in the image above, the sky is a blue sky and there is a blue sky"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        426,
+        281,
+        441,
+        291
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        270,
+        511,
+        462
+      ],
+      "caption": "describe the grass in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        229,
+        46,
+        287
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

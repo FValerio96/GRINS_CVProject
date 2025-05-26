@@ -1,0 +1,105 @@
+{
+  "image": "image_456_457_heading_90.jpg",
+  "class_ids": [
+    9,
+    90,
+    96,
+    98,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "traffic light",
+    "gravel",
+    "platform",
+    "railroad",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        349,
+        150,
+        351,
+        150
+      ]
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        278,
+        308,
+        471
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        187,
+        418,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        248,
+        446,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        69,
+        260,
+        447,
+        380
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        274,
+        251
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        290,
+        331,
+        511,
+        467
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        10,
+        0,
+        511,
+        351
+      ]
+    }
+  ]
+}

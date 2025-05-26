@@ -1,0 +1,74 @@
+{
+  "image": "image_151_152_heading_270.jpg",
+  "class_ids": [
+    2,
+    7,
+    91,
+    100,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "house",
+    "road",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        395,
+        304,
+        511,
+        412
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        0,
+        126,
+        493,
+        471
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        257,
+        0,
+        511,
+        334
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        481,
+        407,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        288,
+        196
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

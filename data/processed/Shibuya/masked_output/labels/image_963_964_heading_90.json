@@ -1,0 +1,129 @@
+{
+  "image": "image_963_964_heading_90.jpg",
+  "class_ids": [
+    2,
+    25,
+    58,
+    86,
+    91,
+    100,
+    115,
+    117,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "umbrella",
+    "potted plant",
+    "door-stuff",
+    "house",
+    "road",
+    "window-other",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        53,
+        262,
+        204,
+        342
+      ]
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        78,
+        28,
+        127,
+        92
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        204,
+        255,
+        265,
+        369
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        389,
+        389,
+        511,
+        400
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        391,
+        400,
+        392,
+        400
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        53,
+        328,
+        204,
+        354
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        392,
+        0,
+        511,
+        83
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        14,
+        243,
+        129
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        331,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        408
+      ]
+    }
+  ]
+}

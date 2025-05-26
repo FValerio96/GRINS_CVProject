@@ -1,0 +1,87 @@
+{
+  "image": "image_478_479_heading_270.jpg",
+  "class_ids": [
+    82,
+    100,
+    116,
+    119,
+    123,
+    131
+  ],
+  "class_names": [
+    "bridge",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        425,
+        252,
+        457,
+        260
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        217,
+        246,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        149,
+        511,
+        360
+      ],
+      "caption": "describe the tree in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        253
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the photo below the sky is a blue sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        266,
+        453,
+        471
+      ],
+      "caption": "describe the pavement in the image, the sidewalk is paved and the sidewalk is paved"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        307,
+        289,
+        403
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

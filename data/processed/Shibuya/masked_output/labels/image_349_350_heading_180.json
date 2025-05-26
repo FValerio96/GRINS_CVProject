@@ -1,0 +1,129 @@
+{
+  "image": "image_349_350_heading_180.jpg",
+  "class_ids": [
+    10,
+    91,
+    100,
+    101,
+    112,
+    116,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "fire hydrant",
+    "house",
+    "road",
+    "roof",
+    "wall-wood",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        283,
+        262,
+        289,
+        271
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        263,
+        203,
+        371,
+        289
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        254,
+        505,
+        471
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        261,
+        203,
+        287,
+        220
+      ]
+    },
+    {
+      "class_id": 112,
+      "class_name": "wall-wood",
+      "bbox": [
+        391,
+        277,
+        453,
+        310
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        367
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        106,
+        0,
+        457,
+        231
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        334,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        304,
+        280,
+        511,
+        464
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        420,
+        0,
+        511,
+        325
+      ]
+    }
+  ]
+}

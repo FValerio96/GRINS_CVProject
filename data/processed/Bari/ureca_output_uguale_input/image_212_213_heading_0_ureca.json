@@ -1,0 +1,100 @@
+{
+  "image": "image_212_213_heading_0.jpg",
+  "class_ids": [
+    0,
+    2,
+    91,
+    100,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "house",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        277,
+        268,
+        288,
+        289
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        261,
+        420,
+        471
+      ],
+      "caption": "describe the car in the image, the car is parked on the street"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        49,
+        182,
+        371
+      ],
+      "caption": "describe the house in the image, the car is parked in the street"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        67,
+        263,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image above, the street is the same street as the street in the picture below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        108,
+        0,
+        458,
+        244
+      ],
+      "caption": "describe the sky in the image above the street in the old town of algo"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        19,
+        322,
+        511,
+        424
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        370
+      ],
+      "caption": "describe the building in the image above, the street in the picture is the street in the picture"
+    }
+  ]
+}

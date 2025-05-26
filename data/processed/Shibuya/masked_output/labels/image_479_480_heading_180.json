@@ -1,0 +1,117 @@
+{
+  "image": "image_479_480_heading_180.jpg",
+  "class_ids": [
+    13,
+    86,
+    92,
+    106,
+    117,
+    118,
+    122,
+    127,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "door-stuff",
+    "light",
+    "stairs",
+    "fence-merged",
+    "ceiling-merged",
+    "floor-other-merged",
+    "paper-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        327,
+        377,
+        379,
+        389
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        432,
+        258,
+        511,
+        392
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        128,
+        0,
+        354,
+        134
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        190,
+        271,
+        371,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        52,
+        376,
+        194,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        226
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        191,
+        359,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 127,
+      "class_name": "paper-merged",
+      "bbox": [
+        406,
+        299,
+        477,
+        434
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        123,
+        511,
+        471
+      ]
+    }
+  ]
+}

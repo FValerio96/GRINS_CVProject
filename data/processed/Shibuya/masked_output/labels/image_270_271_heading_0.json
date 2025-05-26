@@ -1,0 +1,189 @@
+{
+  "image": "image_270_271_heading_0.jpg",
+  "class_ids": [
+    0,
+    9,
+    11,
+    12,
+    26,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    126,
+    127,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "traffic light",
+    "stop sign",
+    "parking meter",
+    "handbag",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "paper-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        171,
+        247,
+        217,
+        310
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        436,
+        251,
+        455,
+        283
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        113,
+        108,
+        157,
+        150
+      ]
+    },
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        450,
+        245,
+        459,
+        252
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        200,
+        297,
+        216,
+        323
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        63,
+        148,
+        310
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        38,
+        251,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        146,
+        137,
+        329,
+        226
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        193,
+        207,
+        505,
+        418
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        494,
+        171
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        237,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        248,
+        303,
+        270,
+        402
+      ]
+    },
+    {
+      "class_id": 127,
+      "class_name": "paper-merged",
+      "bbox": [
+        311,
+        281,
+        422,
+        333
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        52,
+        0,
+        511,
+        378
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        296,
+        282,
+        511,
+        421
+      ]
+    }
+  ]
+}

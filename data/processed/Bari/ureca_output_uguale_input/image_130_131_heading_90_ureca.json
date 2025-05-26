@@ -1,0 +1,113 @@
+{
+  "image": "image_130_131_heading_90.jpg",
+  "class_ids": [
+    2,
+    98,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        260,
+        401,
+        287
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        428,
+        269,
+        511,
+        339
+      ],
+      "caption": "describe the railroad in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        261,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street view of the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        70,
+        231,
+        421,
+        284
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        415,
+        231,
+        511,
+        281
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        244
+      ],
+      "caption": "describe the sky in the image above the street in the centre of the city"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        134,
+        265,
+        291,
+        313
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        83,
+        511,
+        283
+      ],
+      "caption": "describe the building in the image, the building is the same, the building is the same"
+    }
+  ]
+}

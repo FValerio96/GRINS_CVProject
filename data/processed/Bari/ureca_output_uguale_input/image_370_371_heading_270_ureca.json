@@ -1,0 +1,113 @@
+{
+  "image": "image_370_371_heading_270.jpg",
+  "class_ids": [
+    2,
+    3,
+    100,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "motorcycle",
+    "road",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        169,
+        270,
+        357,
+        358
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        0,
+        284,
+        87,
+        362
+      ],
+      "caption": "describe the motorcycle in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        300,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        351,
+        275,
+        511,
+        441
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        215,
+        0,
+        408,
+        174
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        292,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is a lot of parking"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        311
+      ],
+      "caption": "describe the building in the image, you can see the building in the picture"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        432,
+        261,
+        511,
+        440
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "image": "image_466_467_heading_0.jpg",
+  "class_ids": [
+    0,
+    58,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "potted plant",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        296,
+        370,
+        363,
+        414
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        451,
+        310,
+        500,
+        328
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        410,
+        0,
+        511,
+        144
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        321,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        6,
+        0,
+        511,
+        457
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        374,
+        458
+      ]
+    }
+  ]
+}

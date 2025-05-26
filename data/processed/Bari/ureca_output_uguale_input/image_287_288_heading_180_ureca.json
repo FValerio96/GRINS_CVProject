@@ -1,0 +1,126 @@
+{
+  "image": "image_287_288_heading_180.jpg",
+  "class_ids": [
+    0,
+    2,
+    26,
+    86,
+    100,
+    109,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "handbag",
+    "door-stuff",
+    "road",
+    "wall-brick",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        326,
+        284,
+        354,
+        362
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        314,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, the car in the picture, the car in the picture, the car in the picture, the"
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        328,
+        340,
+        336,
+        352
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        324,
+        284,
+        328,
+        291
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        391,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        43,
+        308,
+        169
+      ],
+      "caption": "describe the wall in the image above the picture"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        314,
+        73,
+        367,
+        125
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        341,
+        337,
+        382,
+        393
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        359
+      ],
+      "caption": "describe the building in the image, the building is the same, the building is the same"
+    }
+  ]
+}

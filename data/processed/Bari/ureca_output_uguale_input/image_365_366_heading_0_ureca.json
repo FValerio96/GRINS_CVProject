@@ -1,0 +1,152 @@
+{
+  "image": "image_365_366_heading_0.jpg",
+  "class_ids": [
+    2,
+    10,
+    12,
+    80,
+    100,
+    106,
+    116,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "fire hydrant",
+    "parking meter",
+    "banner",
+    "road",
+    "stairs",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        244,
+        267,
+        267,
+        290
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        387,
+        309,
+        431,
+        326
+      ],
+      "caption": "describe the fire hydrant in the image below"
+    },
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        204,
+        242,
+        215,
+        265
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        6,
+        159,
+        51,
+        200
+      ],
+      "caption": "describe the banner in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        162,
+        267,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        464,
+        269,
+        511,
+        331
+      ],
+      "caption": "describe the stairs in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        409
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        496,
+        254
+      ],
+      "caption": "describe the sky in the image above the street in the centre of the town"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        46,
+        290,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is paved and the road is paved"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        90,
+        511,
+        323
+      ],
+      "caption": "describe the building in the image, the street is empty"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        293,
+        211,
+        471
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

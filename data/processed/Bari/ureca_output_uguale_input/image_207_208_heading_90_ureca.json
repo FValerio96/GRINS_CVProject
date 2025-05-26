@@ -1,0 +1,113 @@
+{
+  "image": "image_207_208_heading_90.jpg",
+  "class_ids": [
+    90,
+    100,
+    110,
+    116,
+    119,
+    124,
+    125,
+    130
+  ],
+  "class_names": [
+    "gravel",
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "grass-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        477,
+        298,
+        511,
+        326
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        262,
+        248,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        278,
+        369,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        21,
+        126,
+        511,
+        367
+      ],
+      "caption": "describe the tree in the image, you can see the olive tree in the picture"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image above the tree"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        0,
+        250,
+        511,
+        442
+      ],
+      "caption": "describe the mountain in the image, you can see the road and the mountain"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        255,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image, the grass is growing, the grass is growing, the grass is growing, the grass is growing"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        343,
+        283,
+        356,
+        303
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

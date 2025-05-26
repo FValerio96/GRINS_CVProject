@@ -1,0 +1,105 @@
+{
+  "image": "image_741_742_heading_90.jpg",
+  "class_ids": [
+    0,
+    72,
+    92,
+    100,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "refrigerator",
+    "light",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        47,
+        277,
+        286,
+        471
+      ]
+    },
+    {
+      "class_id": 72,
+      "class_name": "refrigerator",
+      "bbox": [
+        334,
+        309,
+        371,
+        342
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        507,
+        50,
+        511,
+        58
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        297,
+        326,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        230,
+        0,
+        511,
+        208
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        160,
+        295,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        336
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        338,
+        192,
+        511,
+        366
+      ]
+    }
+  ]
+}

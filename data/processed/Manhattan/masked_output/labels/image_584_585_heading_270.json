@@ -1,0 +1,69 @@
+{
+  "image": "image_584_585_heading_270.jpg",
+  "class_ids": [
+    0,
+    39,
+    93,
+    111,
+    131
+  ],
+  "class_names": [
+    "person",
+    "bottle",
+    "mirror-stuff",
+    "wall-tile",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        109,
+        376,
+        237,
+        471
+      ]
+    },
+    {
+      "class_id": 39,
+      "class_name": "bottle",
+      "bbox": [
+        79,
+        268,
+        107,
+        283
+      ]
+    },
+    {
+      "class_id": 93,
+      "class_name": "mirror-stuff",
+      "bbox": [
+        0,
+        0,
+        415,
+        312
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

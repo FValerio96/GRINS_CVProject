@@ -1,0 +1,113 @@
+{
+  "image": "image_289_290_heading_180.jpg",
+  "class_ids": [
+    2,
+    9,
+    100,
+    117,
+    119,
+    123,
+    126,
+    129
+  ],
+  "class_names": [
+    "car",
+    "traffic light",
+    "road",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        256,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, the car is parked in the parking lot"
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        126,
+        223,
+        139,
+        241
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        35,
+        269,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        280,
+        56,
+        358
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        101,
+        0,
+        511,
+        202
+      ],
+      "caption": "describe the sky in the image of the apartment building"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        308,
+        202,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        247,
+        275,
+        319,
+        285
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        359
+      ],
+      "caption": "describe the building in the image, the building is the same, the building is the same, the building is the same"
+    }
+  ]
+}

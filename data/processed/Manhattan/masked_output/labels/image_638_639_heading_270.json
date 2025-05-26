@@ -1,0 +1,105 @@
+{
+  "image": "image_638_639_heading_270.jpg",
+  "class_ids": [
+    0,
+    13,
+    26,
+    92,
+    111,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "person",
+    "bench",
+    "handbag",
+    "light",
+    "wall-tile",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        269,
+        258,
+        362,
+        329
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        225,
+        281,
+        349,
+        328
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        299,
+        285,
+        310,
+        296
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        75,
+        95,
+        407,
+        209
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        259,
+        295,
+        334
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        415,
+        241
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        295,
+        400,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

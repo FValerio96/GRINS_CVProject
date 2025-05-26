@@ -1,0 +1,81 @@
+{
+  "image": "image_409_410_heading_0.jpg",
+  "class_ids": [
+    80,
+    109,
+    116,
+    123,
+    125,
+    131
+  ],
+  "class_names": [
+    "banner",
+    "wall-brick",
+    "tree-merged",
+    "pavement-merged",
+    "grass-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        0,
+        310,
+        89,
+        371
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        234,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        451
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        359,
+        337,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        370,
+        323,
+        511,
+        401
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        231,
+        511,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "image": "image_206_207_heading_270.jpg",
+  "class_ids": [
+    2,
+    58,
+    91,
+    100,
+    116,
+    117,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        337,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        346,
+        114,
+        380,
+        169
+      ],
+      "caption": "describe the potted plant in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        377
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        220,
+        411,
+        280,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        368,
+        0,
+        511,
+        51
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        350,
+        161,
+        377,
+        176
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        138,
+        344,
+        287,
+        413
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        465,
+        368
+      ],
+      "caption": "describe the building in the image, you can see the garages and the garages"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        95,
+        243,
+        144,
+        351
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

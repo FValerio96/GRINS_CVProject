@@ -1,0 +1,87 @@
+{
+  "image": "image_164_165_heading_270.jpg",
+  "class_ids": [
+    2,
+    3,
+    100,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "motorcycle",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        69,
+        256,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        162,
+        272,
+        217,
+        321
+      ],
+      "caption": "describe the motorcycle in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        261,
+        403,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        162,
+        0,
+        339,
+        217
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        317,
+        84,
+        382
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        357
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

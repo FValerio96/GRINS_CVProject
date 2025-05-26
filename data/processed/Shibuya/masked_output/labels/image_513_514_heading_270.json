@@ -1,0 +1,69 @@
+{
+  "image": "image_513_514_heading_270.jpg",
+  "class_ids": [
+    100,
+    111,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "road",
+    "wall-tile",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        389,
+        285,
+        511,
+        354
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        300,
+        167
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        170,
+        312,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        408
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        127,
+        390,
+        471
+      ]
+    }
+  ]
+}

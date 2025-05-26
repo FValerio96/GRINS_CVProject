@@ -1,0 +1,93 @@
+{
+  "image": "image_71_72_heading_270.jpg",
+  "class_ids": [
+    12,
+    91,
+    100,
+    116,
+    119,
+    126,
+    131
+  ],
+  "class_names": [
+    "parking meter",
+    "house",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "dirt-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        338,
+        299,
+        376,
+        365
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        133,
+        238,
+        253
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        392,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        14,
+        511,
+        371
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        238
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        352,
+        511,
+        460
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        325,
+        511,
+        377
+      ]
+    }
+  ]
+}

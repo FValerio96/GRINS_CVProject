@@ -1,0 +1,165 @@
+{
+  "image": "image_477_478_heading_90.jpg",
+  "class_ids": [
+    1,
+    2,
+    7,
+    13,
+    25,
+    56,
+    58,
+    60,
+    88,
+    100,
+    117,
+    123,
+    129
+  ],
+  "class_names": [
+    "bicycle",
+    "car",
+    "truck",
+    "bench",
+    "umbrella",
+    "chair",
+    "potted plant",
+    "dining table",
+    "flower",
+    "road",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        0,
+        329,
+        126,
+        383
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        456,
+        273,
+        511,
+        354
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        455,
+        287,
+        464,
+        330
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        264,
+        287,
+        278,
+        300
+      ]
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        273,
+        243,
+        310,
+        254
+      ]
+    },
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        239,
+        272,
+        365,
+        306
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        0,
+        108,
+        216,
+        315
+      ]
+    },
+    {
+      "class_id": 60,
+      "class_name": "dining table",
+      "bbox": [
+        273,
+        285,
+        291,
+        297
+      ]
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        0,
+        110,
+        150,
+        190
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        340,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        307,
+        257,
+        385
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        291,
+        461,
+        410
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        325
+      ]
+    }
+  ]
+}

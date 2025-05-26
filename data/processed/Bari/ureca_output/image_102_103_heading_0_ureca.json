@@ -1,0 +1,126 @@
+{
+  "image": "image_102_103_heading_0.jpg",
+  "class_ids": [
+    2,
+    3,
+    11,
+    91,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "motorcycle",
+    "stop sign",
+    "house",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        378,
+        265,
+        511,
+        341
+      ],
+      "caption": "car parking in the city"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        493,
+        331,
+        511,
+        384
+      ],
+      "caption": "motorcycle accident in the city"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        92,
+        194,
+        133,
+        290
+      ],
+      "caption": "stop sign for the road"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        348,
+        464
+      ],
+      "caption": "house for sale in the heart of the city of jala"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        247,
+        266,
+        511,
+        471
+      ],
+      "caption": "road in the center of the city of koros"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        121,
+        174,
+        511,
+        471
+      ],
+      "caption": "tree house for sale in the centre of the city of nice"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        274,
+        0,
+        511,
+        265
+      ],
+      "caption": "sky blue sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        268,
+        380,
+        471
+      ],
+      "caption": "pavemented street in the old town of kora, crete"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        239,
+        0,
+        511,
+        296
+      ],
+      "caption": "building for sale in the center of split split split split split split split split split split split split split split"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "image": "image_715_716_heading_90.jpg",
+  "class_ids": [
+    0,
+    26,
+    80,
+    92,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "person",
+    "handbag",
+    "banner",
+    "light",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        478,
+        277,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        478,
+        375,
+        511,
+        426
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        152,
+        249,
+        295,
+        346
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        236,
+        177,
+        268,
+        198
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        202
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        425,
+        480,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        184,
+        511,
+        437
+      ]
+    }
+  ]
+}

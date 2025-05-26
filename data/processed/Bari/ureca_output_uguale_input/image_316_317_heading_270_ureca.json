@@ -1,0 +1,100 @@
+{
+  "image": "image_316_317_heading_270.jpg",
+  "class_ids": [
+    2,
+    100,
+    116,
+    117,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        259,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        105,
+        264,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        136,
+        511,
+        332
+      ],
+      "caption": "describe the tree in the image, you can see the trees in the photo, and the cars are parked on the street"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        392,
+        261,
+        453,
+        277
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        81,
+        0,
+        511,
+        240
+      ],
+      "caption": "describe the sky in the image above the street view of the apartment building"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        293
+      ],
+      "caption": "describe the building in the image above, the building is the apartment building in the photo is the apartment building in the picture"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        262,
+        511,
+        371
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

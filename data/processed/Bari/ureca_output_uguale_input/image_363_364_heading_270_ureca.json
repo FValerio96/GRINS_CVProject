@@ -1,0 +1,152 @@
+{
+  "image": "image_363_364_heading_270.jpg",
+  "class_ids": [
+    58,
+    91,
+    100,
+    101,
+    105,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "house",
+    "road",
+    "roof",
+    "snow",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        40,
+        263,
+        410,
+        341
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        82,
+        218,
+        146,
+        241
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        68,
+        245,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the white painted on the road"
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        38,
+        194,
+        145,
+        232
+      ],
+      "caption": "describe the roof in the image below"
+    },
+    {
+      "class_id": 105,
+      "class_name": "snow",
+      "bbox": [
+        65,
+        443,
+        113,
+        471
+      ],
+      "caption": "describe the snow in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        148,
+        511,
+        288
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        247,
+        336,
+        381
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        246
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        11,
+        408,
+        130,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        80,
+        193,
+        151,
+        244
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        286,
+        301,
+        471
+      ],
+      "caption": "describe the wall in the image, the wall is a long, narrow, narrow, narrow street"
+    }
+  ]
+}

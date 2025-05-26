@@ -1,0 +1,81 @@
+{
+  "image": "image_827_828_heading_270.jpg",
+  "class_ids": [
+    10,
+    100,
+    116,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "fire hydrant",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        93,
+        301,
+        94,
+        301
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        317,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        318
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        99,
+        0,
+        511,
+        232
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        26,
+        282,
+        511,
+        430
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        235,
+        273,
+        396,
+        308
+      ]
+    }
+  ]
+}

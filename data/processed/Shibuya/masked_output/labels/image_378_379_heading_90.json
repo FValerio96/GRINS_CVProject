@@ -1,0 +1,105 @@
+{
+  "image": "image_378_379_heading_90.jpg",
+  "class_ids": [
+    106,
+    111,
+    118,
+    122,
+    123,
+    129,
+    131,
+    132
+  ],
+  "class_names": [
+    "stairs",
+    "wall-tile",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged",
+    "rug-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        382,
+        384,
+        390,
+        386
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        447,
+        442
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        356,
+        99,
+        430,
+        159
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        307,
+        431,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        353,
+        438,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        180,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 132,
+      "class_name": "rug-merged",
+      "bbox": [
+        339,
+        380,
+        466,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "image": "image_215_216_heading_180.jpg",
+  "class_ids": [
+    0,
+    2,
+    3,
+    90,
+    98,
+    100,
+    116,
+    117,
+    119,
+    125,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "motorcycle",
+    "gravel",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        57,
+        258,
+        66,
+        267
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        261,
+        315,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        123,
+        256,
+        160,
+        279
+      ],
+      "caption": "describe the motorcycle in the image below"
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        217,
+        315,
+        285,
+        339
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        251,
+        511,
+        353
+      ],
+      "caption": "describe the railroad in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        282,
+        409,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        133,
+        247,
+        506,
+        276
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        101,
+        250,
+        511,
+        279
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image above the photo"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        155,
+        247,
+        511,
+        278
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        227,
+        144,
+        268
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

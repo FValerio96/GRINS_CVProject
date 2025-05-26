@@ -1,0 +1,69 @@
+{
+  "image": "image_471_472_heading_180.jpg",
+  "class_ids": [
+    6,
+    92,
+    96,
+    98,
+    118
+  ],
+  "class_names": [
+    "train",
+    "light",
+    "platform",
+    "railroad",
+    "ceiling-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        0,
+        108,
+        511,
+        416
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        51,
+        511,
+        183
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        140,
+        367,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        319,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        185
+      ]
+    }
+  ]
+}

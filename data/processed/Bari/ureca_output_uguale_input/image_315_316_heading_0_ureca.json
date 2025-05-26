@@ -1,0 +1,61 @@
+{
+  "image": "image_315_316_heading_0.jpg",
+  "class_ids": [
+    109,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "wall-brick",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        37,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        112,
+        0,
+        152,
+        27
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        468
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        425,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

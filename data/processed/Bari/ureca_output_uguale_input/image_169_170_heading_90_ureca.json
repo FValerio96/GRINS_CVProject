@@ -1,0 +1,113 @@
+{
+  "image": "image_169_170_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    3,
+    5,
+    100,
+    116,
+    119,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "motorcycle",
+    "bus",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        113,
+        272,
+        127,
+        287
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        20,
+        253,
+        120,
+        286
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        82,
+        272,
+        104,
+        286
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        147,
+        174,
+        511,
+        471
+      ],
+      "caption": "describe the bus in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        252,
+        328,
+        471
+      ],
+      "caption": "describe the road in the image, the bus is parked on the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        244,
+        25,
+        263
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        254
+      ],
+      "caption": "describe the sky in the image above the bus"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        43,
+        0,
+        511,
+        277
+      ],
+      "caption": "describe the building in the image, the building is a hotel, the building is a restaurant, the building is a restaurant, the"
+    }
+  ]
+}

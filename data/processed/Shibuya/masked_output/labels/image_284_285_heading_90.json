@@ -1,0 +1,81 @@
+{
+  "image": "image_284_285_heading_90.jpg",
+  "class_ids": [
+    58,
+    100,
+    116,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "road",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        123,
+        247,
+        170,
+        362
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        418,
+        203,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        133,
+        247,
+        163,
+        343
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        359,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        234,
+        374
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        121,
+        0,
+        511,
+        411
+      ]
+    }
+  ]
+}

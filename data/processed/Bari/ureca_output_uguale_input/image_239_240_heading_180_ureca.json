@@ -1,0 +1,126 @@
+{
+  "image": "image_239_240_heading_180.jpg",
+  "class_ids": [
+    2,
+    10,
+    100,
+    116,
+    117,
+    119,
+    123,
+    126,
+    129
+  ],
+  "class_names": [
+    "car",
+    "fire hydrant",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        251,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the street view of the apartment building"
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        308,
+        278,
+        316,
+        292
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        262,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street view from the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        372,
+        312
+      ],
+      "caption": "describe the tree in the image, you can see the street view of the street"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        255,
+        511,
+        337
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        457,
+        204
+      ],
+      "caption": "describe the sky in the image above the street in the picture"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        278,
+        349,
+        471
+      ],
+      "caption": "describe the pavement in the image, you can see the street view of the street"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        469,
+        3,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        283
+      ],
+      "caption": "describe the building in the image above, the building is the location of the hotel"
+    }
+  ]
+}

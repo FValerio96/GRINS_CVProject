@@ -1,0 +1,139 @@
+{
+  "image": "image_163_164_heading_180.jpg",
+  "class_ids": [
+    2,
+    90,
+    100,
+    102,
+    116,
+    119,
+    123,
+    125,
+    126,
+    129
+  ],
+  "class_names": [
+    "car",
+    "gravel",
+    "road",
+    "sand",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        17,
+        249,
+        424,
+        272
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        307,
+        313,
+        419
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        252,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        0,
+        270,
+        300,
+        342
+      ],
+      "caption": "describe the sand in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        400
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        491,
+        240
+      ],
+      "caption": "describe the sky in the image above the street in the picture"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        259,
+        511,
+        448
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        265,
+        308,
+        408
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        278,
+        370,
+        422
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        119,
+        151,
+        511,
+        257
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

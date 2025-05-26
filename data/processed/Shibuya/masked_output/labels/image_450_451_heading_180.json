@@ -1,0 +1,81 @@
+{
+  "image": "image_450_451_heading_180.jpg",
+  "class_ids": [
+    109,
+    116,
+    119,
+    123,
+    126,
+    129
+  ],
+  "class_names": [
+    "wall-brick",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        124,
+        175,
+        511,
+        318
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        437
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        49,
+        139
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        391,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        435,
+        45,
+        445
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        48,
+        0,
+        272,
+        300
+      ]
+    }
+  ]
+}

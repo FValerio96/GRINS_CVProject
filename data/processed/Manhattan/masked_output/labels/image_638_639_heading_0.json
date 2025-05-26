@@ -1,0 +1,117 @@
+{
+  "image": "image_638_639_heading_0.jpg",
+  "class_ids": [
+    6,
+    13,
+    92,
+    96,
+    98,
+    118,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "train",
+    "bench",
+    "light",
+    "platform",
+    "railroad",
+    "ceiling-merged",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        126,
+        230,
+        511,
+        381
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        481,
+        284,
+        507,
+        302
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        116,
+        0,
+        283,
+        248
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        116,
+        262,
+        247,
+        467
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        117,
+        247,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        44,
+        0,
+        511,
+        251
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        25,
+        254,
+        248,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        106,
+        239,
+        120,
+        261
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        112,
+        471
+      ]
+    }
+  ]
+}

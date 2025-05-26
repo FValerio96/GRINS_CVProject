@@ -1,0 +1,87 @@
+{
+  "image": "image_233_234_heading_0.jpg",
+  "class_ids": [
+    2,
+    7,
+    100,
+    116,
+    119,
+    123
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        171,
+        261,
+        454,
+        307
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        0,
+        216,
+        314,
+        325
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        253,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        95,
+        216,
+        511,
+        280
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        253
+      ],
+      "caption": "describe the sky in the image above the photo is the sky, the sky is blue and the sky is white"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        247,
+        268,
+        511,
+        309
+      ],
+      "caption": "describe the pavement in the image below"
+    }
+  ]
+}

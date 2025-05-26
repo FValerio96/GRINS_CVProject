@@ -1,0 +1,81 @@
+{
+  "image": "image_429_430_heading_180.jpg",
+  "class_ids": [
+    0,
+    58,
+    80,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "potted plant",
+    "banner",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        279,
+        286,
+        280,
+        303
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        147,
+        262,
+        400,
+        325
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        109,
+        209,
+        153,
+        316
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        134,
+        0,
+        412,
+        123
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        264,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        450
+      ]
+    }
+  ]
+}

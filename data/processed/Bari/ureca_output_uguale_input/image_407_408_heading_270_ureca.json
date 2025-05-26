@@ -1,0 +1,61 @@
+{
+  "image": "image_407_408_heading_270.jpg",
+  "class_ids": [
+    91,
+    115,
+    119,
+    129
+  ],
+  "class_names": [
+    "house",
+    "window-other",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        18,
+        468,
+        32,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        298,
+        334,
+        449,
+        471
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        70,
+        0,
+        324,
+        132
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

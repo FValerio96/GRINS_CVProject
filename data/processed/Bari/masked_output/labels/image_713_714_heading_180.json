@@ -1,0 +1,69 @@
+{
+  "image": "image_713_714_heading_180.jpg",
+  "class_ids": [
+    91,
+    115,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "house",
+    "window-other",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        405,
+        214,
+        445,
+        355
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        171,
+        0,
+        407,
+        238
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        112,
+        285,
+        401,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        222,
+        234,
+        242,
+        267
+      ]
+    }
+  ]
+}

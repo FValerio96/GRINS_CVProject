@@ -1,0 +1,113 @@
+{
+  "image": "image_134_135_heading_270.jpg",
+  "class_ids": [
+    2,
+    7,
+    98,
+    100,
+    116,
+    119,
+    125,
+    126
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "railroad",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        127,
+        265,
+        173,
+        288
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        127,
+        264,
+        147,
+        274
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        217,
+        263,
+        511,
+        376
+      ],
+      "caption": "describe the railroad in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        253,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        237,
+        511,
+        282
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        252
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        247,
+        511,
+        359
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        290,
+        139,
+        430
+      ],
+      "caption": "describe the dirt in the image"
+    }
+  ]
+}

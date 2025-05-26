@@ -1,0 +1,139 @@
+{
+  "image": "image_332_333_heading_0.jpg",
+  "class_ids": [
+    56,
+    68,
+    91,
+    115,
+    117,
+    118,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "chair",
+    "microwave",
+    "house",
+    "window-other",
+    "fence-merged",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        8,
+        169,
+        194,
+        219
+      ],
+      "caption": "describe the chair in the image below the chair is the chair in the picture below the chair is the chair in the picture"
+    },
+    {
+      "class_id": 68,
+      "class_name": "microwave",
+      "bbox": [
+        476,
+        157,
+        511,
+        247
+      ],
+      "caption": "describe the microwave in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        451
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        0,
+        331,
+        200
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        298,
+        511,
+        402
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        129
+      ],
+      "caption": "describe the ceiling in the image below"
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        406,
+        511,
+        471
+      ],
+      "caption": "describe the floor in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        302,
+        407,
+        497,
+        426
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        5,
+        511,
+        317
+      ],
+      "caption": "describe the building in the image, you can see the balconys and bales"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        71,
+        511,
+        450
+      ],
+      "caption": "describe the wall in the image above the house"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "image": "image_856_857_heading_90.jpg",
+  "class_ids": [
+    82,
+    96,
+    98,
+    117,
+    119,
+    123
+  ],
+  "class_names": [
+    "bridge",
+    "platform",
+    "railroad",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        360,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        0,
+        432,
+        207,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        386,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        192,
+        511,
+        405
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        201
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        434,
+        204,
+        471
+      ]
+    }
+  ]
+}

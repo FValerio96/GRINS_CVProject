@@ -1,0 +1,81 @@
+{
+  "image": "image_479_480_heading_0.jpg",
+  "class_ids": [
+    72,
+    92,
+    111,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "refrigerator",
+    "light",
+    "wall-tile",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 72,
+      "class_name": "refrigerator",
+      "bbox": [
+        273,
+        266,
+        312,
+        397
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        236,
+        36,
+        511,
+        206
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        122,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        206
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        195,
+        345,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        118,
+        380,
+        324
+      ]
+    }
+  ]
+}

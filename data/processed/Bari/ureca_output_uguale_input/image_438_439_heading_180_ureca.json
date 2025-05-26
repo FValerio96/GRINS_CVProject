@@ -1,0 +1,126 @@
+{
+  "image": "image_438_439_heading_180.jpg",
+  "class_ids": [
+    2,
+    13,
+    91,
+    92,
+    100,
+    116,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "car",
+    "bench",
+    "house",
+    "light",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        80,
+        268,
+        122,
+        286
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        0,
+        289,
+        170,
+        336
+      ],
+      "caption": "describe the bench in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        491,
+        243,
+        511,
+        248
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        42,
+        0,
+        86,
+        38
+      ],
+      "caption": "describe the light in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        281,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the parking lot"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        221,
+        511,
+        320
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        252
+      ],
+      "caption": "describe the sky in the image above the street light pole"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        52,
+        280,
+        311,
+        312
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        316,
+        156,
+        350
+      ],
+      "caption": "describe the grass in the image below"
+    }
+  ]
+}

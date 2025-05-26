@@ -1,0 +1,113 @@
+{
+  "image": "image_484_485_heading_90.jpg",
+  "class_ids": [
+    2,
+    7,
+    91,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "house",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        261,
+        511,
+        397
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        191,
+        268,
+        461,
+        294
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        463,
+        237,
+        511,
+        285
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        273,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the cars parked in the parking lot"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        499,
+        336
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        137,
+        0,
+        511,
+        237
+      ],
+      "caption": "describe the sky in the image above the trees in the fore - image 1"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        111,
+        315,
+        384,
+        363
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        292
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

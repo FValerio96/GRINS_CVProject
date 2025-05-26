@@ -1,0 +1,152 @@
+{
+  "image": "image_355_356_heading_90.jpg",
+  "class_ids": [
+    2,
+    9,
+    11,
+    91,
+    100,
+    109,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "traffic light",
+    "stop sign",
+    "house",
+    "road",
+    "wall-brick",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        196,
+        293,
+        261,
+        344
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        255,
+        132,
+        399,
+        285
+      ],
+      "caption": "describe the traffic light in the image"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        82,
+        227,
+        511,
+        329
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        384,
+        256,
+        384,
+        259
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        299,
+        475,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        373,
+        288,
+        511,
+        385
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        332,
+        242,
+        359,
+        274
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        60,
+        277,
+        179,
+        297
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        234
+      ],
+      "caption": "describe the sky in the image above the street"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        278,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        117,
+        511,
+        332
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "image": "image_650_651_heading_180.jpg",
+  "class_ids": [
+    25,
+    58,
+    85,
+    101,
+    109,
+    115,
+    118,
+    131
+  ],
+  "class_names": [
+    "umbrella",
+    "potted plant",
+    "curtain",
+    "roof",
+    "wall-brick",
+    "window-other",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        419,
+        0,
+        479,
+        4
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        0,
+        235,
+        498,
+        471
+      ]
+    },
+    {
+      "class_id": 85,
+      "class_name": "curtain",
+      "bbox": [
+        444,
+        0,
+        511,
+        7
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        432,
+        0,
+        464,
+        4
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        223,
+        235,
+        382,
+        362
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        44,
+        0,
+        511,
+        126
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        41,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

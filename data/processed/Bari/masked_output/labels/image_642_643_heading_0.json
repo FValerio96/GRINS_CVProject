@@ -1,0 +1,57 @@
+{
+  "image": "image_642_643_heading_0.jpg",
+  "class_ids": [
+    115,
+    118,
+    123,
+    131
+  ],
+  "class_names": [
+    "window-other",
+    "ceiling-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        475,
+        139,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        147,
+        42
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        49,
+        468,
+        129,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

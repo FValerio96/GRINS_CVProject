@@ -1,0 +1,117 @@
+{
+  "image": "image_794_795_heading_270.jpg",
+  "class_ids": [
+    13,
+    86,
+    111,
+    115,
+    118,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "door-stuff",
+    "wall-tile",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        74,
+        44,
+        407,
+        76
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        264,
+        342,
+        365,
+        386
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        74,
+        511,
+        391
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        79,
+        221,
+        511,
+        349
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        20,
+        0,
+        511,
+        34
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        385,
+        511,
+        431
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        423,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        57,
+        511,
+        401
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        85
+      ]
+    }
+  ]
+}

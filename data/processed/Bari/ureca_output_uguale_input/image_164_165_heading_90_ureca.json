@@ -1,0 +1,113 @@
+{
+  "image": "image_164_165_heading_90.jpg",
+  "class_ids": [
+    2,
+    7,
+    10,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "fire hydrant",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        261,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        292,
+        274,
+        364,
+        330
+      ],
+      "caption": "describe the truck in the image below"
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        365,
+        318,
+        403,
+        347
+      ],
+      "caption": "describe the fire hydrant in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        53,
+        264,
+        500,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        178,
+        203,
+        266,
+        267
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        157,
+        0,
+        381,
+        227
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        304,
+        103,
+        387
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        360
+      ],
+      "caption": "describe the building in the image, you can see the street view of the building"
+    }
+  ]
+}

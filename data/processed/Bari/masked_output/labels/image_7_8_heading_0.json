@@ -1,0 +1,105 @@
+{
+  "image": "image_7_8_heading_0.jpg",
+  "class_ids": [
+    2,
+    7,
+    100,
+    119,
+    123,
+    126,
+    129,
+    130
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        79,
+        259,
+        399,
+        370
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        0,
+        271,
+        140,
+        471
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        81,
+        267,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        138,
+        0,
+        345,
+        238
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        380,
+        311,
+        511,
+        463
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        508,
+        459,
+        511,
+        462
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        345
+      ]
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        316,
+        352,
+        511,
+        461
+      ]
+    }
+  ]
+}

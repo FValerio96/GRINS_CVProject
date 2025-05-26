@@ -1,0 +1,139 @@
+{
+  "image": "image_324_325_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    100,
+    110,
+    116,
+    117,
+    119,
+    123,
+    124,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "mountain-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        188,
+        248,
+        193,
+        253
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        152,
+        261,
+        161,
+        273
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        252,
+        240,
+        471
+      ],
+      "caption": "describe the road in the image, the road is a quiet and quiet place"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        256,
+        320,
+        511,
+        459
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        274
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        178,
+        254,
+        511,
+        390
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        232
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        170,
+        261,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is paved and the road is paved"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        116,
+        217,
+        134,
+        226
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        242,
+        77,
+        289
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "image": "image_641_642_heading_0.jpg",
+  "class_ids": [
+    91,
+    114,
+    115,
+    131
+  ],
+  "class_names": [
+    "house",
+    "window-blind",
+    "window-other",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        234,
+        0,
+        511,
+        438
+      ]
+    },
+    {
+      "class_id": 114,
+      "class_name": "window-blind",
+      "bbox": [
+        507,
+        60,
+        511,
+        77
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        229,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

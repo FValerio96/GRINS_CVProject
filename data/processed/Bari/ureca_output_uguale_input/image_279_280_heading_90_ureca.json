@@ -1,0 +1,139 @@
+{
+  "image": "image_279_280_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    10,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "fire hydrant",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        344,
+        257,
+        421,
+        272
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        339,
+        255,
+        409,
+        283
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        311,
+        269,
+        341,
+        299
+      ],
+      "caption": "describe the fire hydrant in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        439,
+        162,
+        511,
+        203
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        32,
+        259,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street view of the street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        231,
+        183,
+        511,
+        295
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        443,
+        251,
+        511,
+        291
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        242
+      ],
+      "caption": "describe the sky in the image above the street light pole"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        274,
+        312,
+        471
+      ],
+      "caption": "describe the pavement in the image of the road in the city of al - shar"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        135,
+        511,
+        298
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

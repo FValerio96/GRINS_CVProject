@@ -1,0 +1,93 @@
+{
+  "image": "image_262_263_heading_270.jpg",
+  "class_ids": [
+    2,
+    5,
+    11,
+    100,
+    116,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "bus",
+    "stop sign",
+    "road",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        95,
+        297,
+        174,
+        406
+      ]
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        120,
+        248,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        180,
+        351,
+        207,
+        391
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        292,
+        242,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        201,
+        19,
+        457,
+        250
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        266,
+        141,
+        325
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        285
+      ]
+    }
+  ]
+}

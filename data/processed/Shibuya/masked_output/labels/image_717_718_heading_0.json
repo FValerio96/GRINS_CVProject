@@ -1,0 +1,81 @@
+{
+  "image": "image_717_718_heading_0.jpg",
+  "class_ids": [
+    109,
+    115,
+    116,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "wall-brick",
+    "window-other",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        45,
+        511,
+        419
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        65,
+        183,
+        68,
+        186
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        103,
+        511,
+        345
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        403,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        440
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        140,
+        402,
+        508,
+        435
+      ]
+    }
+  ]
+}

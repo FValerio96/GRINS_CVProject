@@ -1,0 +1,57 @@
+{
+  "image": "image_888_889_heading_270.jpg",
+  "class_ids": [
+    6,
+    92,
+    118,
+    131
+  ],
+  "class_names": [
+    "train",
+    "light",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        0,
+        48,
+        511,
+        244
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        34,
+        75,
+        79,
+        110
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        95
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        226,
+        511,
+        471
+      ]
+    }
+  ]
+}

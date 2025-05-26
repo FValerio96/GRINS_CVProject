@@ -1,0 +1,105 @@
+{
+  "image": "image_856_857_heading_0.jpg",
+  "class_ids": [
+    92,
+    96,
+    98,
+    111,
+    117,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "light",
+    "platform",
+    "railroad",
+    "wall-tile",
+    "fence-merged",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        180,
+        0,
+        298,
+        235
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        12,
+        275,
+        507,
+        450
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        335,
+        274,
+        511,
+        432
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        107,
+        296,
+        453
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        354,
+        222,
+        511,
+        357
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        379,
+        237
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        272,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        383
+      ]
+    }
+  ]
+}

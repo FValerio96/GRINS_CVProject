@@ -1,0 +1,126 @@
+{
+  "image": "image_102_103_heading_90.jpg",
+  "class_ids": [
+    2,
+    11,
+    86,
+    91,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "stop sign",
+    "door-stuff",
+    "house",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        296,
+        511,
+        471
+      ],
+      "caption": "car parking in the middle of the city"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        71,
+        250,
+        74,
+        255
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        304,
+        253,
+        365,
+        333
+      ],
+      "caption": "door design for bathroom"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        200,
+        208,
+        334
+      ],
+      "caption": "house for sale in the heart of the village of la gera"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        364,
+        334,
+        471
+      ],
+      "caption": "road traffic in karachi"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        186,
+        511,
+        293
+      ],
+      "caption": "tree in front of building"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        205
+      ],
+      "caption": "sky blue sky blue sky blue sky sky blue sky sky sky blue sky sky blue sky sky sky sky sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        144,
+        327,
+        225,
+        376
+      ],
+      "caption": "pavement repair in the woodlands"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        54,
+        511,
+        399
+      ],
+      "caption": "building for sale in saint - martin"
+    }
+  ]
+}

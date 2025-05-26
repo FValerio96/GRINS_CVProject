@@ -1,0 +1,93 @@
+{
+  "image": "image_778_779_heading_0.jpg",
+  "class_ids": [
+    12,
+    100,
+    116,
+    117,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "parking meter",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        225,
+        279,
+        227,
+        282
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        276,
+        229,
+        375
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        372
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        276,
+        56,
+        357
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        246,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        44,
+        275,
+        213,
+        321
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        470,
+        185,
+        511,
+        267
+      ]
+    }
+  ]
+}

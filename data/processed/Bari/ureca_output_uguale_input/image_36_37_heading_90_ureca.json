@@ -1,0 +1,113 @@
+{
+  "image": "image_36_37_heading_90.jpg",
+  "class_ids": [
+    2,
+    3,
+    11,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "motorcycle",
+    "stop sign",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        267,
+        127,
+        298
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        40,
+        270,
+        87,
+        288
+      ],
+      "caption": "describe the motorcycle in the image below"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        113,
+        233,
+        122,
+        242
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        275,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the road is empty, the road is empty, the road is empty, the road is empty"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        15,
+        138,
+        286
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        141,
+        77
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        45,
+        297,
+        511,
+        361
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        105,
+        0,
+        511,
+        310
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

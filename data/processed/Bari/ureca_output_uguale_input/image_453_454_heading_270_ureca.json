@@ -1,0 +1,152 @@
+{
+  "image": "image_453_454_heading_270.jpg",
+  "class_ids": [
+    2,
+    10,
+    100,
+    116,
+    117,
+    119,
+    123,
+    124,
+    125,
+    126,
+    129
+  ],
+  "class_names": [
+    "car",
+    "fire hydrant",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "mountain-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        184,
+        272,
+        245,
+        312
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        37,
+        248,
+        48,
+        268
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        247,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        30,
+        216,
+        511,
+        294
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        350,
+        147,
+        431
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        259
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the sky above the sky is a blue sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        438,
+        328,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        0,
+        251,
+        36,
+        259
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        252,
+        171,
+        471
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        294,
+        194,
+        439
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        183,
+        251,
+        197,
+        254
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

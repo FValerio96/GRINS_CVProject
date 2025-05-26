@@ -1,0 +1,105 @@
+{
+  "image": "image_48_49_heading_180.jpg",
+  "class_ids": [
+    0,
+    28,
+    100,
+    116,
+    118,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "suitcase",
+    "road",
+    "tree-merged",
+    "ceiling-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        407,
+        247,
+        490,
+        349
+      ]
+    },
+    {
+      "class_id": 28,
+      "class_name": "suitcase",
+      "bbox": [
+        399,
+        314,
+        430,
+        378
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        249,
+        400,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        333,
+        0,
+        511,
+        302
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        336,
+        0,
+        444,
+        97
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        284,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        444,
+        324
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        167,
+        511,
+        345
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "image": "image_539_540_heading_0.jpg",
+  "class_ids": [
+    111,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "wall-tile",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        153,
+        365,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        52,
+        0,
+        511,
+        357
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        318,
+        352,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

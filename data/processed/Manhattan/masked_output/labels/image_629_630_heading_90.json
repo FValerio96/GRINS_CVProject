@@ -1,0 +1,105 @@
+{
+  "image": "image_629_630_heading_90.jpg",
+  "class_ids": [
+    10,
+    62,
+    92,
+    111,
+    118,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "fire hydrant",
+    "tv",
+    "light",
+    "wall-tile",
+    "ceiling-merged",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        340,
+        329,
+        361,
+        341
+      ]
+    },
+    {
+      "class_id": 62,
+      "class_name": "tv",
+      "bbox": [
+        427,
+        148,
+        433,
+        150
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        103,
+        37,
+        511,
+        220
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        38,
+        196,
+        502,
+        342
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        241
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        313,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        82,
+        145,
+        511,
+        366
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        241,
+        502,
+        381
+      ]
+    }
+  ]
+}

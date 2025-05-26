@@ -1,0 +1,139 @@
+{
+  "image": "image_28_29_heading_0.jpg",
+  "class_ids": [
+    2,
+    86,
+    91,
+    100,
+    106,
+    115,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "door-stuff",
+    "house",
+    "road",
+    "stairs",
+    "window-other",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        240,
+        273,
+        415,
+        386
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        245,
+        34,
+        381
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        358,
+        274,
+        388,
+        282
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        238,
+        293,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the car in the middle of the street"
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        273,
+        260,
+        471
+      ],
+      "caption": "describe the stairs in the image"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        0,
+        15,
+        41
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        194,
+        0,
+        511,
+        195
+      ],
+      "caption": "describe the sky in the image, the sky is blue and the sky is white"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        215,
+        290,
+        374,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        393
+      ],
+      "caption": "describe the building in the image, you can see the car parking in the street"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        73,
+        334,
+        164,
+        392
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

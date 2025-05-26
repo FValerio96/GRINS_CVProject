@@ -1,0 +1,152 @@
+{
+  "image": "image_321_322_heading_0.jpg",
+  "class_ids": [
+    2,
+    9,
+    58,
+    86,
+    91,
+    100,
+    115,
+    117,
+    123,
+    129,
+    132
+  ],
+  "class_names": [
+    "car",
+    "traffic light",
+    "potted plant",
+    "door-stuff",
+    "house",
+    "road",
+    "window-other",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "rug-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        372,
+        274,
+        471
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        476,
+        351,
+        511,
+        441
+      ],
+      "caption": "describe the traffic light in the image below"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        67,
+        133,
+        191,
+        214
+      ],
+      "caption": "describe the potted plant in the image below"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        487,
+        350,
+        490,
+        352
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        67,
+        140,
+        511,
+        374
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        318,
+        448,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below the car"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        114,
+        0,
+        157,
+        39
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        486,
+        121,
+        489,
+        128
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        110,
+        348,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        376
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 132,
+      "class_name": "rug-merged",
+      "bbox": [
+        439,
+        393,
+        499,
+        444
+      ],
+      "caption": "describe the rug in the image below"
+    }
+  ]
+}

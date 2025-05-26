@@ -1,0 +1,93 @@
+{
+  "image": "image_606_607_heading_0.jpg",
+  "class_ids": [
+    62,
+    86,
+    100,
+    115,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "tv",
+    "door-stuff",
+    "road",
+    "window-other",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 62,
+      "class_name": "tv",
+      "bbox": [
+        320,
+        310,
+        381,
+        405
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        121,
+        215,
+        283,
+        313
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        313,
+        40,
+        379
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        156,
+        0,
+        462,
+        75
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        372,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        383
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        377
+      ]
+    }
+  ]
+}

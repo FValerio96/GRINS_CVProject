@@ -1,0 +1,57 @@
+{
+  "image": "image_418_419_heading_0.jpg",
+  "class_ids": [
+    102,
+    103,
+    119,
+    131
+  ],
+  "class_names": [
+    "sand",
+    "sea",
+    "sky-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        0,
+        315,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        150,
+        252,
+        511,
+        308
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        261
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        258,
+        511,
+        336
+      ]
+    }
+  ]
+}

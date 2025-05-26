@@ -1,0 +1,87 @@
+{
+  "image": "image_161_162_heading_270.jpg",
+  "class_ids": [
+    102,
+    119,
+    125,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "sand",
+    "sky-other-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        86,
+        420,
+        511,
+        471
+      ],
+      "caption": "describe the sand in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        227
+      ],
+      "caption": "describe the sky in the image above the photo, the sky is blue and the sky is white"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        387,
+        511,
+        441
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        386,
+        511,
+        471
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        349,
+        203,
+        488,
+        234
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        222,
+        511,
+        397
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

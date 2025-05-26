@@ -1,0 +1,105 @@
+{
+  "image": "image_474_475_heading_180.jpg",
+  "class_ids": [
+    0,
+    6,
+    96,
+    98,
+    101,
+    118,
+    119,
+    129
+  ],
+  "class_names": [
+    "person",
+    "train",
+    "platform",
+    "railroad",
+    "roof",
+    "ceiling-merged",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        43,
+        269,
+        468,
+        320
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        152,
+        222,
+        511,
+        377
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        0,
+        278,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        331,
+        152,
+        404
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        57,
+        195,
+        280,
+        228
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        173
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        69,
+        254,
+        201
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        90,
+        511,
+        341
+      ]
+    }
+  ]
+}

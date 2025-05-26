@@ -1,0 +1,69 @@
+{
+  "image": "image_278_279_heading_180.jpg",
+  "class_ids": [
+    0,
+    26,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "handbag",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        354,
+        273,
+        511,
+        350
+      ]
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        353,
+        317,
+        356,
+        333
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        346,
+        0,
+        511,
+        132
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        67,
+        304,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

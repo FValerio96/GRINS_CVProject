@@ -1,0 +1,152 @@
+{
+  "image": "image_480_481_heading_180.jpg",
+  "class_ids": [
+    2,
+    13,
+    82,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "bench",
+    "bridge",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        291,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        43,
+        280,
+        407,
+        303
+      ],
+      "caption": "describe the bench in the image below, and the bench in the image below, and the bench in the picture below, and the"
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        162,
+        500,
+        313
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        260,
+        401,
+        304,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        373
+      ],
+      "caption": "describe the tree in the image, you can see the car parking in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        40,
+        160,
+        511,
+        304
+      ],
+      "caption": "describe the fence in the image below, you can see the fence in the picture below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        22,
+        11,
+        433,
+        172
+      ],
+      "caption": "describe the sky in the image above the trees"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        295,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        246,
+        366,
+        289,
+        405
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        38,
+        144,
+        496,
+        303
+      ],
+      "caption": "describe the building in the image below, the building is the building that is the building"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        262,
+        404,
+        303,
+        471
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

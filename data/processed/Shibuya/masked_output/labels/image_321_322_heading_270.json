@@ -1,0 +1,57 @@
+{
+  "image": "image_321_322_heading_270.jpg",
+  "class_ids": [
+    111,
+    115,
+    116,
+    129
+  ],
+  "class_names": [
+    "wall-tile",
+    "window-other",
+    "tree-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        113,
+        63,
+        179,
+        118
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        97,
+        338,
+        453
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        199,
+        0,
+        511,
+        312
+      ]
+    }
+  ]
+}

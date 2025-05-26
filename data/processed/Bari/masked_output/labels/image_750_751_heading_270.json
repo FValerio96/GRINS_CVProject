@@ -1,0 +1,129 @@
+{
+  "image": "image_750_751_heading_270.jpg",
+  "class_ids": [
+    86,
+    87,
+    91,
+    92,
+    101,
+    109,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "door-stuff",
+    "floor-wood",
+    "house",
+    "light",
+    "roof",
+    "wall-brick",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        174,
+        235,
+        222,
+        412
+      ]
+    },
+    {
+      "class_id": 87,
+      "class_name": "floor-wood",
+      "bbox": [
+        93,
+        381,
+        244,
+        471
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        62,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        377,
+        108,
+        411,
+        131
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        0,
+        81,
+        247,
+        221
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        199,
+        162,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        447,
+        57,
+        511,
+        157
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        210
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        183,
+        292,
+        499,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        161,
+        149,
+        352,
+        377
+      ]
+    }
+  ]
+}

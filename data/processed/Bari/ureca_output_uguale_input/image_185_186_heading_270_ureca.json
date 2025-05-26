@@ -1,0 +1,74 @@
+{
+  "image": "image_185_186_heading_270.jpg",
+  "class_ids": [
+    100,
+    116,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        237,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the sea"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        195,
+        511,
+        402
+      ],
+      "caption": "describe the tree in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        249
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the picture above the photo, you can see the"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        276,
+        511,
+        436
+      ],
+      "caption": "describe the pavement in the image below, you can see the road that leads to the beach"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        236,
+        511,
+        438
+      ],
+      "caption": "describe the grass in the image, the road is empty"
+    }
+  ]
+}

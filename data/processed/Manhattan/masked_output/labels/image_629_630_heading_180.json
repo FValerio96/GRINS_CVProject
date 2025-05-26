@@ -1,0 +1,141 @@
+{
+  "image": "image_629_630_heading_180.jpg",
+  "class_ids": [
+    0,
+    6,
+    92,
+    96,
+    98,
+    111,
+    118,
+    119,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "train",
+    "light",
+    "platform",
+    "railroad",
+    "wall-tile",
+    "ceiling-merged",
+    "sky-other-merged",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        81,
+        230,
+        126,
+        349
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        63,
+        225,
+        189,
+        303
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        0,
+        306,
+        160
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        0,
+        256,
+        403,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        330,
+        253,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        39,
+        188,
+        511,
+        348
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        240
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        270,
+        0,
+        271,
+        5
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        124,
+        303,
+        125,
+        307
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        419,
+        406
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        161,
+        511,
+        374
+      ]
+    }
+  ]
+}

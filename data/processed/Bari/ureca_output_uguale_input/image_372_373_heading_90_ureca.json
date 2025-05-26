@@ -1,0 +1,100 @@
+{
+  "image": "image_372_373_heading_90.jpg",
+  "class_ids": [
+    6,
+    82,
+    100,
+    116,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "train",
+    "bridge",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        219,
+        213,
+        288,
+        233
+      ],
+      "caption": "describe the train in the image below"
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        0,
+        166,
+        263,
+        283
+      ],
+      "caption": "describe the bridge in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        344,
+        147,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        228,
+        511,
+        295
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        245
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        44,
+        387,
+        161,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        272,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image, you can see the land in the background"
+    }
+  ]
+}

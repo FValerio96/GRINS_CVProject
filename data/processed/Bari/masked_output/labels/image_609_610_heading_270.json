@@ -1,0 +1,81 @@
+{
+  "image": "image_609_610_heading_270.jpg",
+  "class_ids": [
+    58,
+    91,
+    116,
+    119,
+    124,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "house",
+    "tree-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        319,
+        265,
+        511,
+        405
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        273,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        16,
+        290,
+        304
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        477,
+        134
+      ]
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        285,
+        114,
+        359,
+        189
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        286,
+        277,
+        471
+      ]
+    }
+  ]
+}

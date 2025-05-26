@@ -1,0 +1,69 @@
+{
+  "image": "image_882_883_heading_180.jpg",
+  "class_ids": [
+    86,
+    91,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        210,
+        295,
+        289,
+        471
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        40,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        176,
+        0,
+        511,
+        379
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        348,
+        120,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        306,
+        471
+      ]
+    }
+  ]
+}

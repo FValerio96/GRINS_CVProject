@@ -1,0 +1,87 @@
+{
+  "image": "image_10_11_heading_0.jpg",
+  "class_ids": [
+    2,
+    100,
+    102,
+    103,
+    119,
+    123
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "sand",
+    "sea",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        194,
+        310,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, the car is red and the car is black"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        280,
+        393,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        32,
+        280,
+        511,
+        365
+      ],
+      "caption": "describe the sand in the image below the car"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        0,
+        247,
+        511,
+        318
+      ],
+      "caption": "describe the sea in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        256
+      ],
+      "caption": "describe the sky in the image above the photo"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        281,
+        511,
+        400
+      ],
+      "caption": "describe the pavement in the image, the car is red"
+    }
+  ]
+}

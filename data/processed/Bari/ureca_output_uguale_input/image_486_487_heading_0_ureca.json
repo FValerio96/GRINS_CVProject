@@ -1,0 +1,87 @@
+{
+  "image": "image_486_487_heading_0.jpg",
+  "class_ids": [
+    90,
+    91,
+    116,
+    117,
+    119,
+    126
+  ],
+  "class_names": [
+    "gravel",
+    "house",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        332,
+        438,
+        511,
+        471
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        335,
+        209,
+        421,
+        238
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        128,
+        511,
+        422
+      ],
+      "caption": "describe the tree in the image, you can see the vineyards in the background"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        294,
+        511,
+        471
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        246
+      ],
+      "caption": "describe the sky in the image above the photo"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        261,
+        456,
+        376
+      ],
+      "caption": "describe the dirt in the image below"
+    }
+  ]
+}

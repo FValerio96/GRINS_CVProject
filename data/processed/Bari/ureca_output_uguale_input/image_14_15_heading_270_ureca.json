@@ -1,0 +1,139 @@
+{
+  "image": "image_14_15_heading_270.jpg",
+  "class_ids": [
+    0,
+    2,
+    7,
+    86,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "truck",
+    "door-stuff",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        364,
+        312,
+        373,
+        320
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        319,
+        300,
+        350,
+        313
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        313,
+        300,
+        511,
+        370
+      ],
+      "caption": "describe the truck in the image below"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        398,
+        310,
+        445,
+        337
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        239,
+        395,
+        471
+      ],
+      "caption": "describe the road in the image, the road is empty, the road is empty, the road is empty, the road is empty"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        319,
+        247,
+        344,
+        273
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        55,
+        244,
+        511,
+        471
+      ],
+      "caption": "describe the fence in the image, the fence is the same, the fence is the same"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ],
+      "caption": "describe the sky in the image above the photo, the sky is blue and the sky is gray"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        283,
+        276,
+        341,
+        300
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        62,
+        135,
+        511,
+        338
+      ],
+      "caption": "describe the building in the image, the building is the building of the apartment"
+    }
+  ]
+}

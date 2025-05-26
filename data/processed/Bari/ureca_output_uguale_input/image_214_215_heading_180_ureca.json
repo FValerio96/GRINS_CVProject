@@ -1,0 +1,204 @@
+{
+  "image": "image_214_215_heading_180.jpg",
+  "class_ids": [
+    0,
+    1,
+    2,
+    7,
+    24,
+    26,
+    28,
+    58,
+    88,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "truck",
+    "backpack",
+    "handbag",
+    "suitcase",
+    "potted plant",
+    "flower",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        43,
+        268,
+        243,
+        460
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        432,
+        299,
+        494,
+        349
+      ],
+      "caption": "describe the bicycle in the image below"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        112,
+        254,
+        511,
+        405
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        196,
+        253,
+        263,
+        284
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        178,
+        322,
+        212,
+        375
+      ],
+      "caption": "describe the backpack in the image"
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        181,
+        393,
+        192,
+        417
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 28,
+      "class_name": "suitcase",
+      "bbox": [
+        32,
+        390,
+        78,
+        471
+      ],
+      "caption": "describe the suitcase in the image"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        39,
+        296,
+        67,
+        337
+      ],
+      "caption": "describe the potted plant in the image below"
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        50,
+        315,
+        70,
+        328
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        103,
+        271,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the street is not a road, but the street is a street"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        41,
+        308,
+        88,
+        329
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        255,
+        267,
+        433,
+        312
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        81,
+        0,
+        291,
+        215
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        314,
+        281,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        417
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

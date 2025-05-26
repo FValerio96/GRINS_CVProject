@@ -1,0 +1,61 @@
+{
+  "image": "image_174_175_heading_0.jpg",
+  "class_ids": [
+    100,
+    102,
+    103,
+    119
+  ],
+  "class_names": [
+    "road",
+    "sand",
+    "sea",
+    "sky-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        280,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        0,
+        280,
+        511,
+        363
+      ],
+      "caption": "describe the sand in the image below"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        0,
+        252,
+        511,
+        320
+      ],
+      "caption": "describe the sea in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        255
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky and the ocean in the sky is blue"
+    }
+  ]
+}

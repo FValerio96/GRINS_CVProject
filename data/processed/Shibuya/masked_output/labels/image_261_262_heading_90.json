@@ -1,0 +1,141 @@
+{
+  "image": "image_261_262_heading_90.jpg",
+  "class_ids": [
+    71,
+    72,
+    84,
+    86,
+    92,
+    111,
+    115,
+    118,
+    120,
+    122,
+    131
+  ],
+  "class_names": [
+    "sink",
+    "refrigerator",
+    "counter",
+    "door-stuff",
+    "light",
+    "wall-tile",
+    "window-other",
+    "ceiling-merged",
+    "cabinet-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 71,
+      "class_name": "sink",
+      "bbox": [
+        237,
+        292,
+        342,
+        319
+      ]
+    },
+    {
+      "class_id": 72,
+      "class_name": "refrigerator",
+      "bbox": [
+        0,
+        173,
+        94,
+        471
+      ]
+    },
+    {
+      "class_id": 84,
+      "class_name": "counter",
+      "bbox": [
+        253,
+        294,
+        337,
+        318
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        376,
+        224,
+        511,
+        316
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        198,
+        0,
+        511,
+        168
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        87,
+        118,
+        368,
+        460
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        206,
+        92,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        229
+      ]
+    },
+    {
+      "class_id": 120,
+      "class_name": "cabinet-merged",
+      "bbox": [
+        245,
+        302,
+        363,
+        393
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        56,
+        295,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        70,
+        206,
+        511,
+        471
+      ]
+    }
+  ]
+}

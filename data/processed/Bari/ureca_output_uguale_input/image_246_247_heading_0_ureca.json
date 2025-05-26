@@ -1,0 +1,74 @@
+{
+  "image": "image_246_247_heading_0.jpg",
+  "class_ids": [
+    86,
+    91,
+    115,
+    129,
+    131
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "window-other",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        206,
+        271,
+        337,
+        471
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        38,
+        0,
+        339,
+        160
+      ],
+      "caption": "describe the window in the image above"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        184
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        383,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

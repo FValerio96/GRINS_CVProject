@@ -1,0 +1,152 @@
+{
+  "image": "image_101_102_heading_180.jpg",
+  "class_ids": [
+    2,
+    7,
+    25,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "umbrella",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        16,
+        257,
+        160,
+        273
+      ],
+      "caption": "car in the forest"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        226,
+        251,
+        253,
+        265
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        79,
+        217,
+        223,
+        239
+      ],
+      "caption": "umbrellas are the most common form of advertising"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        294,
+        511,
+        418
+      ],
+      "caption": "road traffic in the city of hyderabad"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        200,
+        511,
+        471
+      ],
+      "caption": "tree grove, port, port, port, port, port, port, port, port, port,"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        343,
+        380,
+        511,
+        471
+      ],
+      "caption": "fences and posts"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        246
+      ],
+      "caption": "sky blue sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        76,
+        259,
+        511,
+        467
+      ],
+      "caption": "pavemented road in the suburb of the city of port"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        77,
+        255,
+        511,
+        278
+      ],
+      "caption": "grass and trees in the park"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        71,
+        223,
+        348,
+        270
+      ],
+      "caption": "building photo the metropolitan"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        260,
+        511,
+        307
+      ],
+      "caption": "wallpapers the road is not paved"
+    }
+  ]
+}

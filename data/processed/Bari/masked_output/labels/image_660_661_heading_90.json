@@ -1,0 +1,57 @@
+{
+  "image": "image_660_661_heading_90.jpg",
+  "class_ids": [
+    109,
+    115,
+    118,
+    131
+  ],
+  "class_names": [
+    "wall-brick",
+    "window-other",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        86,
+        511,
+        431
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        76,
+        178,
+        431,
+        422
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        29,
+        511,
+        98
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

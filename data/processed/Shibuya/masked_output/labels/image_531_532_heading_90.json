@@ -1,0 +1,93 @@
+{
+  "image": "image_531_532_heading_90.jpg",
+  "class_ids": [
+    85,
+    86,
+    87,
+    115,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "curtain",
+    "door-stuff",
+    "floor-wood",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 85,
+      "class_name": "curtain",
+      "bbox": [
+        496,
+        405,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        97,
+        81,
+        142,
+        471
+      ]
+    },
+    {
+      "class_id": 87,
+      "class_name": "floor-wood",
+      "bbox": [
+        92,
+        419,
+        109,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        486,
+        146,
+        511,
+        352
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        76,
+        0,
+        511,
+        145
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        94,
+        421,
+        111,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

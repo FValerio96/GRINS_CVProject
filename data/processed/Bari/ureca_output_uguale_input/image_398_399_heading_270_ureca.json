@@ -1,0 +1,87 @@
+{
+  "image": "image_398_399_heading_270.jpg",
+  "class_ids": [
+    56,
+    86,
+    91,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "chair",
+    "door-stuff",
+    "house",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        349,
+        468,
+        355,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        35,
+        228,
+        456,
+        471
+      ],
+      "caption": "describe the door in the image, the red shutters are the shutters of the shutters"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        35,
+        228,
+        458,
+        471
+      ],
+      "caption": "describe the house in the image, the house is located in the village of lemaire, in the region of provence"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        166,
+        63
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        416,
+        134,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

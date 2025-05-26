@@ -1,0 +1,93 @@
+{
+  "image": "image_585_586_heading_0.jpg",
+  "class_ids": [
+    0,
+    100,
+    106,
+    115,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "road",
+    "stairs",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        332,
+        247,
+        511,
+        353
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        410,
+        445,
+        471
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        88,
+        171,
+        292,
+        399
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        173,
+        0,
+        224,
+        19
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        319,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        399
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        282,
+        221,
+        394
+      ]
+    }
+  ]
+}

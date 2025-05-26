@@ -1,0 +1,165 @@
+{
+  "image": "image_675_676_heading_180.jpg",
+  "class_ids": [
+    74,
+    83,
+    85,
+    86,
+    87,
+    92,
+    109,
+    115,
+    118,
+    122,
+    127,
+    131,
+    132
+  ],
+  "class_names": [
+    "clock",
+    "cardboard",
+    "curtain",
+    "door-stuff",
+    "floor-wood",
+    "light",
+    "wall-brick",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "paper-merged",
+    "wall-other-merged",
+    "rug-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 74,
+      "class_name": "clock",
+      "bbox": [
+        177,
+        126,
+        199,
+        145
+      ]
+    },
+    {
+      "class_id": 83,
+      "class_name": "cardboard",
+      "bbox": [
+        333,
+        374,
+        369,
+        471
+      ]
+    },
+    {
+      "class_id": 85,
+      "class_name": "curtain",
+      "bbox": [
+        0,
+        161,
+        30,
+        353
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        369,
+        115,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 87,
+      "class_name": "floor-wood",
+      "bbox": [
+        0,
+        335,
+        376,
+        471
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        85,
+        52,
+        121,
+        83
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        167,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        14,
+        179,
+        163,
+        345
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        422,
+        179
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        455,
+        386,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 127,
+      "class_name": "paper-merged",
+      "bbox": [
+        359,
+        346,
+        359,
+        346
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        26,
+        133,
+        511,
+        467
+      ]
+    },
+    {
+      "class_id": 132,
+      "class_name": "rug-merged",
+      "bbox": [
+        0,
+        337,
+        201,
+        422
+      ]
+    }
+  ]
+}

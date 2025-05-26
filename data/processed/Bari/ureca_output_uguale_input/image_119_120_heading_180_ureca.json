@@ -1,0 +1,100 @@
+{
+  "image": "image_119_120_heading_180.jpg",
+  "class_ids": [
+    14,
+    99,
+    116,
+    119,
+    124,
+    125,
+    126
+  ],
+  "class_names": [
+    "bird",
+    "river",
+    "tree-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "grass-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 14,
+      "class_name": "bird",
+      "bbox": [
+        450,
+        390,
+        467,
+        413
+      ],
+      "caption": "describe the bird in the image"
+    },
+    {
+      "class_id": 99,
+      "class_name": "river",
+      "bbox": [
+        0,
+        375,
+        506,
+        471
+      ],
+      "caption": "describe the river in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        265
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        330,
+        249
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        233,
+        203,
+        511,
+        264
+      ],
+      "caption": "describe the mountain in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        242,
+        511,
+        431
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        322,
+        511,
+        471
+      ],
+      "caption": "describe the dirt in the image below"
+    }
+  ]
+}

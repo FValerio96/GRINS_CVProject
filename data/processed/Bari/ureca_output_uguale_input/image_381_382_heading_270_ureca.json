@@ -1,0 +1,113 @@
+{
+  "image": "image_381_382_heading_270.jpg",
+  "class_ids": [
+    58,
+    91,
+    100,
+    116,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "house",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        179,
+        261,
+        239,
+        342
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        262,
+        153,
+        511,
+        388
+      ],
+      "caption": "describe the house in the image, the house is on the right of the street"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        330,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        228,
+        238,
+        302
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        249
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        262,
+        511,
+        412
+      ],
+      "caption": "describe the pavement in the image, the street is empty, the street is empty, the street is empty, the street is empty"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        166,
+        303,
+        300
+      ],
+      "caption": "describe the building in the image, the building is the same"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        78,
+        275,
+        111,
+        287
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

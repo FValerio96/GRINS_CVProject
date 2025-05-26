@@ -1,0 +1,74 @@
+{
+  "image": "image_284_285_heading_0.jpg",
+  "class_ids": [
+    100,
+    110,
+    116,
+    119,
+    125
+  ],
+  "class_names": [
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        306,
+        128,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        274,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        173,
+        511,
+        352
+      ],
+      "caption": "describe the tree in the image, you can see the olive trees in the olive trees are growing in the field"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        253
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky and the trees in the sky is blue"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        250,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image, the grass is growing, the grass is growing, the grass is growing, the grass is growing"
+    }
+  ]
+}

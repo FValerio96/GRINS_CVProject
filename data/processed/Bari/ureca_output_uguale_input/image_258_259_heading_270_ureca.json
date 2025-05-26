@@ -1,0 +1,178 @@
+{
+  "image": "image_258_259_heading_270.jpg",
+  "class_ids": [
+    2,
+    7,
+    10,
+    12,
+    13,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "fire hydrant",
+    "parking meter",
+    "bench",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        229,
+        259,
+        330,
+        313
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        229,
+        272,
+        253,
+        287
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        177,
+        301,
+        245,
+        335
+      ],
+      "caption": "describe the fire hydrant in the image below"
+    },
+    {
+      "class_id": 12,
+      "class_name": "parking meter",
+      "bbox": [
+        206,
+        301,
+        250,
+        342
+      ],
+      "caption": "describe the parking meter in the image below"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        482,
+        268,
+        511,
+        293
+      ],
+      "caption": "describe the bench in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        256,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        344,
+        142,
+        511,
+        270
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        389,
+        263,
+        511,
+        304
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        236
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        280,
+        511,
+        406
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        398,
+        290,
+        511,
+        387
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        20,
+        511,
+        328
+      ],
+      "caption": "describe the building in the image above, the street where the building is located"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        236,
+        148,
+        325
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

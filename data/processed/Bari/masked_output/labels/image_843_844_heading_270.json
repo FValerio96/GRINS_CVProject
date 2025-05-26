@@ -1,0 +1,81 @@
+{
+  "image": "image_843_844_heading_270.jpg",
+  "class_ids": [
+    98,
+    100,
+    116,
+    117,
+    119,
+    125
+  ],
+  "class_names": [
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        29,
+        258,
+        360,
+        471
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        96,
+        239,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        198,
+        365,
+        344
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        284,
+        335,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        252
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        277,
+        300,
+        444
+      ]
+    }
+  ]
+}

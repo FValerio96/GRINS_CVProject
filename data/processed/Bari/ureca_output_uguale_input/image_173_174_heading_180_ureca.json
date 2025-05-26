@@ -1,0 +1,139 @@
+{
+  "image": "image_173_174_heading_180.jpg",
+  "class_ids": [
+    0,
+    2,
+    3,
+    24,
+    86,
+    100,
+    115,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "motorcycle",
+    "backpack",
+    "door-stuff",
+    "road",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        437,
+        279,
+        501,
+        395
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        349,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        464,
+        385,
+        484,
+        398
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        501,
+        355,
+        506,
+        372
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        34,
+        253,
+        291,
+        360
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        68,
+        351,
+        501,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        59,
+        21,
+        460,
+        128
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        52,
+        350,
+        469,
+        461
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        20,
+        511,
+        362
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        151
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

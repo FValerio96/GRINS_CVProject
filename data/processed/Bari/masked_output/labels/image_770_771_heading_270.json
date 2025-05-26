@@ -1,0 +1,117 @@
+{
+  "image": "image_770_771_heading_270.jpg",
+  "class_ids": [
+    13,
+    58,
+    91,
+    115,
+    116,
+    117,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "potted plant",
+    "house",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        358,
+        263,
+        379,
+        302
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        106,
+        300,
+        148,
+        311
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        97,
+        113,
+        380,
+        305
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        198,
+        217,
+        334,
+        298
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        169,
+        115,
+        377,
+        153
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        268,
+        462,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        433,
+        0,
+        511,
+        146
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        317
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        452,
+        252,
+        511,
+        471
+      ]
+    }
+  ]
+}

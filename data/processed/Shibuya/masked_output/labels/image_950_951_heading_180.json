@@ -1,0 +1,69 @@
+{
+  "image": "image_950_951_heading_180.jpg",
+  "class_ids": [
+    61,
+    101,
+    111,
+    119,
+    131
+  ],
+  "class_names": [
+    "toilet",
+    "roof",
+    "wall-tile",
+    "sky-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 61,
+      "class_name": "toilet",
+      "bbox": [
+        446,
+        442,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        0,
+        4,
+        26,
+        42
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        187,
+        0,
+        511,
+        455
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        71
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        21,
+        511,
+        471
+      ]
+    }
+  ]
+}

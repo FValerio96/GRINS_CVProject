@@ -1,0 +1,69 @@
+{
+  "image": "image_979_980_heading_180.jpg",
+  "class_ids": [
+    85,
+    110,
+    114,
+    115,
+    131
+  ],
+  "class_names": [
+    "curtain",
+    "wall-stone",
+    "window-blind",
+    "window-other",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 85,
+      "class_name": "curtain",
+      "bbox": [
+        0,
+        452,
+        17,
+        471
+      ]
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 114,
+      "class_name": "window-blind",
+      "bbox": [
+        227,
+        219,
+        441,
+        290
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        226,
+        281,
+        439,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        21,
+        170,
+        471
+      ]
+    }
+  ]
+}

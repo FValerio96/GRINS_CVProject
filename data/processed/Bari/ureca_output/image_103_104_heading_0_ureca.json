@@ -1,0 +1,100 @@
+{
+  "image": "image_103_104_heading_0.jpg",
+  "class_ids": [
+    2,
+    7,
+    100,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        216,
+        254,
+        511,
+        346
+      ],
+      "caption": "car parking in the village"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        439,
+        284,
+        444,
+        286
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        256,
+        511,
+        471
+      ],
+      "caption": "road view of the town of lemaire"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        118,
+        43,
+        297
+      ],
+      "caption": "tree in front of building"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        239
+      ],
+      "caption": "sky blue apartment in the heart of the old town of cala"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        288,
+        216,
+        413
+      ],
+      "caption": "pavement parking lot for sale in the heart of the city"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        36,
+        0,
+        511,
+        312
+      ],
+      "caption": "building for sale in the center of the town of cala"
+    }
+  ]
+}

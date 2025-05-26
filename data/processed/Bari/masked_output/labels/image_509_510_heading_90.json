@@ -1,0 +1,69 @@
+{
+  "image": "image_509_510_heading_90.jpg",
+  "class_ids": [
+    13,
+    86,
+    91,
+    115,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "door-stuff",
+    "house",
+    "window-other",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        407,
+        403,
+        511,
+        451
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        230,
+        231,
+        357,
+        471
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        483,
+        226,
+        511,
+        388
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        479,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "image": "image_248_249_heading_270.jpg",
+  "class_ids": [
+    2,
+    100,
+    102,
+    103,
+    116,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "sand",
+    "sea",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        293,
+        263,
+        312,
+        278
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        13,
+        251,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the sea and the beach"
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        379,
+        263,
+        511,
+        336
+      ],
+      "caption": "describe the sand in the image below"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        380,
+        247,
+        511,
+        281
+      ],
+      "caption": "describe the sea in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        227,
+        274,
+        289
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        263
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        298,
+        227,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        169,
+        235,
+        344
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        262,
+        268,
+        413
+      ],
+      "caption": "describe the wall in the image, the wall is a stone wall, the wall is a stone wall, the wall is a stone"
+    }
+  ]
+}

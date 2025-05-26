@@ -1,0 +1,141 @@
+{
+  "image": "image_443_444_heading_0.jpg",
+  "class_ids": [
+    0,
+    1,
+    82,
+    94,
+    115,
+    118,
+    122,
+    123,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "bridge",
+    "net",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        414,
+        267,
+        436,
+        288
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        369,
+        277,
+        511,
+        405
+      ]
+    },
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        190,
+        0,
+        418,
+        237
+      ]
+    },
+    {
+      "class_id": 94,
+      "class_name": "net",
+      "bbox": [
+        88,
+        0,
+        223,
+        93
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        160,
+        150,
+        258,
+        294
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        207,
+        0,
+        511,
+        237
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        381,
+        295,
+        506,
+        404
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        163,
+        284,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        172,
+        337,
+        300,
+        449
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        167,
+        66,
+        511,
+        298
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        422,
+        471
+      ]
+    }
+  ]
+}

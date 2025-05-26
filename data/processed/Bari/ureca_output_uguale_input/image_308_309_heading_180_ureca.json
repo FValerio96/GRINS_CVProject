@@ -1,0 +1,113 @@
+{
+  "image": "image_308_309_heading_180.jpg",
+  "class_ids": [
+    2,
+    7,
+    86,
+    91,
+    100,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "door-stuff",
+    "house",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        178,
+        257,
+        398,
+        392
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        178,
+        297,
+        298,
+        393
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        189,
+        304,
+        202,
+        320
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        112,
+        305,
+        204,
+        390
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        38,
+        262,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image above, the street is the same"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        214,
+        0,
+        511,
+        243
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        362,
+        184,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        429
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

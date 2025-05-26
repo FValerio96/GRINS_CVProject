@@ -1,0 +1,139 @@
+{
+  "image": "image_164_165_heading_0.jpg",
+  "class_ids": [
+    0,
+    2,
+    13,
+    86,
+    91,
+    100,
+    115,
+    117,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bench",
+    "door-stuff",
+    "house",
+    "road",
+    "window-other",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        369,
+        292,
+        393,
+        335
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        325,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        312,
+        241,
+        370,
+        262
+      ],
+      "caption": "describe the bench in the image below"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        14,
+        44,
+        81,
+        95
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        348
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        28,
+        421,
+        180,
+        471
+      ],
+      "caption": "describe the road in the image below the car"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        219,
+        46,
+        258,
+        255
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        272,
+        46,
+        337
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        335,
+        511,
+        425
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        346
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

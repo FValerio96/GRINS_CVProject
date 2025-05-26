@@ -1,0 +1,117 @@
+{
+  "image": "image_896_897_heading_270.jpg",
+  "class_ids": [
+    0,
+    1,
+    61,
+    109,
+    115,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "toilet",
+    "wall-brick",
+    "window-other",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        154,
+        257,
+        175,
+        290
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        42,
+        299,
+        134,
+        471
+      ]
+    },
+    {
+      "class_id": 61,
+      "class_name": "toilet",
+      "bbox": [
+        272,
+        317,
+        299,
+        372
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        350,
+        0,
+        511,
+        409
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        454,
+        0,
+        511,
+        52
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        60,
+        287,
+        404,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        332,
+        403,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        455,
+        181,
+        511,
+        321
+      ]
+    }
+  ]
+}

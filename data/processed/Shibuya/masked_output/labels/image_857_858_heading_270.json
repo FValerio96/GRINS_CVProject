@@ -1,0 +1,141 @@
+{
+  "image": "image_857_858_heading_270.jpg",
+  "class_ids": [
+    88,
+    91,
+    100,
+    101,
+    106,
+    109,
+    115,
+    116,
+    117,
+    119,
+    123
+  ],
+  "class_names": [
+    "flower",
+    "house",
+    "road",
+    "roof",
+    "stairs",
+    "wall-brick",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        494,
+        285,
+        511,
+        338
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        418
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        373,
+        347,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        312,
+        0,
+        371,
+        57
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        403,
+        312,
+        486,
+        404
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        182,
+        379,
+        184,
+        380
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        133,
+        0,
+        222,
+        350
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        497,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        260,
+        384,
+        419,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        315,
+        0,
+        511,
+        180
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        339,
+        335,
+        511,
+        471
+      ]
+    }
+  ]
+}

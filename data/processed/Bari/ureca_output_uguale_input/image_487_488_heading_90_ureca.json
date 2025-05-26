@@ -1,0 +1,152 @@
+{
+  "image": "image_487_488_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    11,
+    24,
+    26,
+    80,
+    100,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "stop sign",
+    "backpack",
+    "handbag",
+    "banner",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        45,
+        282,
+        492,
+        437
+      ],
+      "caption": "describe the person in the image, the person in the picture, the person in the person in the person in the picture, the"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        260,
+        511,
+        407
+      ],
+      "caption": "describe the car in the image, the car is parked in the middle of the street"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        200,
+        239,
+        216,
+        256
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        97,
+        343,
+        108,
+        375
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        37,
+        339,
+        511,
+        426
+      ],
+      "caption": "describe the handbag in the image below, the handbag is the only handbag used by the car"
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        279,
+        67,
+        381,
+        115
+      ],
+      "caption": "describe the banner in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        283,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        55,
+        0,
+        240,
+        238
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        63,
+        288,
+        511,
+        425
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        300
+      ],
+      "caption": "describe the building in the image, the building is a small, narrow street"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        255,
+        255,
+        511,
+        330
+      ],
+      "caption": "describe the wall in the image below, and the car is in the picture below"
+    }
+  ]
+}

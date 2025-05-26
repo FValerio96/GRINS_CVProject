@@ -1,0 +1,165 @@
+{
+  "image": "image_127_128_heading_0.jpg",
+  "class_ids": [
+    7,
+    33,
+    91,
+    100,
+    109,
+    116,
+    117,
+    119,
+    125,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "truck",
+    "kite",
+    "house",
+    "road",
+    "wall-brick",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        401,
+        226,
+        511,
+        309
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 33,
+      "class_name": "kite",
+      "bbox": [
+        181,
+        4,
+        216,
+        41
+      ],
+      "caption": "describe the kite in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        82,
+        224,
+        157,
+        263
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        93,
+        276,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        360,
+        28,
+        377
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        102,
+        129,
+        279
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        250,
+        404,
+        311
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        251,
+        242,
+        440
+      ],
+      "caption": "describe the grass in the image, the grass is green and the grass is yellow"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        306,
+        378,
+        471
+      ],
+      "caption": "describe the dirt in the image, the road is paved and the road is paved"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        95,
+        221,
+        408,
+        276
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        275,
+        397,
+        376
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

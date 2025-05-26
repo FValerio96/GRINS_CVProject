@@ -1,0 +1,178 @@
+{
+  "image": "image_473_474_heading_0.jpg",
+  "class_ids": [
+    2,
+    58,
+    91,
+    100,
+    106,
+    116,
+    117,
+    119,
+    123,
+    125,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "house",
+    "road",
+    "stairs",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        12,
+        264,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the street view of the house"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        0,
+        182,
+        142,
+        363
+      ],
+      "caption": "describe the potted plant in the image of the house"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        445,
+        273,
+        460,
+        281
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        273,
+        412,
+        471
+      ],
+      "caption": "describe the road in the image above, the street is the same street as the street is the same street"
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        360,
+        33,
+        383
+      ],
+      "caption": "describe the stairs in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        367
+      ],
+      "caption": "describe the tree in the image, the street in the picture is the street in the street in the picture is the street in the"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        287,
+        166,
+        366
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        220,
+        0,
+        336,
+        206
+      ],
+      "caption": "describe the sky in the image of the apartment building"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        282,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        428,
+        352,
+        496,
+        391
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        490,
+        369,
+        497,
+        387
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        381,
+        368
+      ],
+      "caption": "describe the building in the image, you can see the street view of the apartment"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        44,
+        335,
+        55,
+        341
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

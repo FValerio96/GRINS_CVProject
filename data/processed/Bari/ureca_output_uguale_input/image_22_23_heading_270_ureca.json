@@ -1,0 +1,113 @@
+{
+  "image": "image_22_23_heading_270.jpg",
+  "class_ids": [
+    2,
+    86,
+    100,
+    116,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "door-stuff",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        397,
+        36,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        307,
+        318,
+        334,
+        339
+      ],
+      "caption": "describe the door in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        375,
+        314,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        75,
+        511,
+        328
+      ],
+      "caption": "describe the tree in the image, the church of the immaculate peace, the church of the immaculate peace, the church of immaculate peace"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        211
+      ],
+      "caption": "describe the sky in the image above the building is the red and white building"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        32,
+        281,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below the street"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        52,
+        0,
+        511,
+        427
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        241,
+        106,
+        429
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

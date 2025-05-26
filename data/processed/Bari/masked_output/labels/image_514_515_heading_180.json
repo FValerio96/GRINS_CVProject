@@ -1,0 +1,105 @@
+{
+  "image": "image_514_515_heading_180.jpg",
+  "class_ids": [
+    2,
+    58,
+    91,
+    114,
+    115,
+    117,
+    123,
+    131
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "house",
+    "window-blind",
+    "window-other",
+    "fence-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        328,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        215,
+        25,
+        480,
+        139
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        385
+      ]
+    },
+    {
+      "class_id": 114,
+      "class_name": "window-blind",
+      "bbox": [
+        285,
+        18,
+        349,
+        75
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        286,
+        28,
+        354,
+        359
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        236,
+        39,
+        511,
+        130
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        119,
+        366,
+        194,
+        425
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        278,
+        0,
+        511,
+        58
+      ]
+    }
+  ]
+}

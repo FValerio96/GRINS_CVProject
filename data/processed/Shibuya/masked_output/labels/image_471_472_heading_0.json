@@ -1,0 +1,45 @@
+{
+  "image": "image_471_472_heading_0.jpg",
+  "class_ids": [
+    111,
+    118,
+    131
+  ],
+  "class_names": [
+    "wall-tile",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        50,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        155
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        39,
+        511,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "image": "image_823_824_heading_90.jpg",
+  "class_ids": [
+    11,
+    110,
+    116,
+    117,
+    119,
+    123
+  ],
+  "class_names": [
+    "stop sign",
+    "wall-stone",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        394,
+        191,
+        400,
+        471
+      ]
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        78,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        501,
+        183,
+        511,
+        201
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        192
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        379,
+        0,
+        511,
+        67
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        420,
+        436,
+        511,
+        471
+      ]
+    }
+  ]
+}

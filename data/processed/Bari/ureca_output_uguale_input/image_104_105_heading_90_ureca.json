@@ -1,0 +1,139 @@
+{
+  "image": "image_104_105_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    25,
+    26,
+    100,
+    115,
+    116,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "umbrella",
+    "handbag",
+    "road",
+    "window-other",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        41,
+        274,
+        372,
+        372
+      ],
+      "caption": "describe the person in the image below"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        84,
+        261,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, the car is parked on the street"
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        15,
+        255,
+        66,
+        274
+      ],
+      "caption": "describe the umbrella in the image"
+    },
+    {
+      "class_id": 26,
+      "class_name": "handbag",
+      "bbox": [
+        349,
+        333,
+        377,
+        370
+      ],
+      "caption": "describe the handbag in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        275,
+        303,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        467,
+        196,
+        511,
+        316
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        84,
+        217,
+        121,
+        270
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        52,
+        0,
+        222,
+        222
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        289,
+        329,
+        389
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        372
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

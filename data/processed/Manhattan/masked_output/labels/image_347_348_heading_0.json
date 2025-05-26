@@ -1,0 +1,117 @@
+{
+  "image": "image_347_348_heading_0.jpg",
+  "class_ids": [
+    72,
+    86,
+    92,
+    106,
+    111,
+    115,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "refrigerator",
+    "door-stuff",
+    "light",
+    "stairs",
+    "wall-tile",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 72,
+      "class_name": "refrigerator",
+      "bbox": [
+        79,
+        155,
+        330,
+        390
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        326,
+        263,
+        347,
+        284
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        330,
+        79,
+        504,
+        230
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        357,
+        251,
+        426,
+        287
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        145,
+        99,
+        374
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        104,
+        159,
+        329,
+        274
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        229
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        275,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        326,
+        199,
+        511,
+        296
+      ]
+    }
+  ]
+}

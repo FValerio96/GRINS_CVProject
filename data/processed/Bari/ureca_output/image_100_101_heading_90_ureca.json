@@ -1,0 +1,113 @@
+{
+  "image": "image_100_101_heading_90.jpg",
+  "class_ids": [
+    2,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    131
+  ],
+  "class_names": [
+    "car",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        250,
+        257,
+        392,
+        296
+      ],
+      "caption": "car driving on a bridge"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        307,
+        241,
+        346,
+        260
+      ],
+      "caption": "house for sale in the heart of the forest"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        250,
+        511,
+        471
+      ],
+      "caption": "road view from the front of a car"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        210,
+        511,
+        314
+      ],
+      "caption": "tree on the side of the road"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        414,
+        259,
+        511,
+        323
+      ],
+      "caption": "fenced off the road"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        254
+      ],
+      "caption": "sky is clear"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        249,
+        275,
+        273,
+        278
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        269,
+        329,
+        392
+      ],
+      "caption": "walla - road - bike - bike - bike - bike - bike - bike - bike - bike -"
+    }
+  ]
+}

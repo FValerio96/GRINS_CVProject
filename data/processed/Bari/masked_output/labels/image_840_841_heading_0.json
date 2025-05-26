@@ -1,0 +1,105 @@
+{
+  "image": "image_840_841_heading_0.jpg",
+  "class_ids": [
+    76,
+    86,
+    115,
+    119,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "scissors",
+    "door-stuff",
+    "window-other",
+    "sky-other-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 76,
+      "class_name": "scissors",
+      "bbox": [
+        240,
+        271,
+        282,
+        412
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        452,
+        266,
+        486,
+        406
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        476,
+        402,
+        484,
+        406
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        207
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        382,
+        477,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        363,
+        406,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        49,
+        125,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        207,
+        367,
+        471
+      ]
+    }
+  ]
+}

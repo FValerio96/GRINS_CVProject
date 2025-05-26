@@ -1,0 +1,113 @@
+{
+  "image": "image_151_152_heading_90.jpg",
+  "class_ids": [
+    2,
+    58,
+    86,
+    91,
+    100,
+    116,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "door-stuff",
+    "house",
+    "road",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        345,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        4,
+        262,
+        53,
+        371
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        104,
+        206,
+        349,
+        358
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        107,
+        353,
+        192,
+        359
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        446,
+        20,
+        462
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        268,
+        53,
+        367
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        352,
+        511,
+        447
+      ],
+      "caption": "describe the pavement in the image below, and the car in the picture below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        367
+      ],
+      "caption": "describe the building in the image above"
+    }
+  ]
+}

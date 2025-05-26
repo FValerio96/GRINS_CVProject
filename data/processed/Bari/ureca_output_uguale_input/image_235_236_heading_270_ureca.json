@@ -1,0 +1,139 @@
+{
+  "image": "image_235_236_heading_270.jpg",
+  "class_ids": [
+    11,
+    80,
+    91,
+    116,
+    117,
+    119,
+    123,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "stop sign",
+    "banner",
+    "house",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        138,
+        194,
+        167,
+        236
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        176,
+        284,
+        377,
+        339
+      ],
+      "caption": "describe the banner in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        188,
+        24,
+        204
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        420
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        246,
+        457,
+        354
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ],
+      "caption": "describe the sky in the image above the photo, the sky is the sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        369,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        439,
+        377,
+        511,
+        434
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        169,
+        414,
+        372
+      ],
+      "caption": "describe the building in the image, the sign is for the building"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        337,
+        457,
+        382
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

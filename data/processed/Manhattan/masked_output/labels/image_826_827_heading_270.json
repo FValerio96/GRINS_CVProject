@@ -1,0 +1,117 @@
+{
+  "image": "image_826_827_heading_270.jpg",
+  "class_ids": [
+    0,
+    30,
+    31,
+    92,
+    115,
+    118,
+    122,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "skis",
+    "snowboard",
+    "light",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        0,
+        164,
+        415,
+        471
+      ]
+    },
+    {
+      "class_id": 30,
+      "class_name": "skis",
+      "bbox": [
+        5,
+        196,
+        112,
+        471
+      ]
+    },
+    {
+      "class_id": 31,
+      "class_name": "snowboard",
+      "bbox": [
+        5,
+        183,
+        90,
+        392
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        132,
+        267,
+        205
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        29,
+        511,
+        450
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        224
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        93,
+        385,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        54,
+        211,
+        147,
+        323
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        66,
+        0,
+        511,
+        458
+      ]
+    }
+  ]
+}

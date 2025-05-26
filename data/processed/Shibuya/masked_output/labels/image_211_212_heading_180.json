@@ -1,0 +1,117 @@
+{
+  "image": "image_211_212_heading_180.jpg",
+  "class_ids": [
+    11,
+    91,
+    100,
+    106,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "stop sign",
+    "house",
+    "road",
+    "stairs",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        341,
+        145,
+        355,
+        163
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        25,
+        245,
+        339
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        419,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        222,
+        234,
+        293,
+        340
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        172,
+        143,
+        511,
+        386
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        316,
+        123
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        324,
+        511,
+        434
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        185,
+        0,
+        511,
+        337
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        304,
+        228,
+        511,
+        331
+      ]
+    }
+  ]
+}

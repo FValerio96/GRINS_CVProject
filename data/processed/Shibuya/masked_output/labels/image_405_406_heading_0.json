@@ -1,0 +1,117 @@
+{
+  "image": "image_405_406_heading_0.jpg",
+  "class_ids": [
+    2,
+    7,
+    100,
+    109,
+    115,
+    119,
+    123,
+    127,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "road",
+    "wall-brick",
+    "window-other",
+    "sky-other-merged",
+    "pavement-merged",
+    "paper-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        324,
+        250,
+        511,
+        382
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        312,
+        250,
+        434,
+        385
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        375,
+        272,
+        471
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        241,
+        0,
+        511,
+        190
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        358,
+        0,
+        511,
+        108
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        212,
+        0,
+        229,
+        4
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        321,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 127,
+      "class_name": "paper-merged",
+      "bbox": [
+        217,
+        350,
+        247,
+        388
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        385
+      ]
+    }
+  ]
+}

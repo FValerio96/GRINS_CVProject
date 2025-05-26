@@ -1,0 +1,113 @@
+{
+  "image": "image_236_237_heading_270.jpg",
+  "class_ids": [
+    2,
+    100,
+    110,
+    116,
+    117,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        234,
+        264,
+        255,
+        278
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        270,
+        476,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        409,
+        322,
+        511,
+        408
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        361
+      ],
+      "caption": "describe the tree in the image to see the road"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        410,
+        359,
+        431,
+        374
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        269,
+        236
+      ],
+      "caption": "describe the sky in the image above the trees and the sky is the sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        310,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        288,
+        18,
+        290
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

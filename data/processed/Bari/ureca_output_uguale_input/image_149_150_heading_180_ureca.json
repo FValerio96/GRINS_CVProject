@@ -1,0 +1,113 @@
+{
+  "image": "image_149_150_heading_180.jpg",
+  "class_ids": [
+    2,
+    86,
+    106,
+    110,
+    115,
+    117,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "door-stuff",
+    "stairs",
+    "wall-stone",
+    "window-other",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        152,
+        327,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        504,
+        261,
+        511,
+        283
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        415,
+        284,
+        511,
+        379
+      ],
+      "caption": "describe the stairs in the image"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        177,
+        336,
+        319,
+        366
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        29,
+        0,
+        67,
+        283
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        271,
+        176,
+        471
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        102,
+        331,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below, the car is parked on the street"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        362
+      ],
+      "caption": "describe the building in the image, the car is parked in the parking"
+    }
+  ]
+}

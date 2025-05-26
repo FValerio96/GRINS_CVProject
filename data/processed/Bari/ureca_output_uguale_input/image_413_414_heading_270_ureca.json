@@ -1,0 +1,87 @@
+{
+  "image": "image_413_414_heading_270.jpg",
+  "class_ids": [
+    82,
+    100,
+    116,
+    119,
+    125,
+    129
+  ],
+  "class_names": [
+    "bridge",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        308,
+        228,
+        511,
+        263
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        248,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        224,
+        317,
+        258
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        240
+      ],
+      "caption": "describe the sky in the image above the waterline at the site of the former building"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        247,
+        373,
+        291
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        462,
+        252,
+        494,
+        262
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "image": "image_466_467_heading_270.jpg",
+  "class_ids": [
+    2,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        191,
+        278,
+        294,
+        377
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        120,
+        0,
+        215,
+        140
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        250,
+        460,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        461,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        191,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

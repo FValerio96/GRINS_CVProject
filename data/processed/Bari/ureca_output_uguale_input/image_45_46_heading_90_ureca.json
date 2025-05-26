@@ -1,0 +1,126 @@
+{
+  "image": "image_45_46_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    100,
+    102,
+    116,
+    119,
+    123,
+    126,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "road",
+    "sand",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        96,
+        271,
+        108,
+        289
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        259,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the car in the picture"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        264,
+        499,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the car parking in the street"
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        258,
+        301,
+        511,
+        471
+      ],
+      "caption": "describe the sand in the image, the sand is a lot of sand, the sand is a lot of sand, the sand is"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        62,
+        296,
+        280
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        505,
+        236
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        66,
+        286,
+        137,
+        302
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        257,
+        314,
+        334,
+        471
+      ],
+      "caption": "describe the dirt in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        297
+      ],
+      "caption": "describe the building in the image, the building is located on the right side of the street"
+    }
+  ]
+}

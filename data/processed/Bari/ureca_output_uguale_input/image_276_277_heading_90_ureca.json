@@ -1,0 +1,61 @@
+{
+  "image": "image_276_277_heading_90.jpg",
+  "class_ids": [
+    115,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "window-other",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        166,
+        249,
+        259
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        349,
+        130
+      ],
+      "caption": "describe the sky in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        68,
+        267,
+        225
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

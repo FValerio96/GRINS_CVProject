@@ -1,0 +1,74 @@
+{
+  "image": "image_227_228_heading_270.jpg",
+  "class_ids": [
+    116,
+    117,
+    119,
+    125,
+    130
+  ],
+  "class_names": [
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        120,
+        286,
+        380,
+        471
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        451,
+        248
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        245,
+        324,
+        444
+      ],
+      "caption": "describe the grass in the image, you can see the fence and the gate"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        0,
+        359,
+        138,
+        471
+      ],
+      "caption": "describe the rock in the image below"
+    }
+  ]
+}

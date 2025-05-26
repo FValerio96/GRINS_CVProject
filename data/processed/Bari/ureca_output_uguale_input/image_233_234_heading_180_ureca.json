@@ -1,0 +1,100 @@
+{
+  "image": "image_233_234_heading_180.jpg",
+  "class_ids": [
+    13,
+    90,
+    116,
+    117,
+    119,
+    125,
+    126
+  ],
+  "class_names": [
+    "bench",
+    "gravel",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        242,
+        469,
+        242,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        352,
+        511,
+        471
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        423
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        400,
+        241,
+        471
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        205
+      ],
+      "caption": "describe the sky in the image above the tree"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        312,
+        241,
+        466
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        344,
+        241,
+        468
+      ],
+      "caption": "describe the dirt in the image"
+    }
+  ]
+}

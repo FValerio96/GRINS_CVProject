@@ -1,0 +1,126 @@
+{
+  "image": "image_202_203_heading_270.jpg",
+  "class_ids": [
+    2,
+    11,
+    90,
+    100,
+    116,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "car",
+    "stop sign",
+    "gravel",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        70,
+        257,
+        468,
+        308
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        197,
+        245,
+        213,
+        265
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        187,
+        285,
+        511,
+        428
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        265,
+        272,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road sign"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        55,
+        161,
+        511,
+        391
+      ],
+      "caption": "describe the tree in the image, the tree is in the picture, the tree is in the picture, the tree is in the"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ],
+      "caption": "describe the sky in the image above the photo, the parking area is a bit of blue"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        271,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image above, the road is a short drive from the house"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        402,
+        251,
+        477,
+        291
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        25,
+        100,
+        271
+      ],
+      "caption": "describe the building in the image above"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "image": "image_402_403_heading_90.jpg",
+  "class_ids": [
+    58,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        186,
+        214,
+        443,
+        329
+      ],
+      "caption": "describe the potted plant in the image of the potted plant in the picture of the potted plant in the potted plant"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        186,
+        319,
+        208,
+        326
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        112,
+        318,
+        304,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        196,
+        225,
+        439,
+        269
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        218,
+        240,
+        441,
+        414
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        87,
+        0,
+        445,
+        246
+      ],
+      "caption": "describe the sky in the image above the street in the photo credit"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        36,
+        321,
+        461,
+        471
+      ],
+      "caption": "describe the pavement in the image, the narrow alleys of the old town of saint - martin, france"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        394,
+        387,
+        481,
+        471
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        308,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

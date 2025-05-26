@@ -1,0 +1,61 @@
+{
+  "image": "image_350_351_heading_180.jpg",
+  "class_ids": [
+    116,
+    117,
+    119,
+    131
+  ],
+  "class_names": [
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        318
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        276,
+        511,
+        471
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        272,
+        93
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        388,
+        376,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

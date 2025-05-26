@@ -1,0 +1,81 @@
+{
+  "image": "image_603_604_heading_180.jpg",
+  "class_ids": [
+    58,
+    86,
+    115,
+    117,
+    129,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "door-stuff",
+    "window-other",
+    "fence-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        0,
+        122,
+        64,
+        211
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        55,
+        306,
+        57,
+        338
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        290,
+        59,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        135,
+        64,
+        237
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        83,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        48,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

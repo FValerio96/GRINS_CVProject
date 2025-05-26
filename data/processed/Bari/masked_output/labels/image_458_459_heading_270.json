@@ -1,0 +1,93 @@
+{
+  "image": "image_458_459_heading_270.jpg",
+  "class_ids": [
+    2,
+    11,
+    100,
+    110,
+    116,
+    119,
+    125
+  ],
+  "class_names": [
+    "car",
+    "stop sign",
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        165,
+        270,
+        218,
+        321
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        356,
+        240,
+        389,
+        272
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        269,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        355,
+        242,
+        511,
+        318
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        203,
+        357,
+        287
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        246
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        286,
+        72,
+        288
+      ]
+    }
+  ]
+}

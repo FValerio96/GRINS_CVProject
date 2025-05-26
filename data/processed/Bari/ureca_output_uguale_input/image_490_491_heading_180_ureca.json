@@ -1,0 +1,113 @@
+{
+  "image": "image_490_491_heading_180.jpg",
+  "class_ids": [
+    2,
+    80,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "banner",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        45,
+        257,
+        346,
+        353
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        133,
+        178,
+        278,
+        253
+      ],
+      "caption": "describe the banner in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        248,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        238,
+        185,
+        511,
+        294
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        235,
+        511,
+        320
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        252
+      ],
+      "caption": "describe the sky in the image above the street in the picture, the sky is blue and the sky is white"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        296,
+        133,
+        373
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        141,
+        463,
+        251
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

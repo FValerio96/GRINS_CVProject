@@ -1,0 +1,87 @@
+{
+  "image": "image_343_344_heading_270.jpg",
+  "class_ids": [
+    88,
+    100,
+    116,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "flower",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        0,
+        247,
+        511,
+        423
+      ],
+      "caption": "describe the flower in the image, the flower is the same"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        144,
+        277,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the lavenders in the field"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        228,
+        334,
+        423
+      ],
+      "caption": "describe the tree in the image, the purple flowers are in bloom"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        276,
+        507,
+        471
+      ],
+      "caption": "describe the pavement in the image, the road is paved and the road is paved"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        239,
+        311,
+        283
+      ],
+      "caption": "describe the grass in the image"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "image": "image_801_802_heading_0.jpg",
+  "class_ids": [
+    86,
+    91,
+    106,
+    110,
+    115,
+    117,
+    118,
+    131
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "stairs",
+    "wall-stone",
+    "window-other",
+    "fence-merged",
+    "ceiling-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        76,
+        73,
+        419,
+        418
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        421
+      ]
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        0,
+        213,
+        268,
+        471
+      ]
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        164,
+        204,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        254,
+        30,
+        353,
+        183
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        216,
+        443,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        29,
+        0,
+        371,
+        70
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        215
+      ]
+    }
+  ]
+}

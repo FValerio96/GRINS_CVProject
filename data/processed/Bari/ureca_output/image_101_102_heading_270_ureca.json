@@ -1,0 +1,152 @@
+{
+  "image": "image_101_102_heading_270.jpg",
+  "class_ids": [
+    2,
+    3,
+    98,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "motorcycle",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        3,
+        256,
+        331,
+        314
+      ],
+      "caption": "car driving on a highway"
+    },
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        252,
+        432,
+        412,
+        471
+      ],
+      "caption": "motorcycle helmet with a blue and white design"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        178,
+        469,
+        180,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        244,
+        511,
+        471
+      ],
+      "caption": "road with white lines"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        12,
+        186,
+        511,
+        286
+      ],
+      "caption": "tree on the side of the road"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        257,
+        293,
+        471
+      ],
+      "caption": "fence on the side of the road"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "sky blue sky"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        264,
+        138,
+        278
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        239,
+        511,
+        351
+      ],
+      "caption": "grass growing on the side of the road"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        217,
+        357,
+        262
+      ],
+      "caption": "building photo the villages at briney"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        269,
+        130,
+        287
+      ],
+      "caption": "wallpapers of the week the car"
+    }
+  ]
+}

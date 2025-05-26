@@ -1,0 +1,141 @@
+{
+  "image": "image_775_776_heading_90.jpg",
+  "class_ids": [
+    0,
+    41,
+    56,
+    60,
+    73,
+    92,
+    112,
+    118,
+    121,
+    122,
+    131
+  ],
+  "class_names": [
+    "person",
+    "cup",
+    "chair",
+    "dining table",
+    "book",
+    "light",
+    "wall-wood",
+    "ceiling-merged",
+    "table-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        8,
+        335,
+        237,
+        471
+      ]
+    },
+    {
+      "class_id": 41,
+      "class_name": "cup",
+      "bbox": [
+        191,
+        400,
+        195,
+        403
+      ]
+    },
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        0,
+        400,
+        13,
+        471
+      ]
+    },
+    {
+      "class_id": 60,
+      "class_name": "dining table",
+      "bbox": [
+        64,
+        390,
+        252,
+        444
+      ]
+    },
+    {
+      "class_id": 73,
+      "class_name": "book",
+      "bbox": [
+        136,
+        395,
+        167,
+        410
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        44,
+        122,
+        272,
+        225
+      ]
+    },
+    {
+      "class_id": 112,
+      "class_name": "wall-wood",
+      "bbox": [
+        21,
+        191,
+        375,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        379,
+        251
+      ]
+    },
+    {
+      "class_id": 121,
+      "class_name": "table-merged",
+      "bbox": [
+        0,
+        390,
+        253,
+        471
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        221,
+        422,
+        351,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

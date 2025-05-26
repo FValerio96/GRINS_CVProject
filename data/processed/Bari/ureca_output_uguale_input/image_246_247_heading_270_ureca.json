@@ -1,0 +1,165 @@
+{
+  "image": "image_246_247_heading_270.jpg",
+  "class_ids": [
+    9,
+    91,
+    100,
+    101,
+    110,
+    115,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "traffic light",
+    "house",
+    "road",
+    "roof",
+    "wall-stone",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        145,
+        230,
+        159,
+        259
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        447
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        266,
+        448,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        398,
+        58,
+        398,
+        58
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        290,
+        252,
+        445
+      ],
+      "caption": "describe the wall in the image, the wall is a long, narrow, narrow, narrow street"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        86,
+        230,
+        128,
+        281
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        362,
+        191,
+        409,
+        249
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        249,
+        403,
+        371
+      ],
+      "caption": "describe the fence in the image, the fence is the same"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        148,
+        0,
+        413,
+        220
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        388,
+        300,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        137,
+        0,
+        403,
+        280
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        202,
+        228
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

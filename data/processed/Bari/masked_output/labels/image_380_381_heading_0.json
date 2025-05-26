@@ -1,0 +1,105 @@
+{
+  "image": "image_380_381_heading_0.jpg",
+  "class_ids": [
+    2,
+    9,
+    13,
+    62,
+    100,
+    116,
+    123,
+    125
+  ],
+  "class_names": [
+    "car",
+    "traffic light",
+    "bench",
+    "tv",
+    "road",
+    "tree-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        375,
+        262,
+        511,
+        285
+      ]
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        435,
+        340,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        107,
+        315,
+        163,
+        327
+      ]
+    },
+    {
+      "class_id": 62,
+      "class_name": "tv",
+      "bbox": [
+        295,
+        375,
+        388,
+        471
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        280,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        375
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        296,
+        481,
+        471
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        269,
+        35,
+        299
+      ]
+    }
+  ]
+}

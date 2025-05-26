@@ -1,0 +1,57 @@
+{
+  "image": "image_183_184_heading_270.jpg",
+  "class_ids": [
+    6,
+    98,
+    115,
+    129
+  ],
+  "class_names": [
+    "train",
+    "railroad",
+    "window-other",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        258,
+        420,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        384,
+        36,
+        511,
+        70
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        136,
+        0,
+        511,
+        54
+      ]
+    }
+  ]
+}

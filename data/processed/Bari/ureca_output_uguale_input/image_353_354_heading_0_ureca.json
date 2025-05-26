@@ -1,0 +1,126 @@
+{
+  "image": "image_353_354_heading_0.jpg",
+  "class_ids": [
+    2,
+    11,
+    100,
+    102,
+    103,
+    116,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "car",
+    "stop sign",
+    "road",
+    "sand",
+    "sea",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        266,
+        260,
+        436,
+        274
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        250,
+        242,
+        263,
+        260
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        255,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the sea"
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        143,
+        269,
+        150,
+        274
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        193,
+        239,
+        511,
+        266
+      ],
+      "caption": "describe the sea in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        217,
+        148,
+        315
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        261
+      ],
+      "caption": "describe the sky in the image above the sea"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        265,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the intersection of the road and the intersection of the road"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        275,
+        208,
+        322
+      ],
+      "caption": "describe the grass in the image"
+    }
+  ]
+}

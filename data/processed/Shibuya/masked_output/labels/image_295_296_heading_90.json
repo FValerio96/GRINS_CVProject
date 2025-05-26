@@ -1,0 +1,129 @@
+{
+  "image": "image_295_296_heading_90.jpg",
+  "class_ids": [
+    61,
+    62,
+    63,
+    111,
+    115,
+    116,
+    117,
+    122,
+    123,
+    129
+  ],
+  "class_names": [
+    "toilet",
+    "tv",
+    "laptop",
+    "wall-tile",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 61,
+      "class_name": "toilet",
+      "bbox": [
+        290,
+        348,
+        385,
+        471
+      ]
+    },
+    {
+      "class_id": 62,
+      "class_name": "tv",
+      "bbox": [
+        203,
+        315,
+        270,
+        363
+      ]
+    },
+    {
+      "class_id": 63,
+      "class_name": "laptop",
+      "bbox": [
+        201,
+        333,
+        267,
+        374
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        271,
+        323,
+        467,
+        443
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        91,
+        0,
+        438,
+        237
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        234,
+        20,
+        265
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        288,
+        203,
+        377
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        145,
+        364,
+        466,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        335,
+        232,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

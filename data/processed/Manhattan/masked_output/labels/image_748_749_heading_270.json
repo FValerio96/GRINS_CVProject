@@ -1,0 +1,57 @@
+{
+  "image": "image_748_749_heading_270.jpg",
+  "class_ids": [
+    2,
+    7,
+    100,
+    129
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "road",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        321,
+        5,
+        327
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        0,
+        140,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        385,
+        471,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        321
+      ]
+    }
+  ]
+}

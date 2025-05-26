@@ -1,0 +1,74 @@
+{
+  "image": "image_41_42_heading_180.jpg",
+  "class_ids": [
+    86,
+    109,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "door-stuff",
+    "wall-brick",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        443,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the door in the image below"
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        285,
+        434,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        7,
+        4
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        430,
+        57,
+        471
+      ],
+      "caption": "describe the floor in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        451,
+        471
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

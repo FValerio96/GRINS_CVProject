@@ -1,0 +1,152 @@
+{
+  "image": "image_201_202_heading_90.jpg",
+  "class_ids": [
+    58,
+    87,
+    91,
+    101,
+    116,
+    117,
+    119,
+    122,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "floor-wood",
+    "house",
+    "roof",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        177,
+        269,
+        200,
+        286
+      ],
+      "caption": "describe the potted plant in the image below"
+    },
+    {
+      "class_id": 87,
+      "class_name": "floor-wood",
+      "bbox": [
+        0,
+        402,
+        511,
+        471
+      ],
+      "caption": "describe the floor in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        351,
+        205,
+        419,
+        243
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        0,
+        227,
+        14,
+        228
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        216,
+        511,
+        273
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        246,
+        511,
+        379
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        231
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        153,
+        369,
+        511,
+        418
+      ],
+      "caption": "describe the floor in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        372,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        15,
+        177,
+        426,
+        378
+      ],
+      "caption": "describe the building in the image, you can see the gate and the house"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        23,
+        265,
+        511,
+        382
+      ],
+      "caption": "describe the wall in the image above the gate"
+    }
+  ]
+}

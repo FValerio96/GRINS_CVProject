@@ -1,0 +1,165 @@
+{
+  "image": "image_576_577_heading_0.jpg",
+  "class_ids": [
+    0,
+    57,
+    58,
+    62,
+    75,
+    88,
+    92,
+    93,
+    95,
+    118,
+    121,
+    122,
+    131
+  ],
+  "class_names": [
+    "person",
+    "couch",
+    "potted plant",
+    "tv",
+    "vase",
+    "flower",
+    "light",
+    "mirror-stuff",
+    "pillow",
+    "ceiling-merged",
+    "table-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        471,
+        335,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 57,
+      "class_name": "couch",
+      "bbox": [
+        105,
+        311,
+        317,
+        427
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        34,
+        292,
+        366,
+        385
+      ]
+    },
+    {
+      "class_id": 62,
+      "class_name": "tv",
+      "bbox": [
+        483,
+        438,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 75,
+      "class_name": "vase",
+      "bbox": [
+        52,
+        312,
+        368,
+        436
+      ]
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        33,
+        292,
+        83,
+        333
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        62,
+        272,
+        338,
+        394
+      ]
+    },
+    {
+      "class_id": 93,
+      "class_name": "mirror-stuff",
+      "bbox": [
+        374,
+        230,
+        511,
+        455
+      ]
+    },
+    {
+      "class_id": 95,
+      "class_name": "pillow",
+      "bbox": [
+        326,
+        435,
+        431,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        145
+      ]
+    },
+    {
+      "class_id": 121,
+      "class_name": "table-merged",
+      "bbox": [
+        6,
+        322,
+        378,
+        436
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        365,
+        335,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        105,
+        511,
+        471
+      ]
+    }
+  ]
+}

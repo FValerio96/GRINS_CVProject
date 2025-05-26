@@ -1,0 +1,152 @@
+{
+  "image": "image_44_45_heading_180.jpg",
+  "class_ids": [
+    11,
+    88,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "stop sign",
+    "flower",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        63,
+        203,
+        99,
+        253
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        173,
+        216,
+        195,
+        245
+      ],
+      "caption": "describe the flower in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        139,
+        45,
+        477,
+        287
+      ],
+      "caption": "describe the house in the image, the house is located in the same location, the house is located in the same location"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        139,
+        252,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the street in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        368
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        139,
+        265,
+        185,
+        324
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        131,
+        0,
+        511,
+        236
+      ],
+      "caption": "describe the sky in the image above the street in front of the apartment"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        287,
+        253,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        30,
+        290,
+        511,
+        394
+      ],
+      "caption": "describe the grass in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        184,
+        44,
+        511,
+        295
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        311,
+        149,
+        393
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

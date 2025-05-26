@@ -1,0 +1,93 @@
+{
+  "image": "image_135_136_heading_90.jpg",
+  "class_ids": [
+    8,
+    13,
+    109,
+    116,
+    117,
+    129,
+    131
+  ],
+  "class_names": [
+    "boat",
+    "bench",
+    "wall-brick",
+    "tree-merged",
+    "fence-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 8,
+      "class_name": "boat",
+      "bbox": [
+        0,
+        321,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        59,
+        271,
+        159,
+        285
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        18,
+        248,
+        298,
+        298
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        324,
+        274
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        232,
+        511,
+        448
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        336
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        415,
+        500,
+        471
+      ]
+    }
+  ]
+}

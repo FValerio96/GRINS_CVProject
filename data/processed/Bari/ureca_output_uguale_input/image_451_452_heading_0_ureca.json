@@ -1,0 +1,126 @@
+{
+  "image": "image_451_452_heading_0.jpg",
+  "class_ids": [
+    2,
+    7,
+    56,
+    100,
+    116,
+    119,
+    123,
+    129,
+    130
+  ],
+  "class_names": [
+    "car",
+    "truck",
+    "chair",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        214,
+        265,
+        495,
+        287
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        0,
+        152,
+        220,
+        471
+      ],
+      "caption": "describe the truck in the image"
+    },
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        297,
+        281,
+        301,
+        283
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        55,
+        265,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the truck is parked on the side of the road"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        156,
+        236,
+        511,
+        282
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        255
+      ],
+      "caption": "describe the sky in the image above the photo, the sky is blue and the sky is clear"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        157,
+        267,
+        391,
+        323
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        251,
+        236,
+        462,
+        275
+      ],
+      "caption": "describe the building in the image below the red car"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        160,
+        299,
+        162,
+        310
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

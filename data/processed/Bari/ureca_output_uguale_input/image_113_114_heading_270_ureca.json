@@ -1,0 +1,178 @@
+{
+  "image": "image_113_114_heading_270.jpg",
+  "class_ids": [
+    2,
+    9,
+    58,
+    80,
+    86,
+    91,
+    109,
+    115,
+    117,
+    118,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "traffic light",
+    "potted plant",
+    "banner",
+    "door-stuff",
+    "house",
+    "wall-brick",
+    "window-other",
+    "fence-merged",
+    "ceiling-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        351,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        314,
+        280,
+        317,
+        293
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        332,
+        106,
+        511,
+        195
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        361,
+        197,
+        489,
+        240
+      ],
+      "caption": "describe the banner in the image below"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        10,
+        236,
+        325,
+        381
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        352,
+        400
+      ],
+      "caption": "describe the house in the image below"
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        105,
+        0,
+        189,
+        160
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        286,
+        109,
+        314,
+        135
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        27,
+        497,
+        194
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        396,
+        95,
+        399,
+        95
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        241,
+        374,
+        476,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        211,
+        0,
+        511,
+        398
+      ],
+      "caption": "describe the building in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        254,
+        460,
+        405,
+        471
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

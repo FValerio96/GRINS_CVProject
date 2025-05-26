@@ -1,0 +1,117 @@
+{
+  "image": "image_352_353_heading_90.jpg",
+  "class_ids": [
+    0,
+    24,
+    100,
+    111,
+    116,
+    123,
+    127,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "backpack",
+    "road",
+    "wall-tile",
+    "tree-merged",
+    "pavement-merged",
+    "paper-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        108,
+        281,
+        232,
+        456
+      ]
+    },
+    {
+      "class_id": 24,
+      "class_name": "backpack",
+      "bbox": [
+        193,
+        335,
+        208,
+        391
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        424,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        159,
+        318,
+        207,
+        365
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        168,
+        0,
+        511,
+        277
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        384,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 127,
+      "class_name": "paper-merged",
+      "bbox": [
+        0,
+        251,
+        94,
+        348
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        346,
+        0,
+        440,
+        211
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        405
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "image": "image_192_193_heading_90.jpg",
+  "class_ids": [
+    2,
+    100,
+    116,
+    117,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        258,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the parking lot in the background"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        74,
+        253,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image above, the street is a lot of parking"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        246,
+        65,
+        511,
+        289
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        362,
+        99,
+        422
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        236,
+        0,
+        397,
+        242
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        124,
+        286,
+        183,
+        321
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        285
+      ],
+      "caption": "describe the building in the image, the building is the same, the building is the same, the building is the same"
+    }
+  ]
+}

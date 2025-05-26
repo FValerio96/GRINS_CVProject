@@ -1,0 +1,61 @@
+{
+  "image": "image_500_501_heading_180.jpg",
+  "class_ids": [
+    94,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "net",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 94,
+      "class_name": "net",
+      "bbox": [
+        48,
+        377,
+        511,
+        471
+      ],
+      "caption": "describe the net in the image below the net is the net of the net, and the net of the net is the net of"
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        214,
+        0,
+        511,
+        134
+      ],
+      "caption": "describe the ceiling in the image below"
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        320,
+        51,
+        471
+      ],
+      "caption": "describe the floor in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        452
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

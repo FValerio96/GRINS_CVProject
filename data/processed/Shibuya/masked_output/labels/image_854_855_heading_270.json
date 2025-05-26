@@ -1,0 +1,105 @@
+{
+  "image": "image_854_855_heading_270.jpg",
+  "class_ids": [
+    59,
+    86,
+    100,
+    109,
+    116,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "bed",
+    "door-stuff",
+    "road",
+    "wall-brick",
+    "tree-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 59,
+      "class_name": "bed",
+      "bbox": [
+        373,
+        271,
+        511,
+        406
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        338,
+        30,
+        348
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        380,
+        372,
+        471
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        89,
+        295,
+        149,
+        370
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        32,
+        167,
+        118,
+        256
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        309,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        357
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        86,
+        220,
+        511,
+        352
+      ]
+    }
+  ]
+}

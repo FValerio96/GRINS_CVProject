@@ -1,0 +1,93 @@
+{
+  "image": "image_474_475_heading_0.jpg",
+  "class_ids": [
+    90,
+    96,
+    98,
+    118,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "gravel",
+    "platform",
+    "railroad",
+    "ceiling-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        333,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        394,
+        410,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        123,
+        360,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        344,
+        0,
+        511,
+        75
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        141,
+        0,
+        264,
+        240
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        353
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        301,
+        511,
+        423
+      ]
+    }
+  ]
+}

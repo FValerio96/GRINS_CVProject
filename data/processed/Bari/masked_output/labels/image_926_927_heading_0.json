@@ -1,0 +1,69 @@
+{
+  "image": "image_926_927_heading_0.jpg",
+  "class_ids": [
+    91,
+    110,
+    115,
+    119,
+    131
+  ],
+  "class_names": [
+    "house",
+    "wall-stone",
+    "window-other",
+    "sky-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        400,
+        1,
+        400
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        143,
+        511,
+        441
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        487,
+        155
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        366,
+        445,
+        490,
+        471
+      ]
+    }
+  ]
+}

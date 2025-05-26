@@ -1,0 +1,126 @@
+{
+  "image": "image_470_471_heading_0.jpg",
+  "class_ids": [
+    90,
+    98,
+    100,
+    109,
+    116,
+    117,
+    119,
+    125,
+    126
+  ],
+  "class_names": [
+    "gravel",
+    "railroad",
+    "road",
+    "wall-brick",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        348,
+        511,
+        447
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        347,
+        3,
+        347
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        382,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        0,
+        285,
+        511,
+        371
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        14,
+        511,
+        309
+      ],
+      "caption": "describe the tree in the image, you can see the tree in the picture, you can see the tree in the picture, you"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        337,
+        511,
+        391
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        242
+      ],
+      "caption": "describe the sky in the image above, the sky is the sky above, the sky is the sky above, the sky is the"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        277,
+        356,
+        296
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        352,
+        491,
+        444
+      ],
+      "caption": "describe the dirt in the image below"
+    }
+  ]
+}

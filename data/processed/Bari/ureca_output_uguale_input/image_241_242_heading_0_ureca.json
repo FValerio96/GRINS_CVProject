@@ -1,0 +1,139 @@
+{
+  "image": "image_241_242_heading_0.jpg",
+  "class_ids": [
+    10,
+    91,
+    100,
+    116,
+    117,
+    119,
+    124,
+    125,
+    126,
+    129
+  ],
+  "class_names": [
+    "fire hydrant",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 10,
+      "class_name": "fire hydrant",
+      "bbox": [
+        242,
+        381,
+        270,
+        397
+      ],
+      "caption": "describe the fire hydrant in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        402,
+        228,
+        491,
+        283
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        16,
+        282,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        17,
+        232,
+        511,
+        363
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        314,
+        344,
+        396
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        256
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the picture below the sky is blue"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        0,
+        232,
+        390,
+        363
+      ],
+      "caption": "describe the mountain in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        253,
+        420,
+        471
+      ],
+      "caption": "describe the grass in the image, the grass is green, the grass is green, the grass is green, the grass is green"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        0,
+        450,
+        37,
+        471
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        394,
+        230,
+        490,
+        284
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "image": "image_620_621_heading_180.jpg",
+  "class_ids": [
+    88,
+    113,
+    116,
+    123,
+    125,
+    126,
+    129,
+    131
+  ],
+  "class_names": [
+    "flower",
+    "water-other",
+    "tree-merged",
+    "pavement-merged",
+    "grass-merged",
+    "dirt-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 88,
+      "class_name": "flower",
+      "bbox": [
+        86,
+        253,
+        112,
+        269
+      ]
+    },
+    {
+      "class_id": 113,
+      "class_name": "water-other",
+      "bbox": [
+        236,
+        171,
+        511,
+        223
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        356
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        498,
+        373,
+        511,
+        387
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        213,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        24,
+        256,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        19,
+        209,
+        79,
+        282
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        24,
+        238,
+        82,
+        283
+      ]
+    }
+  ]
+}

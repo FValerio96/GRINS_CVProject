@@ -1,0 +1,113 @@
+{
+  "image": "image_399_400_heading_90.jpg",
+  "class_ids": [
+    2,
+    11,
+    100,
+    116,
+    119,
+    123,
+    125,
+    129
+  ],
+  "class_names": [
+    "car",
+    "stop sign",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        223,
+        267,
+        259,
+        273
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 11,
+      "class_name": "stop sign",
+      "bbox": [
+        0,
+        302,
+        52,
+        358
+      ],
+      "caption": "describe the stop sign in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        8,
+        265,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road sign"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        140,
+        195,
+        511,
+        278
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        251
+      ],
+      "caption": "describe the sky in the image above the parking lot"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        272,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, you can see the road sign and the road sign"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        262,
+        353,
+        471
+      ],
+      "caption": "describe the grass in the image, you can see the road sign and the road sign"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        240,
+        141,
+        268
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "image": "image_345_346_heading_0.jpg",
+  "class_ids": [
+    83,
+    92,
+    100,
+    118,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "cardboard",
+    "light",
+    "road",
+    "ceiling-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 83,
+      "class_name": "cardboard",
+      "bbox": [
+        0,
+        244,
+        63,
+        345
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        56,
+        198,
+        68,
+        215
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        180,
+        280,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        148,
+        136,
+        215
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        370,
+        0,
+        511,
+        105
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        296,
+        367,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        368
+      ]
+    }
+  ]
+}

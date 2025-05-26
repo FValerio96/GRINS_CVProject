@@ -1,0 +1,113 @@
+{
+  "image": "image_353_354_heading_90.jpg",
+  "class_ids": [
+    0,
+    2,
+    100,
+    103,
+    116,
+    119,
+    123,
+    125
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "road",
+    "sea",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        158,
+        244,
+        218,
+        297
+      ],
+      "caption": "describe the person in the image"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        58,
+        256,
+        171,
+        273
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        259,
+        283,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road sign"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        36,
+        263,
+        57,
+        266
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        208,
+        186,
+        511,
+        406
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        264
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        267,
+        474,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        328,
+        357,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image"
+    }
+  ]
+}

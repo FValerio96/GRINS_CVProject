@@ -1,0 +1,74 @@
+{
+  "image": "image_428_429_heading_0.jpg",
+  "class_ids": [
+    0,
+    2,
+    100,
+    119,
+    129
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "road",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        232,
+        295,
+        234,
+        297
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        268,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the parking lot"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        285,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the parking lot"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        100,
+        0,
+        511,
+        176
+      ],
+      "caption": "describe the sky in the image above the photo, the apartment is located on the right side of the street"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        318
+      ],
+      "caption": "describe the building in the image, the car park is the parking lot"
+    }
+  ]
+}

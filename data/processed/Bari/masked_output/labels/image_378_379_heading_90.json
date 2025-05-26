@@ -1,0 +1,57 @@
+{
+  "image": "image_378_379_heading_90.jpg",
+  "class_ids": [
+    117,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "fence-merged",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        206,
+        142,
+        423,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        173,
+        0,
+        511,
+        135
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        384,
+        415,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

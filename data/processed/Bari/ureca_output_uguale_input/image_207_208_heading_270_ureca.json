@@ -1,0 +1,74 @@
+{
+  "image": "image_207_208_heading_270.jpg",
+  "class_ids": [
+    100,
+    113,
+    116,
+    119,
+    125
+  ],
+  "class_names": [
+    "road",
+    "water-other",
+    "tree-merged",
+    "sky-other-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        243,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 113,
+      "class_name": "water-other",
+      "bbox": [
+        272,
+        332,
+        410,
+        471
+      ],
+      "caption": "describe the water in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        124,
+        236,
+        168,
+        272
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        256
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the picture below the sky is blue"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        248,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image, you can see the beach and the lighthouse"
+    }
+  ]
+}

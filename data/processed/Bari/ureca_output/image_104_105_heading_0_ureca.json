@@ -1,0 +1,100 @@
+{
+  "image": "image_104_105_heading_0.jpg",
+  "class_ids": [
+    86,
+    91,
+    100,
+    115,
+    117,
+    123,
+    129
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "road",
+    "window-other",
+    "fence-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        271,
+        244,
+        356,
+        414
+      ],
+      "caption": "door with a black frame"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        508,
+        471
+      ],
+      "caption": "house for sale in the old town of person"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        434,
+        401,
+        511,
+        471
+      ],
+      "caption": "road paving in the uk"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        155,
+        69,
+        377
+      ],
+      "caption": "window shutters and shutters"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        322,
+        0,
+        392,
+        69
+      ],
+      "caption": "fences and railings"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        205,
+        333,
+        511,
+        471
+      ],
+      "caption": "pavemented street in the old city of jerusalem"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        370
+      ],
+      "caption": "building for sale in the heart of the old town of san"
+    }
+  ]
+}

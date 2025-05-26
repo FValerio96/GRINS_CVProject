@@ -1,0 +1,100 @@
+{
+  "image": "image_329_330_heading_0.jpg",
+  "class_ids": [
+    82,
+    98,
+    100,
+    116,
+    117,
+    119,
+    125
+  ],
+  "class_names": [
+    "bridge",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        221,
+        228,
+        511,
+        273
+      ],
+      "caption": "describe the bridge in the image below"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        480,
+        263,
+        511,
+        271
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        266,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        231,
+        493,
+        317
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        247,
+        349,
+        392
+      ],
+      "caption": "describe the fence in the image, you can see the fence in the picture"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        260
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the photo below the sky is the sky"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        302,
+        295,
+        452
+      ],
+      "caption": "describe the grass in the image, the grass is green and the grass is brown"
+    }
+  ]
+}

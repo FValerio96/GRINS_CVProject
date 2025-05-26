@@ -1,0 +1,45 @@
+{
+  "image": "image_650_651_heading_0.jpg",
+  "class_ids": [
+    86,
+    91,
+    117
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "fence-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        40,
+        215,
+        307,
+        471
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        50,
+        0,
+        508,
+        112
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "image": "image_545_546_heading_180.jpg",
+  "class_ids": [
+    6,
+    92,
+    98,
+    100,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "train",
+    "light",
+    "railroad",
+    "road",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        0,
+        129,
+        511,
+        331
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        0,
+        46,
+        511,
+        215
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        92,
+        322,
+        276,
+        336
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        13,
+        320,
+        511,
+        430
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        7,
+        5
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        318,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        192
+      ]
+    }
+  ]
+}

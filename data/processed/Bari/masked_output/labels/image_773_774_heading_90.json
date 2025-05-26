@@ -1,0 +1,69 @@
+{
+  "image": "image_773_774_heading_90.jpg",
+  "class_ids": [
+    58,
+    86,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "door-stuff",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        66,
+        266,
+        484,
+        327
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        154,
+        213,
+        282,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        435,
+        113,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        426,
+        443
+      ]
+    }
+  ]
+}

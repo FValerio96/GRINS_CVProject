@@ -1,0 +1,57 @@
+{
+  "image": "image_415_416_heading_270.jpg",
+  "class_ids": [
+    80,
+    111,
+    115,
+    129
+  ],
+  "class_names": [
+    "banner",
+    "wall-tile",
+    "window-other",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        0,
+        356,
+        511,
+        447
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        417,
+        244,
+        431,
+        268
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        218,
+        432,
+        436
+      ]
+    }
+  ]
+}

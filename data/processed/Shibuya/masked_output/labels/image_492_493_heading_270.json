@@ -1,0 +1,117 @@
+{
+  "image": "image_492_493_heading_270.jpg",
+  "class_ids": [
+    3,
+    7,
+    100,
+    116,
+    117,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "motorcycle",
+    "truck",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        130,
+        255,
+        167,
+        273
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        443,
+        157,
+        511,
+        411
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        284,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        339
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        372,
+        307,
+        446,
+        343
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        26,
+        274,
+        387,
+        344
+      ]
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        316,
+        326,
+        464,
+        384
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        17,
+        0,
+        449,
+        312
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        23,
+        259,
+        28,
+        264
+      ]
+    }
+  ]
+}

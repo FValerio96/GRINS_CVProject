@@ -1,0 +1,100 @@
+{
+  "image": "image_301_302_heading_90.jpg",
+  "class_ids": [
+    100,
+    110,
+    116,
+    119,
+    124,
+    125,
+    130
+  ],
+  "class_names": [
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "grass-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        329,
+        38,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        243,
+        345,
+        245,
+        358
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        155,
+        511,
+        397
+      ],
+      "caption": "describe the tree in the image, you can see the olive tree in the photo is the olive tree in the picture"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        252
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the photo below the sky is a blue sky"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        456,
+        173,
+        511,
+        240
+      ],
+      "caption": "describe the mountain in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        244,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image, and the grass in the picture, and the grass in the grass in the picture, and the"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        194,
+        297,
+        511,
+        471
+      ],
+      "caption": "describe the rock in the image below"
+    }
+  ]
+}

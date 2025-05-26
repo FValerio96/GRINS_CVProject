@@ -1,0 +1,87 @@
+{
+  "image": "image_29_30_heading_0.jpg",
+  "class_ids": [
+    2,
+    91,
+    100,
+    116,
+    119,
+    129
+  ],
+  "class_names": [
+    "car",
+    "house",
+    "road",
+    "tree-merged",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        250,
+        401,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the parking lot"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        226,
+        282,
+        249,
+        295
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        30,
+        245,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the street is empty, and the street is empty"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        367,
+        254,
+        382,
+        257
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        225
+      ],
+      "caption": "describe the sky in the image of the house in the photo 1"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        72,
+        511,
+        325
+      ],
+      "caption": "describe the building in the image, the building is the same, the building is the same"
+    }
+  ]
+}

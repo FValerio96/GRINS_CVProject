@@ -1,0 +1,126 @@
+{
+  "image": "image_284_285_heading_270.jpg",
+  "class_ids": [
+    82,
+    99,
+    100,
+    110,
+    116,
+    119,
+    123,
+    125,
+    130
+  ],
+  "class_names": [
+    "bridge",
+    "river",
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "rock-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 82,
+      "class_name": "bridge",
+      "bbox": [
+        183,
+        245,
+        197,
+        256
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 99,
+      "class_name": "river",
+      "bbox": [
+        0,
+        242,
+        195,
+        295
+      ],
+      "caption": "describe the river in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        214,
+        268,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        10,
+        309,
+        286,
+        411
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        199,
+        511,
+        436
+      ],
+      "caption": "describe the tree in the image, you can see the river in the background"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        250
+      ],
+      "caption": "describe the sky in the image above the picture"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        213,
+        469,
+        213,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        269,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image, and the road is empty"
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        29,
+        392,
+        81,
+        417
+      ],
+      "caption": "describe the rock in the image below"
+    }
+  ]
+}

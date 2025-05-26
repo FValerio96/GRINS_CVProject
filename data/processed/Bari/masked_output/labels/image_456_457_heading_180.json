@@ -1,0 +1,105 @@
+{
+  "image": "image_456_457_heading_180.jpg",
+  "class_ids": [
+    103,
+    109,
+    116,
+    117,
+    119,
+    123,
+    124,
+    131
+  ],
+  "class_names": [
+    "sea",
+    "wall-brick",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "mountain-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        0,
+        188,
+        62,
+        224
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        160,
+        265,
+        511,
+        404
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        17,
+        511,
+        309
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        50,
+        257,
+        139,
+        318
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        214
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        304,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        8,
+        139,
+        35,
+        189
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        133,
+        246,
+        511,
+        411
+      ]
+    }
+  ]
+}

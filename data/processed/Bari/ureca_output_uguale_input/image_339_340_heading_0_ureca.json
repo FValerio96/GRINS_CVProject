@@ -1,0 +1,48 @@
+{
+  "image": "image_339_340_heading_0.jpg",
+  "class_ids": [
+    86,
+    123,
+    129
+  ],
+  "class_names": [
+    "door-stuff",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        179,
+        346,
+        401
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        387,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        413
+      ],
+      "caption": "describe the building in the image below"
+    }
+  ]
+}

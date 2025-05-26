@@ -1,0 +1,129 @@
+{
+  "image": "image_423_424_heading_180.jpg",
+  "class_ids": [
+    56,
+    58,
+    86,
+    87,
+    92,
+    93,
+    115,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "chair",
+    "potted plant",
+    "door-stuff",
+    "floor-wood",
+    "light",
+    "mirror-stuff",
+    "window-other",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "bbox": [
+        451,
+        331,
+        511,
+        431
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        289,
+        236,
+        329,
+        311
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        38,
+        95,
+        386,
+        471
+      ]
+    },
+    {
+      "class_id": 87,
+      "class_name": "floor-wood",
+      "bbox": [
+        288,
+        378,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        365,
+        130,
+        403,
+        169
+      ]
+    },
+    {
+      "class_id": 93,
+      "class_name": "mirror-stuff",
+      "bbox": [
+        335,
+        311,
+        340,
+        313
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        292,
+        152,
+        388,
+        240
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        175
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        290,
+        301,
+        367,
+        407
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

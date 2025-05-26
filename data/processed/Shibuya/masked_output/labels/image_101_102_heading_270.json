@@ -1,0 +1,69 @@
+{
+  "image": "image_101_102_heading_270.jpg",
+  "class_ids": [
+    0,
+    7,
+    100,
+    116,
+    129
+  ],
+  "class_names": [
+    "person",
+    "truck",
+    "road",
+    "tree-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        418,
+        264,
+        488,
+        298
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        0,
+        95,
+        417,
+        460
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        266,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        414,
+        275,
+        422,
+        305
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        276
+      ]
+    }
+  ]
+}

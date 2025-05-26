@@ -1,0 +1,178 @@
+{
+  "image": "image_463_464_heading_90.jpg",
+  "class_ids": [
+    13,
+    25,
+    86,
+    91,
+    100,
+    107,
+    115,
+    116,
+    117,
+    119,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "bench",
+    "umbrella",
+    "door-stuff",
+    "house",
+    "road",
+    "tent",
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        0,
+        333,
+        353,
+        471
+      ],
+      "caption": "describe the bench in the image above the house"
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        445,
+        232,
+        511,
+        268
+      ],
+      "caption": "describe the umbrella in the image below"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        113,
+        211,
+        191,
+        346
+      ],
+      "caption": "describe the door in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        336,
+        194,
+        354
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        226,
+        320,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, the road is paved and the road is paved"
+    },
+    {
+      "class_id": 107,
+      "class_name": "tent",
+      "bbox": [
+        443,
+        234,
+        511,
+        261
+      ],
+      "caption": "describe the tent in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        136,
+        68,
+        174,
+        134
+      ],
+      "caption": "describe the window in the image"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        407,
+        234,
+        450,
+        268
+      ],
+      "caption": "describe the tree in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        346,
+        255,
+        511,
+        333
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        245,
+        0,
+        511,
+        236
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        294,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image, the street is empty, and the building is empty"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        357
+      ],
+      "caption": "describe the building in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        314,
+        103,
+        356
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

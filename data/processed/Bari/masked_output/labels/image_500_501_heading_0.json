@@ -1,0 +1,57 @@
+{
+  "image": "image_500_501_heading_0.jpg",
+  "class_ids": [
+    58,
+    91,
+    115,
+    131
+  ],
+  "class_names": [
+    "potted plant",
+    "house",
+    "window-other",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        307,
+        229,
+        426,
+        286
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        282,
+        17,
+        457,
+        311
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

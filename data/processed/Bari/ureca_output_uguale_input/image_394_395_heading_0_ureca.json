@@ -1,0 +1,152 @@
+{
+  "image": "image_394_395_heading_0.jpg",
+  "class_ids": [
+    2,
+    37,
+    91,
+    100,
+    116,
+    117,
+    119,
+    123,
+    125,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "surfboard",
+    "house",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "grass-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        267,
+        384,
+        464
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 37,
+      "class_name": "surfboard",
+      "bbox": [
+        11,
+        431,
+        487,
+        471
+      ],
+      "caption": "describe the surfboard in the image below"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        287,
+        82,
+        464,
+        262
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        279,
+        284,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        184,
+        511,
+        393
+      ],
+      "caption": "describe the tree in the image, the tree is in the picture, the tree is in the picture, the tree is in the"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        247,
+        511,
+        395
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        222
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        283,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        79,
+        380,
+        187,
+        392
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        105,
+        511,
+        264
+      ],
+      "caption": "describe the building in the image, the building is a two storey high - rise building with a large garden"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        77,
+        385,
+        78,
+        386
+      ],
+      "caption": "Too small region"
+    }
+  ]
+}

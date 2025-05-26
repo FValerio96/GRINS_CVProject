@@ -1,0 +1,113 @@
+{
+  "image": "image_26_27_heading_270.jpg",
+  "class_ids": [
+    0,
+    1,
+    2,
+    25,
+    100,
+    107,
+    119,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "umbrella",
+    "road",
+    "tent",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        36,
+        260,
+        467,
+        312
+      ],
+      "caption": "describe the person in the image below"
+    },
+    {
+      "class_id": 1,
+      "class_name": "bicycle",
+      "bbox": [
+        448,
+        302,
+        464,
+        317
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        264,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image, you can see the parking lot"
+    },
+    {
+      "class_id": 25,
+      "class_name": "umbrella",
+      "bbox": [
+        386,
+        248,
+        445,
+        266
+      ],
+      "caption": "describe the umbrella in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        280,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 107,
+      "class_name": "tent",
+      "bbox": [
+        463,
+        247,
+        511,
+        261
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        395,
+        204
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        323
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

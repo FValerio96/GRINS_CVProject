@@ -1,0 +1,69 @@
+{
+  "image": "image_832_833_heading_270.jpg",
+  "class_ids": [
+    7,
+    22,
+    115,
+    129,
+    131
+  ],
+  "class_names": [
+    "truck",
+    "zebra",
+    "window-other",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 7,
+      "class_name": "truck",
+      "bbox": [
+        0,
+        263,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 22,
+      "class_name": "zebra",
+      "bbox": [
+        180,
+        322,
+        286,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        0,
+        318,
+        115
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        324
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        48,
+        227,
+        304,
+        327
+      ]
+    }
+  ]
+}

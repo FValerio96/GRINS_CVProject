@@ -1,0 +1,87 @@
+{
+  "image": "image_207_208_heading_0.jpg",
+  "class_ids": [
+    100,
+    110,
+    116,
+    119,
+    124,
+    125
+  ],
+  "class_names": [
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "grass-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        266,
+        138,
+        471
+      ],
+      "caption": "describe the road in the image"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        131,
+        337,
+        511,
+        471
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        51,
+        115,
+        246,
+        340
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        256
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the picture above the photo"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        0,
+        251,
+        50,
+        289
+      ],
+      "caption": "describe the mountain in the image below"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        0,
+        250,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image, the grass is not visible, the grass is not visible"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "image": "image_715_716_heading_270.jpg",
+  "class_ids": [
+    0,
+    80,
+    96,
+    118,
+    122,
+    131
+  ],
+  "class_names": [
+    "person",
+    "banner",
+    "platform",
+    "ceiling-merged",
+    "floor-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        0,
+        271,
+        316,
+        471
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        184,
+        267,
+        321,
+        367
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        0,
+        440,
+        396,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        190
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        460,
+        80,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        160,
+        511,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "image": "image_395_396_heading_90.jpg",
+  "class_ids": [
+    0,
+    5,
+    100,
+    115,
+    119,
+    129
+  ],
+  "class_names": [
+    "person",
+    "bus",
+    "road",
+    "window-other",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        123,
+        277,
+        131,
+        297
+      ]
+    },
+    {
+      "class_id": 5,
+      "class_name": "bus",
+      "bbox": [
+        127,
+        231,
+        511,
+        407
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        284,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        304,
+        0,
+        491,
+        131
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        80,
+        0,
+        249,
+        174
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        290
+      ]
+    }
+  ]
+}

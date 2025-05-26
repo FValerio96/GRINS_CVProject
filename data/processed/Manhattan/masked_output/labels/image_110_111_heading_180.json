@@ -1,0 +1,117 @@
+{
+  "image": "image_110_111_heading_180.jpg",
+  "class_ids": [
+    62,
+    80,
+    86,
+    92,
+    111,
+    118,
+    122,
+    123,
+    131
+  ],
+  "class_names": [
+    "tv",
+    "banner",
+    "door-stuff",
+    "light",
+    "wall-tile",
+    "ceiling-merged",
+    "floor-other-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 62,
+      "class_name": "tv",
+      "bbox": [
+        364,
+        227,
+        425,
+        289
+      ]
+    },
+    {
+      "class_id": 80,
+      "class_name": "banner",
+      "bbox": [
+        177,
+        0,
+        183,
+        2
+      ]
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        0,
+        182,
+        100,
+        380
+      ]
+    },
+    {
+      "class_id": 92,
+      "class_name": "light",
+      "bbox": [
+        246,
+        0,
+        511,
+        128
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        94,
+        150,
+        414,
+        400
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        239
+      ]
+    },
+    {
+      "class_id": 122,
+      "class_name": "floor-other-merged",
+      "bbox": [
+        0,
+        279,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        480,
+        272,
+        511,
+        280
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        151,
+        511,
+        411
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "image": "image_492_493_heading_0.jpg",
+  "class_ids": [
+    0,
+    2,
+    13,
+    100,
+    102,
+    103,
+    119,
+    123
+  ],
+  "class_names": [
+    "person",
+    "car",
+    "bench",
+    "road",
+    "sand",
+    "sea",
+    "sky-other-merged",
+    "pavement-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        262,
+        248,
+        318,
+        272
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        275,
+        29,
+        305
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        314,
+        268,
+        430,
+        288
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        253,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 102,
+      "class_name": "sand",
+      "bbox": [
+        505,
+        285,
+        511,
+        285
+      ]
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        246,
+        249,
+        511,
+        285
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        266
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        149,
+        258,
+        511,
+        399
+      ]
+    }
+  ]
+}

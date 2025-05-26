@@ -1,0 +1,87 @@
+{
+  "image": "image_295_296_heading_0.jpg",
+  "class_ids": [
+    100,
+    103,
+    117,
+    119,
+    123,
+    131
+  ],
+  "class_names": [
+    "road",
+    "sea",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        393,
+        405,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 103,
+      "class_name": "sea",
+      "bbox": [
+        0,
+        258,
+        511,
+        312
+      ],
+      "caption": "describe the sea in the image below"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        174,
+        292,
+        511,
+        341
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        259
+      ],
+      "caption": "describe the sky in the image"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        333,
+        511,
+        471
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        284,
+        200,
+        336
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "image": "image_914_915_heading_180.jpg",
+  "class_ids": [
+    90,
+    116,
+    123,
+    130,
+    131
+  ],
+  "class_names": [
+    "gravel",
+    "tree-merged",
+    "pavement-merged",
+    "rock-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        337,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        392
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        440,
+        127,
+        471
+      ]
+    },
+    {
+      "class_id": 130,
+      "class_name": "rock-merged",
+      "bbox": [
+        45,
+        341,
+        184,
+        356
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        55,
+        277,
+        356
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "image": "image_875_876_heading_180.jpg",
+  "class_ids": [
+    9,
+    100,
+    111,
+    119,
+    123,
+    131
+  ],
+  "class_names": [
+    "traffic light",
+    "road",
+    "wall-tile",
+    "sky-other-merged",
+    "pavement-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        241,
+        0,
+        264,
+        26
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        174,
+        303,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 111,
+      "class_name": "wall-tile",
+      "bbox": [
+        0,
+        0,
+        511,
+        462
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        261,
+        0,
+        511,
+        184
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        167,
+        301,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        0,
+        506,
+        471
+      ]
+    }
+  ]
+}

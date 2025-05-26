@@ -1,0 +1,117 @@
+{
+  "image": "image_638_639_heading_90.jpg",
+  "class_ids": [
+    0,
+    6,
+    13,
+    96,
+    98,
+    118,
+    119,
+    129,
+    131
+  ],
+  "class_names": [
+    "person",
+    "train",
+    "bench",
+    "platform",
+    "railroad",
+    "ceiling-merged",
+    "sky-other-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 0,
+      "class_name": "person",
+      "bbox": [
+        27,
+        257,
+        279,
+        306
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "train",
+      "bbox": [
+        0,
+        229,
+        511,
+        442
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "bench",
+      "bbox": [
+        23,
+        273,
+        32,
+        298
+      ]
+    },
+    {
+      "class_id": 96,
+      "class_name": "platform",
+      "bbox": [
+        20,
+        294,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        0,
+        302,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        234
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        419,
+        0,
+        511,
+        76
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        199,
+        511,
+        443
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        96,
+        242,
+        200,
+        289
+      ]
+    }
+  ]
+}

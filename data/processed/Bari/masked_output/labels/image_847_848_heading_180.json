@@ -1,0 +1,105 @@
+{
+  "image": "image_847_848_heading_180.jpg",
+  "class_ids": [
+    32,
+    91,
+    100,
+    109,
+    115,
+    119,
+    123,
+    129
+  ],
+  "class_names": [
+    "sports ball",
+    "house",
+    "road",
+    "wall-brick",
+    "window-other",
+    "sky-other-merged",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 32,
+      "class_name": "sports ball",
+      "bbox": [
+        128,
+        342,
+        141,
+        361
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        129,
+        281,
+        351
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        294,
+        285,
+        471
+      ]
+    },
+    {
+      "class_id": 109,
+      "class_name": "wall-brick",
+      "bbox": [
+        283,
+        0,
+        315,
+        143
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        427,
+        223,
+        511,
+        442
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        284,
+        192
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        313,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        445
+      ]
+    }
+  ]
+}

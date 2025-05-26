@@ -1,0 +1,81 @@
+{
+  "image": "image_998_999_heading_90.jpg",
+  "class_ids": [
+    9,
+    58,
+    100,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "traffic light",
+    "potted plant",
+    "road",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 9,
+      "class_name": "traffic light",
+      "bbox": [
+        46,
+        213,
+        62,
+        226
+      ]
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        13,
+        276,
+        25,
+        279
+      ]
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        308,
+        428,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        253,
+        0,
+        403,
+        101
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        275,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        377
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "image": "image_272_273_heading_270.jpg",
+  "class_ids": [
+    2,
+    58,
+    86,
+    100,
+    117,
+    118,
+    123,
+    129,
+    131
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "door-stuff",
+    "road",
+    "fence-merged",
+    "ceiling-merged",
+    "pavement-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        340,
+        75,
+        471
+      ],
+      "caption": "describe the car in the image below"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        18,
+        0,
+        135,
+        178
+      ],
+      "caption": "describe the potted plant in the image above"
+    },
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        108,
+        282,
+        109,
+        284
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        48,
+        299,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        26,
+        118,
+        121,
+        162
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        38,
+        46,
+        45,
+        58
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        296,
+        511,
+        423
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        387
+      ],
+      "caption": "describe the building in the image above"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        311,
+        0,
+        511,
+        390
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

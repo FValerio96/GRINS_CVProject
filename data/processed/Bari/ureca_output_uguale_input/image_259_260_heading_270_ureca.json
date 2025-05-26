@@ -1,0 +1,139 @@
+{
+  "image": "image_259_260_heading_270.jpg",
+  "class_ids": [
+    90,
+    98,
+    100,
+    110,
+    116,
+    117,
+    119,
+    123,
+    126,
+    131
+  ],
+  "class_names": [
+    "gravel",
+    "railroad",
+    "road",
+    "wall-stone",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "pavement-merged",
+    "dirt-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        0,
+        290,
+        231,
+        471
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        94,
+        256,
+        264,
+        471
+      ],
+      "caption": "describe the railroad in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        102,
+        246,
+        511,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road in the picture"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        415,
+        5,
+        473,
+        48
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        60,
+        0,
+        511,
+        283
+      ],
+      "caption": "describe the tree in the image, you can see the road and the trees in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        226,
+        259,
+        331
+      ],
+      "caption": "describe the fence in the image"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        456,
+        249
+      ],
+      "caption": "describe the sky in the image above the picture, the sky is blue and the sky is white"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        403,
+        271,
+        511,
+        337
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        11,
+        375,
+        62,
+        403
+      ],
+      "caption": "describe the dirt in the image below"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        268,
+        244,
+        406
+      ],
+      "caption": "describe the wall in the image"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "image": "image_133_134_heading_180.jpg",
+  "class_ids": [
+    2,
+    58,
+    91,
+    100,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "car",
+    "potted plant",
+    "house",
+    "road",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 2,
+      "class_name": "car",
+      "bbox": [
+        0,
+        310,
+        511,
+        471
+      ],
+      "caption": "describe the car in the image"
+    },
+    {
+      "class_id": 58,
+      "class_name": "potted plant",
+      "bbox": [
+        112,
+        75,
+        511,
+        190
+      ],
+      "caption": "describe the potted plant in the image"
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        112,
+        75,
+        391,
+        161
+      ],
+      "caption": "describe the house in the image"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        424,
+        420,
+        471
+      ],
+      "caption": "describe the road in the image below"
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        55,
+        85,
+        511,
+        159
+      ],
+      "caption": "describe the window in the image below"
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        38,
+        328,
+        417,
+        426
+      ],
+      "caption": "describe the pavement in the image below"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        361
+      ],
+      "caption": "describe the building in the image, the building is painted with graffiti"
+    }
+  ]
+}

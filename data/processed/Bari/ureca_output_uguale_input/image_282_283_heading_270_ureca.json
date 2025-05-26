@@ -1,0 +1,100 @@
+{
+  "image": "image_282_283_heading_270.jpg",
+  "class_ids": [
+    90,
+    110,
+    116,
+    119,
+    124,
+    125,
+    126
+  ],
+  "class_names": [
+    "gravel",
+    "wall-stone",
+    "tree-merged",
+    "sky-other-merged",
+    "mountain-merged",
+    "grass-merged",
+    "dirt-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 90,
+      "class_name": "gravel",
+      "bbox": [
+        337,
+        380,
+        403,
+        471
+      ],
+      "caption": "describe the gravel in the image below"
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        0,
+        348,
+        113,
+        461
+      ],
+      "caption": "describe the wall in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        139,
+        511,
+        393
+      ],
+      "caption": "describe the tree in the image, you can see the olive trees in the olive trees are growing in the field"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        243
+      ],
+      "caption": "describe the sky in the image above the olive trees"
+    },
+    {
+      "class_id": 124,
+      "class_name": "mountain-merged",
+      "bbox": [
+        0,
+        225,
+        511,
+        471
+      ],
+      "caption": "describe the mountain in the image, you can see the road and the mountain"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        98,
+        263,
+        245,
+        399
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 126,
+      "class_name": "dirt-merged",
+      "bbox": [
+        135,
+        251,
+        346,
+        471
+      ],
+      "caption": "describe the dirt in the image below"
+    }
+  ]
+}

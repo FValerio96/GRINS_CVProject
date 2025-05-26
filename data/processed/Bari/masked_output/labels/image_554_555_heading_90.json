@@ -1,0 +1,57 @@
+{
+  "image": "image_554_555_heading_90.jpg",
+  "class_ids": [
+    114,
+    115,
+    123,
+    129
+  ],
+  "class_names": [
+    "window-blind",
+    "window-other",
+    "pavement-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 114,
+      "class_name": "window-blind",
+      "bbox": [
+        342,
+        0,
+        427,
+        5
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        322,
+        0,
+        474,
+        471
+      ]
+    },
+    {
+      "class_id": 123,
+      "class_name": "pavement-merged",
+      "bbox": [
+        0,
+        363,
+        137,
+        471
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

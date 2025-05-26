@@ -1,0 +1,113 @@
+{
+  "image": "image_31_32_heading_90.jpg",
+  "class_ids": [
+    3,
+    98,
+    100,
+    116,
+    117,
+    119,
+    125,
+    131
+  ],
+  "class_names": [
+    "motorcycle",
+    "railroad",
+    "road",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "grass-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 3,
+      "class_name": "motorcycle",
+      "bbox": [
+        509,
+        469,
+        511,
+        471
+      ],
+      "caption": "Too small region"
+    },
+    {
+      "class_id": 98,
+      "class_name": "railroad",
+      "bbox": [
+        218,
+        398,
+        310,
+        471
+      ],
+      "caption": "describe the railroad in the image below"
+    },
+    {
+      "class_id": 100,
+      "class_name": "road",
+      "bbox": [
+        0,
+        248,
+        291,
+        471
+      ],
+      "caption": "describe the road in the image, you can see the road and the sea"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        217,
+        507,
+        281
+      ],
+      "caption": "describe the tree in the image"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        271,
+        471,
+        471
+      ],
+      "caption": "describe the fence in the image, you can see the road and the road"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        254
+      ],
+      "caption": "describe the sky in the image above the photo, you can see the sky in the picture below the sky is blue"
+    },
+    {
+      "class_id": 125,
+      "class_name": "grass-merged",
+      "bbox": [
+        214,
+        240,
+        511,
+        471
+      ],
+      "caption": "describe the grass in the image"
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        40,
+        280,
+        91,
+        301
+      ],
+      "caption": "describe the wall in the image below"
+    }
+  ]
+}

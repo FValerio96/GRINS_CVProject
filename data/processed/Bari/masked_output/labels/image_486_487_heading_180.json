@@ -1,0 +1,45 @@
+{
+  "image": "image_486_487_heading_180.jpg",
+  "class_ids": [
+    86,
+    91,
+    119
+  ],
+  "class_names": [
+    "door-stuff",
+    "house",
+    "sky-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        166,
+        224,
+        401,
+        471
+      ]
+    },
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        0,
+        160,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        182
+      ]
+    }
+  ]
+}

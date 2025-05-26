@@ -1,0 +1,81 @@
+{
+  "image": "image_520_521_heading_180.jpg",
+  "class_ids": [
+    86,
+    101,
+    110,
+    115,
+    119,
+    129
+  ],
+  "class_names": [
+    "door-stuff",
+    "roof",
+    "wall-stone",
+    "window-other",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 86,
+      "class_name": "door-stuff",
+      "bbox": [
+        17,
+        467,
+        35,
+        471
+      ]
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        268,
+        145,
+        492,
+        195
+      ]
+    },
+    {
+      "class_id": 110,
+      "class_name": "wall-stone",
+      "bbox": [
+        454,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        7,
+        251,
+        65,
+        459
+      ]
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        285,
+        0,
+        398,
+        162
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        511,
+        471
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "image": "image_440_441_heading_0.jpg",
+  "class_ids": [
+    91,
+    101,
+    106,
+    116,
+    117,
+    119,
+    129
+  ],
+  "class_names": [
+    "house",
+    "roof",
+    "stairs",
+    "tree-merged",
+    "fence-merged",
+    "sky-other-merged",
+    "building-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 91,
+      "class_name": "house",
+      "bbox": [
+        286,
+        0,
+        511,
+        471
+      ],
+      "caption": "describe the house in the image above"
+    },
+    {
+      "class_id": 101,
+      "class_name": "roof",
+      "bbox": [
+        0,
+        0,
+        370,
+        204
+      ],
+      "caption": "describe the roof in the image above"
+    },
+    {
+      "class_id": 106,
+      "class_name": "stairs",
+      "bbox": [
+        245,
+        280,
+        323,
+        363
+      ],
+      "caption": "describe the stairs in the image below"
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        60,
+        311,
+        433
+      ],
+      "caption": "describe the tree in the image, you can see the tree in the picture"
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        0,
+        337,
+        417,
+        471
+      ],
+      "caption": "describe the fence in the image below"
+    },
+    {
+      "class_id": 119,
+      "class_name": "sky-other-merged",
+      "bbox": [
+        0,
+        0,
+        340,
+        204
+      ],
+      "caption": "describe the sky in the image above the house"
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        275,
+        13,
+        367,
+        211
+      ],
+      "caption": "describe the building in the image"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "image": "image_502_503_heading_180.jpg",
+  "class_ids": [
+    115,
+    116,
+    117,
+    118,
+    129,
+    131
+  ],
+  "class_names": [
+    "window-other",
+    "tree-merged",
+    "fence-merged",
+    "ceiling-merged",
+    "building-other-merged",
+    "wall-other-merged"
+  ],
+  "regions": [
+    {
+      "class_id": 115,
+      "class_name": "window-other",
+      "bbox": [
+        0,
+        72,
+        395,
+        206
+      ]
+    },
+    {
+      "class_id": 116,
+      "class_name": "tree-merged",
+      "bbox": [
+        0,
+        356,
+        231,
+        471
+      ]
+    },
+    {
+      "class_id": 117,
+      "class_name": "fence-merged",
+      "bbox": [
+        165,
+        0,
+        511,
+        471
+      ]
+    },
+    {
+      "class_id": 118,
+      "class_name": "ceiling-merged",
+      "bbox": [
+        0,
+        0,
+        491,
+        179
+      ]
+    },
+    {
+      "class_id": 129,
+      "class_name": "building-other-merged",
+      "bbox": [
+        0,
+        0,
+        505,
+        471
+      ]
+    },
+    {
+      "class_id": 131,
+      "class_name": "wall-other-merged",
+      "bbox": [
+        0,
+        121,
+        511,
+        471
+      ]
+    }
+  ]
+}
