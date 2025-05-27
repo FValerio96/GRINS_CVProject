@@ -4,7 +4,8 @@ import torch
 from PIL import Image
 from pathlib import Path
 from tqdm import tqdm
-from transformers import BlipProcessor, BlipForConditionalGeneration
+#from transformers import BlipProcessor, BlipForConditionalGeneration
+from transformers import AutoProcessor, LlavaForConditionalGeneration
 
 # This dictionary provides cleaner and more natural language alternatives
 # to class names extracted from the Mask2Former segmentation model.
@@ -45,10 +46,21 @@ label_natural = {
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Model and processor (non quantized - linux required)
+'''
 processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
 model = BlipForConditionalGeneration.from_pretrained(
     "Salesforce/blip-image-captioning-base"
 ).to(device)
+'''
+#Loading Llava
+processor = AutoProcessor.from_pretrained("llava-hf/llava-1.5-7b-hf")
+model = LlavaForConditionalGeneration.from_pretrained(
+    "llava-hf/llava-1.5-7b-hf",
+    torch_dtype=torch.float16,
+    device_map="auto"
+)
+
+
 model.eval()
 
 def generate_caption(crop: Image.Image, class_name: str):
@@ -72,13 +84,18 @@ def generate_caption(crop: Image.Image, class_name: str):
     str
         A caption describing the region, based on both image and class context.
     """
-    #giving the class name as a prompt
-    inputs = processor(images=crop, text=class_name,  return_tensors="pt").to(device)
+    prompt = f"Describe the {class_name} in the image"
+    inputs = processor(images=crop, text=prompt,  return_tensors="pt").to(device)
     with torch.no_grad():
         output = model.generate(**inputs, max_new_tokens=20)
-    caption = processor.decode(output[0], skip_special_tokens=True)
+    caption = processor.tokenizer.decode(output[0], skip_special_tokens=True)
     return caption
 
+'''
+in the json output of M2F we have for each region a class name and a bbox
+Llava will use a croped region made by using bbox
+and a driven prompt made by the class_name of the region.
+'''
 def run_ureca_on_segmented_data(root_dir: str, city_name: str, test:bool):
     """
     Processes each *_labels.json file, generates captions for each valid region,
@@ -95,7 +112,7 @@ def run_ureca_on_segmented_data(root_dir: str, city_name: str, test:bool):
     else:
         label_files = all_label_files
 
-    for label_file in tqdm(sorted(labels_dir.glob("*.json")), desc=f"Processing {city_name}"):
+    for label_file in tqdm(label_files, desc=f"Processing {city_name}"):
         #if already processed, skip.
         out_path = output_dir / label_file.name.replace(".json", "_ureca.json")
         if out_path.exists():
@@ -127,6 +144,7 @@ def run_ureca_on_segmented_data(root_dir: str, city_name: str, test:bool):
                     crop = image.crop((x1, y1, x2, y2))
                     try:
                         class_name = label_natural.get(region["class_name"], region["class_name"])
+                        #we are modifying data by adding for each region the generated caption.
                         region["caption"] = generate_caption(crop, class_name)
                         valid_region_found = True
                     except Exception as e:
