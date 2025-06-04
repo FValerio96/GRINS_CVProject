@@ -133,7 +133,7 @@ def process_batch(model, batch, color_mapping, macro_mapping, device, processor,
         # Salva maschera grezza (.npy)
         mask_save_dir = os.path.join(output_folder, "masks")
         os.makedirs(mask_save_dir, exist_ok=True)
-        mask_filename = os.path.basename(image_path).replace(".png", "_mask.npy")
+        mask_filename = os.path.basename(image_path).replace(".jpg", "_mask.npy")
         np.save(os.path.join(mask_save_dir, mask_filename), mask)
 
         # Classi presenti
@@ -211,10 +211,10 @@ def update_csv_data(image_paths, blended_images, pixel_distributions, output_fol
 @app.command()
 def main(
         excel_file_path: Path = EXTERNAL_DATA_DIR / "macro_classes_with_colors.xlsx",
-        image_path: Path = PROCESSED_DATA_DIR / "cityscapes_subset",
+        image_path: Path = PROCESSED_DATA_DIR / "Bari",
 ):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    angle_dirs = None  # immagini in cartella flat, senza sottocartelle
+    angle_dirs = ['0', '90', '180', '270']  # immagini in cartella flat, senza sottocartelle
 
     if image_path.exists():
         output_folder = image_path / 'masked_output'
@@ -270,5 +270,20 @@ def main(
                                   image_path / "output_with_coordinates.csv")
     '''
 
+
+def print_all_classes(model):
+    id2label = model.config.id2label
+    print(f"Totale classi disponibili: {len(id2label)}")
+    for class_id in sorted(id2label):
+        print(f"{class_id:3d}: {id2label[class_id]}")
+
+
 if __name__ == "__main__":
-    app()
+    #app()
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model = Mask2FormerForUniversalSegmentation.from_pretrained(
+        "facebook/mask2former-swin-small-coco-panoptic"
+    ).to(device)
+
+    print_all_classes(model)
+
